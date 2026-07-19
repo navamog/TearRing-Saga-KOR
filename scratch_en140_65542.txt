@@ -1,0 +1,37 @@
+0: 'Lord Alfred...'
+1: 'Alicia...'
+2: ' Why did you leave my side?'
+3: 'Are you still troubled by your'
+4: "mother's passing?"
+5: 'No,'
+6: " it wasn't that."
+7: 'I just needed to understand...'
+8: "To understand why you couldn't love her..."
+9: 'Why you were always so secretive...'
+10: 'I needed to know who you really were.'
+11: 'And'
+12: ' did you find the answers you sought?'
+13: 'Yes, I did...'
+14: 'I learned about your wife and children,'
+15: 'how they were still waiting for you.'
+16: "I realized how torn you must've been inside..."
+17: "And so I'm trying to forgive you,"
+18: ' but...'
+19: 'I see...'
+20: 'I wish I could live in a world where I'
+21: 'loved you as my own daughter...'
+22: "But I'm afraid it just isn't possible."
+23: 'Alicia,'
+24: ' about Nina...'
+25: 'Stop it!'
+26: "Don't talk about my mother!"
+27: 'If you insist...'
+28: 'But at the very least,'
+29: ' I want you to have this.'
+30: "It's Sylph,"
+31: ' my own wind magic.'
+32: 'Sylph!?'
+33: 'But why would you...'
+34: 'Think of it as a memento from me.'
+35: "It's about all I can do for you now..."
+36: '......'

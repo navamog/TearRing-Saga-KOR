@@ -1,0 +1,9 @@
+SPK: [363]
+--JP segs--
+0: 'レオンハ－ト公……'
+1: '\n我が主君の命により\nこのブラ－ドを返していただく!'
+--EN runs--
+0: 'Lord Lionheart...'
+1: 'My apologies,'
+2: ' but I have my orders!'
+3: 'I shall reclaim Blaad!'

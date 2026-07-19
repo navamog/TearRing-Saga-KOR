@@ -1,0 +1,33 @@
+SPK: [295, 363]
+--JP segs--
+0: 'ザカリア将軍'
+1: '\n北西方面より新たな敵が現れました!'
+2: 'なに!？'
+3: '\nセルバからの援軍がもうやってきたのか!？'
+4: 'いえ､そうではありません'
+5: '\n敵部隊はリグリア方面から\n南下してきたもようです'
+6: 'くっ……'
+7: '例の戦士隊か……'
+8: 'まずいな'
+9: '\n部隊の半分を守備に回して守りを固めよ'
+10: '\nアハブ大公に救援を求める'
+11: '\nサリア古城から増援部隊が来るまで\n何としても持ちこたえるのだ'
+12: 'はっ､ザカリア将軍!'
+--EN runs--
+0: 'General Zachariah,'
+1: ' more enemy forces'
+2: 'have arrived to the northwest!'
+3: "It can't be!"
+4: 'Selba has sent reinforcements already?!'
+5: "That doesn't seem to be the case, sir."
+6: 'These forces came from the direction of'
+7: 'Fort Ligria and are heading south to us.'
+8: 'It must be that troublesome band of'
+9: 'mercenaries the rebels have hired...'
+10: 'Order half of our troops to focus on defense'
+11: 'to reinforce the guard!'
+12: 'I will send a messenger to the Viceroy.'
+13: 'We will have to hold out until he is able'
+14: 'to send us reinforcements from Castle Salia.'
+15: 'Understood,'
+16: ' General!'

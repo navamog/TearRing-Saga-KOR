@@ -1,0 +1,109 @@
+0	HOLMES	'Katri,'
+1	HOLMES	" what do you think you're doing?"
+2	KATRI	'This man is still breathing,'
+3	KATRI	"so I'm going to help him."
+4	HOLMES	"That's the enemy commander,"
+5	HOLMES	' Katri.'
+6	HOLMES	'Just leave him.'
+7	KATRI	"Don't disturb me, Holmes!"
+8	KATRI	" I'm focusing!"
+9	KATRI	"It'll only take a second,"
+10	KATRI	' I promise.'
+11	HOLMES	'You idiot girl...'
+12	KATRI	'O Goddess Yutona...'
+13	KATRI	'Have pity on this man...'
+14	KNIGHT	'Uugh...'
+15	KATRI	'Yay,'
+16	KATRI	' he woke up!'
+17	KNIGHT	'Who are you...?'
+18	KNIGHT	'Why did you help me?'
+19	KATRI	"It wasn't my idea."
+20	KATRI	'It was the will of the Goddess.'
+21	KNIGHT	'T'
+22	KNIGHT	'-That birthmark...!'
+23	KNIGHT	'Princess Maria?!'
+24	KNIGHT	'Thank the Goddess you survived...'
+25	KATRI	'Maria?'
+26	KATRI	" Who's that?"
+27	KNIGHT	'You are she,'
+28	KNIGHT	' milady!'
+29	KNIGHT	'Princess Maria of Salia!'
+30	KNIGHT	'That Brand of Yutona that you bear'
+31	KNIGHT	'is unmistakable proof!'
+32	KATRI	'My birthmark is'
+33	KATRI	' the Brand of Yutona...?'
+34	KATRI	'Holmes did say I must be a descendant'
+35	KATRI	'of the holy bloodline...'
+36	KNIGHT	'Fifteen years ago,'
+37	KNIGHT	' I was a royal guardsman'
+38	KNIGHT	"serving under King Dagnell's brother Ahab."
+39	KNIGHT	'When you were born,'
+40	KNIGHT	' Princess Maria,'
+41	KNIGHT	' the king'
+42	KNIGHT	'and queen were overjoyed,'
+43	KNIGHT	' but Ahab saw'
+44	KNIGHT	'your brand and called you a demon.'
+45	KNIGHT	'He ordered me to kill the newborn princess'
+46	KNIGHT	'to prevent another catastrophe like Kranion.'
+47	KNIGHT	'I took you from your crib and brought'
+48	KNIGHT	'you into the forest,'
+49	KNIGHT	" but I couldn't do it."
+50	KNIGHT	'Instead,'
+51	KNIGHT	' I stole the Ring of Salia and'
+52	KNIGHT	'left you and it in the care of a priest'
+53	KNIGHT	'who promised he would take you far away.'
+54	KNIGHT	"But now you've returned here,"
+55	KNIGHT	'to your homeland of Salia...'
+56	KNIGHT	'Could this truly be a sign from the Goddess?'
+57	KNIGHT	'No...'
+58	KNIGHT	' My sins are beyond redemption.'
+59	KNIGHT	'Forgive me,'
+60	KNIGHT	' Princess Maria...'
+61	KNIGHT	"When Ahab's machinations were found out,"
+62	KNIGHT	'I assisted in his plot to usurp the throne and'
+63	KNIGHT	'bring an end to the rightful House of Salia...'
+64	HOLMES	'Katri--?!'
+65	HOLMES	'Thank goodness,'
+66	HOLMES	" she's only fainted..."
+67	HOLMES	'...'
+68	HOLMES	"You're a monster,"
+69	HOLMES	' you know that?'
+70	HOLMES	"Katri's a delicate girl."
+71	HOLMES	"She's been praying and hoping for years that"
+72	HOLMES	"one day she'd reunite with her birth parents."
+73	HOLMES	'That was the dream that drove her...'
+74	HOLMES	' and you'
+75	HOLMES	'crushed it without a second thought!'
+76	KNIGHT	'My apologies.'
+77	KNIGHT	"I should've phrased that more carefully..."
+78	KNIGHT	'The king and queen ARE still alive.'
+79	HOLMES	'They are?!'
+80	KNIGHT	'When Ahab first took the king and queen'
+81	KNIGHT	'prisoner in his plot to steal the throne,'
+82	KNIGHT	'he planned to execute them.'
+83	KNIGHT	"That's when I made my decision to fight"
+84	KNIGHT	'my liege and defend the true king.'
+85	KNIGHT	'I refused to let him execute them.'
+86	KNIGHT	'But in my actions he saw a weakness,'
+87	KNIGHT	'and he has kept them secretly imprisoned'
+88	KNIGHT	'for years in order to control my loyalty.'
+89	KNIGHT	"They're being held in a hidden cell in the"
+90	KNIGHT	'dungeons of Castle Salia.'
+91	KNIGHT	'But it would be impossible to get them out'
+92	KNIGHT	'without first gaining control of the castle.'
+93	KNIGHT	'I beg of you,'
+94	KNIGHT	' please save them!'
+95	KNIGHT	'Now that I have been defeated,'
+96	KNIGHT	' Ahab will'
+97	KNIGHT	'certainly expel me as a failure,'
+98	KNIGHT	" so it won't"
+99	KNIGHT	'be long before he decides the king and queen'
+100	KNIGHT	"aren't useful to him anymore,"
+101	KNIGHT	' either.'
+102	KNIGHT	'I have dreamed of a moment like this'
+103	KNIGHT	'for fifteen agonizing years.'
+104	KNIGHT	'Please,'
+105	KNIGHT	' allow me to join you!'
+106	KNIGHT	'Let me redeem myself as a knight of Salia!'
+107	HOLMES	'I'
+108	HOLMES	'-I need a minute to think...'

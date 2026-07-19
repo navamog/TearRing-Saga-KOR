@@ -1,0 +1,3526 @@
+=== 019E count= 707
+  /MB1/MB100.MES 5 2 'Are you all right,'
+  /MB1/MB100.MES 5 3 ' Holmes?'
+  /MB1/MB100.MES 5 4 "You're not hurt,"
+  /MB1/MB100.MES 5 5 ' are you?'
+  /MB1/MB100.MES 5 12 'Good.'
+  /MB1/MB100.MES 5 13 "Don't push yourself too hard,"
+  /MB1/MB100.MES 5 14 ' okay?'
+  /MB1/MB100.MES 5 19 'If you say so...'
+  /MB1/MB100.MES 7 44 'D'
+  /MB1/MB100.MES 7 45 "-Do you really think I'm annoying?"
+  /MB1/MB101.MES 0 3 "It's so awful..."
+  /MB1/MB101.MES 0 4 'Is this really where the mogall queen is?'
+  /MB1/MB101.MES 0 12 'Holmes,'
+  /MB1/MB101.MES 0 13 " you're scaring me..."
+  /MB1/MB101.MES 65538 0 'Holmes,'
+  /MB1/MB101.MES 65538 1 " what's this staff?"
+  /MB1/MB101.MES 65538 11 'Hmm,'
+  /MB1/MB101.MES 65538 12 ' I wonder...'
+  /MB1/MB101.MES 65538 13 'Well,'
+  /MB1/MB101.MES 65538 14 " I'll try my best."
+  /MB1/MB101.MES 65538 15 'I want to be helpful to you all.'
+  /MB1/MB101.MES 65538 18 'Holmes,'
+  /MB1/MB101.MES 65538 19 ' do you really mean that...?'
+  /MB1/MB101.MES 65538 24 'Holmes...!'
+  /MB1/MB101.MES 65538 25 'Why are you always so mean?!'
+  /MB1/MB102.MES 1 2 "There's a boy up there surrounded by pirates!"
+  /MB1/MB102.MES 1 3 'Holmes,'
+  /MB1/MB102.MES 1 4 ' you have to save him!'
+  /MB1/MB102.MES 1 7 'Holmes!'
+  /MB1/MB102.MES 1 13 'I think Shigen said his name was Maerchen.'
+  /MB1/MB102.MES 3 0 'Are you feeling better?'
+  /MB1/MB102.MES 3 1 'I think I used the staff correctly this time...'
+  /MB1/MB102.MES 3 4 "I'm Katri."
+  /MB1/MB102.MES 3 5 'I was a priestess at a temple in Mahl,'
+  /MB1/MB102.MES 3 6 "but now I'm traveling with my friends here."
+  /MB1/MB102.MES 3 7 'What about you?'
+  /MB1/MB102.MES 3 13 "I'm an orphan, too."
+  /MB1/MB102.MES 3 14 'I was adopted by Bishop Law,'
+  /MB1/MB102.MES 3 15 ' and I was'
+  /MB1/MB102.MES 3 16 'traveling with him until...'
+  /MB1/MB102.MES 3 17 'Well,'
+  /MB1/MB102.MES 3 18 ' anyway,'
+  /MB1/MB102.MES 3 19 ' what about you?'
+  /MB1/MB102.MES 3 28 "It'll be all right, Attrom!"
+  /MB1/MB102.MES 3 29 " You'll see!"
+  /MB1/MB102.MES 3 30 "I'm sure that she'll be just fine!"
+  /MB1/MB102.MES 3 38 'Attrom...'
+  /MB1/MB102.MES 3 49 'Do you really mean that, Holmes?!'
+  /MB1/MB102.MES 3 55 'Maerchen?'
+  /MB1/MB105.MES 3 0 'Aah...'
+  /MB1/MB105.MES 3 1 "I can't go on..."
+  /MB1/MB105.MES 3 2 'O Goddess Yutona...'
+  /MB1/MB105.MES 3 3 'Please, grant me your strength...'
+  /MB1/MB106.MES 4 3 'Oh,'
+  /MB1/MB106.MES 4 4 ' I was,'
+  /MB1/MB106.MES 4 5 ' um...'
+  /MB1/MB106.MES 4 10 'He was still breathing, so I...'
+  /MB1/MB106.MES 4 11 "I couldn't just leave him."
+  /MB1/MB106.MES 4 14 'Stop,'
+  /MB1/MB106.MES 4 15 ' Holmes!'
+  /MB1/MB106.MES 4 16 'I think this is a sign of forgiveness'
+  /MB1/MB106.MES 4 17 'from the Goddess!'
+  /MB1/MB106.MES 4 18 "We can't kill him!"
+  /MB1/MB106.MES 4 24 'But...'
+  /MB1/MB106.MES 5 4 'Huh...?'
+  /MB1/MB106.MES 5 7 'I can...'
+  /MB1/MB106.MES 5 8 ' help him?'
+  /MB1/MB106.MES 5 11 'Holmes...'
+  /MB1/MB106.MES 5 12 ' thank you...'
+  /MB1/MB110.MES 0 0 'Mother?'
+  /MB1/MB110.MES 0 1 ' Are you out here?'
+  /MB1/MB110.MES 3 0 'No!'
+  /MB1/MB110.MES 3 1 " Please don't hurt her!"
+  /MB1/MB110.MES 3 2 "I'll do whatever you ask!"
+  /MB1/MB110.MES 6 0 'Aaah...'
+  /MB1/MB110.MES 6 1 ' Holmes...'
+  /MB1/MB111.MES 1 4 'Yes,'
+  /MB1/MB111.MES 1 5 " I'm fine..."
+  /MB1/MB111.MES 1 6 'But how long will these battles continue...?'
+  /MB1/MB111.MES 19 9 'No, thank you...'
+  /MB1/MB111.MES 19 10 "I'm not really interested..."
+  /MB1/MB112.MES 0 0 'Holmes...'
+  /MB1/MB112.MES 1 3 'Yes.'
+  /MB1/MB112.MES 1 4 "I'd like to go back to town, though..."
+  /MB1/MB112.MES 3 3 'They think we are enemies.'
+  /MB1/MB112.MES 3 4 'Holmes,'
+  /MB1/MB112.MES 3 5 ' please...'
+  /MB1/MB112.MES 3 6 "Don't hurt them."
+  /MB1/MB112.MES 5 5 'Holmes...'
+  /MB1/MB112.MES 6 5 'R'
+  /MB1/MB112.MES 6 6 '-Right...!'
+  /MB1/MB112.MES 7 0 'Are we in the Valley of Leda now?'
+  /MB1/MB112.MES 7 10 'What war?'
+  /MB1/MB112.MES 7 35 'Oh,'
+  /MB1/MB112.MES 7 36 ' wow...'
+  /MB1/MB112.MES 7 43 'The Witch Dragon...'
+  /MB1/MB112.MES 7 44 "So I'm..."
+  /MB1/MB112.MES 7 45 ' like her...?'
+  /MB1/MB112.MES 8 3 'H'
+  /MB1/MB112.MES 8 4 '-Holmes...?'
+  /MB1/MB112.MES 8 5 'What was that noise?'
+  /MB1/MB113.MES 0 2 'Holmes,'
+  /MB1/MB113.MES 0 3 ' what is that...?'
+  /MB1/MB113.MES 0 8 'A guardian dragon,'
+  /MB1/MB113.MES 0 9 ' just like me...'
+  /MB1/MB113.MES 0 18 'But how...?'
+  /MB1/MB113.MES 0 19 "She's human,"
+  /MB1/MB113.MES 0 20 " isn't she?"
+  /MB1/MB113.MES 0 25 '...Should we run away?'
+  /MB1/MB113.MES 4 4 "They must've been some special people."
+  /MB1/MB113.MES 4 5 'They had lots of soldiers with them.'
+  /MB1/MB113.MES 4 6 'Maybe one of them was a king?'
+  /MB1/MB113.MES 4 13 'Hey,'
+  /MB1/MB113.MES 4 14 ' Holmes?'
+  /MB1/MB113.MES 4 15 'About Kranion,'
+  /MB1/MB113.MES 4 16 ' I think she...'
+  /MB1/MB113.MES 4 19 'Sorry...'
+  /MB1/MB113.MES 65542 2 'Holmes,'
+  /MB1/MB113.MES 65542 3 ' what is that...?'
+  /MB1/MB113.MES 65542 8 'A guardian dragon,'
+  /MB1/MB113.MES 65542 9 ' just like me...'
+  /MB1/MB113.MES 65542 18 'But how...?'
+  /MB1/MB113.MES 65542 19 "She's human,"
+  /MB1/MB113.MES 65542 20 " isn't she?"
+  /MB1/MB113.MES 65542 25 '...Should we run away?'
+  /MB1/MB115.MES 0 6 '...Maerchen.'
+  /MB1/MB115.MES 1 13 'Mr. Maerchen, please stop!'
+  /MB1/MB115.MES 1 14 "I'll trade places with your prisoner,"
+  /MB1/MB115.MES 1 15 'so please release her!'
+  /MB1/MB115.MES 5 2 'I know,'
+  /MB1/MB115.MES 5 3 ' but...'
+  /MB1/MB115.MES 5 7 'I understand...'
+  /MB1/MB115.MES 5 11 '......'
+  /MB1/MB115.MES 6 4 'Attrom, please...'
+  /MB1/MB115.MES 6 5 "You can't keep tormenting yourself like this."
+  /MB1/MB115.MES 6 40 'You can do it, Holmes!'
+  /MB1/MB115.MES 6 41 "We'll march right up to that palace"
+  /MB1/MB115.MES 6 42 "and show that Kranion who's boss!"
+  /MB1/MB115.MES 7 27 'Hi, Miss Krishna!'
+  /MB1/MB115.MES 7 28 " I'm Katri!"
+  /MB1/MB115.MES 7 29 "Let's be good friends!"
+  /MB1/MB115.MES 8 11 'Hi, Miss Krishna!'
+  /MB1/MB115.MES 8 12 " I'm Katri!"
+  /MB1/MB115.MES 8 13 "Let's be good friends!"
+  /MB1/MB12.MES 3 0 'Holmes...'
+  /MB1/MB12.MES 3 1 'Please,'
+  /MB1/MB12.MES 3 2 ' open your eyes...!'
+  /MB1/MB121.MES 2 2 'This man is still breathing,'
+  /MB1/MB121.MES 2 3 "so I'm going to help him."
+  /MB1/MB121.MES 2 7 "Don't disturb me, Holmes!"
+  /MB1/MB121.MES 2 8 " I'm focusing!"
+  /MB1/MB121.MES 2 9 "It'll only take a second,"
+  /MB1/MB121.MES 2 10 ' I promise.'
+  /MB1/MB121.MES 2 12 'O Goddess Yutona...'
+  /MB1/MB121.MES 2 13 'Have pity on this man...'
+  /MB1/MB121.MES 2 15 'Yay,'
+  /MB1/MB121.MES 2 16 ' he woke up!'
+  /MB1/MB121.MES 2 19 "It wasn't my idea."
+  /MB1/MB121.MES 2 20 'It was the will of the Goddess.'
+  /MB1/MB121.MES 2 25 'Maria?'
+  /MB1/MB121.MES 2 26 " Who's that?"
+  /MB1/MB121.MES 2 37 'You gave this to me?!'
+  /MB1/MB122.MES 1 5 'Holmes...'
+  /MB1/MB122.MES 1 12 'It all just seems so unreal...'
+  /MB1/MB122.MES 1 13 "I'll finally be able to meet my real parents..."
+  /MB1/MB122.MES 1 14 "And it's all thanks to you,"
+  /MB1/MB122.MES 1 15 ' Holmes!'
+  /MB1/MB122.MES 1 16 'Thank you so much for everything!'
+  /MB1/MB122.MES 1 24 'I know that,'
+  /MB1/MB122.MES 1 25 ' but still...'
+  /MB1/MB122.MES 1 26 'Thank you,'
+  /MB1/MB122.MES 1 27 ' Holmes.'
+  /MB1/MB122.MES 3 13 "I'm here!"
+  /MB1/MB122.MES 3 20 "Don't say that,"
+  /MB1/MB122.MES 3 21 ' Holmes!'
+  /MB1/MB122.MES 3 22 "You're scaring me!"
+  /MB1/MB122.MES 3 28 'Okay...'
+  /MB1/MB122.MES 3 55 'Y'
+  /MB1/MB122.MES 3 56 '-Your Majesties...?'
+  /MB1/MB122.MES 3 57 'I was raised with the name Katri,'
+  /MB1/MB122.MES 3 58 ' but...'
+  /MB1/MB122.MES 3 59 "I've been told my real name is Maria..."
+  /MB1/MB135.MES 2 3 'Huh?'
+  /MB1/MB135.MES 2 4 ' But why me?'
+  /MB1/MB135.MES 2 5 "I don't know anything about soldiers..."
+  /MB1/MB135.MES 2 10 'Okay,'
+  /MB1/MB135.MES 2 11 " I'll do my best..."
+  /MB1/MB135.MES 3 11 'He has really kind eyes...'
+  /MB1/MB135.MES 3 12 "I think he'd be a good friend."
+  /MB1/MB135.MES 3 16 "I don't think he would like working for you."
+  /MB1/MB135.MES 3 17 'You would bully him too much.'
+  /MB1/MB135.MES 4 7 'He seems really passionate.'
+  /MB1/MB135.MES 4 8 "I think he'd be a good fighter."
+  /MB1/MB135.MES 5 10 '......'
+  /MB1/MB135.MES 5 14 'A'
+  /MB1/MB135.MES 5 15 '-Ah!'
+  /MB1/MB135.MES 5 16 ' Sorry,'
+  /MB1/MB135.MES 5 17 ' Holmes...'
+  /MB1/MB135.MES 5 18 'Father Lee just reminded me of'
+  /MB1/MB135.MES 5 19 'the bishop who raised me...'
+  /MB1/MB135.MES 6 8 'He looks really strong...'
+  /MB1/MB135.MES 6 9 "But he's also a nice person."
+  /MB1/MB135.MES 65543 7 "I think he's good."
+  /MB1/MB135.MES 65543 10 'Not really.'
+  /MB1/MB136.MES 65545 0 'Holmes,'
+  /MB1/MB136.MES 65545 1 ' the mayor of this town'
+  /MB1/MB136.MES 65545 2 'wants to see you.'
+  /MB1/MB137.MES 0 2 'The breeze is so nice...'
+  /MB1/MB137.MES 0 5 'The sky is so clear and blue!'
+  /MB1/MB137.MES 0 6 'The birds must love it here.'
+  /MB1/MB137.MES 0 20 'Just look at all the pretty wildflowers!'
+  /MB1/MB137.MES 0 21 "Don't step on them, Holmes!"
+  /MB1/MB137.MES 0 22 "You'll hurt them!"
+  /MB1/MB137.MES 1 2 'The breeze is so nice...'
+  /MB1/MB137.MES 1 5 'The sky is so clear and blue!'
+  /MB1/MB137.MES 1 6 'The birds must love it here.'
+  /MB1/MB137.MES 1 7 'And just look at all the pretty wildflowers!'
+  /MB1/MB137.MES 1 8 "Don't step on them, Holmes!"
+  /MB1/MB137.MES 1 9 "You'll hurt them!"
+  /MB1/MB139.MES 0 0 'Noble Yutona,'
+  /MB1/MB139.MES 0 1 ' please forgive me...'
+  /MB1/MB139.MES 0 2 'I am...'
+  /MB1/MB139.MES 0 3 'Aah...'
+  /MB1/MB141.MES 2 2 'This man is still breathing,'
+  /MB1/MB141.MES 2 3 "so I'm going to help him."
+  /MB1/MB141.MES 2 7 "Don't disturb me, Holmes!"
+  /MB1/MB141.MES 2 8 " I'm focusing!"
+  /MB1/MB141.MES 2 9 "It'll only take a second,"
+  /MB1/MB141.MES 2 10 ' I promise.'
+  /MB1/MB141.MES 2 12 'O Goddess Yutona...'
+  /MB1/MB141.MES 2 13 'Have pity on this man...'
+  /MB1/MB141.MES 2 15 'Yay,'
+  /MB1/MB141.MES 2 16 ' he woke up!'
+  /MB1/MB141.MES 2 19 "It wasn't my idea."
+  /MB1/MB141.MES 2 20 'It was the will of the Goddess.'
+  /MB1/MB141.MES 2 25 'Maria?'
+  /MB1/MB141.MES 2 26 " Who's that?"
+  /MB1/MB141.MES 2 32 'My birthmark is'
+  /MB1/MB141.MES 2 33 ' the Brand of Yutona...?'
+  /MB1/MB141.MES 2 34 'Holmes did say I must be a descendant'
+  /MB1/MB141.MES 2 35 'of the holy bloodline...'
+  /MB1/MB56.MES 7 0 "You still won't be happy."
+  /MB1/MB56.MES 8 2 "You're a human being."
+  /MB1/MB56.MES 8 3 'Even if you gain immortality,'
+  /MB1/MB56.MES 8 4 " you can't"
+  /MB1/MB56.MES 8 5 "change the fact that you're still human."
+  /MB1/MB56.MES 8 6 'Your heart will not change.'
+  /MB1/MB56.MES 8 7 'How can you call it eternal?'
+  /MB1/MB56.MES 8 8 'Love is honorable because we devote the'
+  /MB1/MB56.MES 8 9 'precious time we have to others.'
+  /MB1/MB56.MES 8 10 'It is because life is fleeting that'
+  /MB1/MB56.MES 8 11 'love is worthwhile.'
+  /MB1/MB56.MES 8 12 'But with an immortal body,'
+  /MB1/MB56.MES 8 13 ' how can'
+  /MB1/MB56.MES 8 14 'you call what you feel love?'
+  /MB1/MB56.MES 8 15 "What is it that you've gained?"
+  /MB1/MB56.MES 8 16 'Nothing.'
+  /MB1/MB56.MES 8 17 ' You lose everything.'
+  /MB1/MB56.MES 8 18 'Even your love will fade away.'
+  /MB1/MB56.MES 8 19 'Is that what you want?'
+  /MB1/MB56.MES 65545 3 'Holmes...'
+  /MB1/MB56.MES 65545 4 'I wanted to see you one last time...'
+  /MB1/MB57.MES 0 0 'Aaahh...'
+  /MB1/MB6.MES 5 0 'Where am I...?'
+  /MB1/MB6.MES 5 1 'Help me...'
+  /MB1/MB6.MES 5 2 ' Xeno...'
+  /MB1/MB6.MES 65545 2 'Xeno!'
+  /MB1/MB6.MES 65545 3 'You came for me!'
+  /MB1/MB6.MES 65545 4 'What...'
+  /MB1/MB6.MES 65545 5 'What happened to me, Xeno?'
+  /MB1/MB75.MES 4 0 'Holmes?'
+  /MB1/MB75.MES 6 0 'Holmes,'
+  /MB1/MB75.MES 6 1 ' am I...'
+  /MB1/MB75.MES 6 2 'Am I alive...?'
+  /MB1/MB75.MES 6 6 'S'
+  /MB1/MB75.MES 6 7 '-Sorry...'
+  /MB1/MB75.MES 6 8 'Holmes,'
+  /MB1/MB75.MES 6 9 ' are you...'
+  /MB1/MB75.MES 6 10 ' crying...?'
+  /MB1/MB75.MES 6 15 'Oh,'
+  /MB1/MB75.MES 6 16 ' Holmes!'
+  /MB1/MB75.MES 6 23 'I was so scared...'
+  /MB1/MB75.MES 6 24 'Holmes...'
+  /MB1/MB8.MES 0 16 'Yeah...'
+  /MB1/MB8.MES 0 18 'I...'
+  /MB1/MB8.MES 0 19 ' I was scared...'
+  /MB1/MB8.MES 0 20 'I started running when the zombies'
+  /MB1/MB8.MES 0 21 'found me,'
+  /MB1/MB8.MES 0 22 ' and I ended up in the swamps...'
+  /MB1/MB8.MES 0 23 'The bad air got to me,'
+  /MB1/MB8.MES 0 24 ' and I could'
+  /MB1/MB8.MES 0 25 'barely even breathe...'
+  /MB1/MB8.MES 0 26 'Then,'
+  /MB1/MB8.MES 0 27 ' when I thought I was done for,'
+  /MB1/MB8.MES 0 28 'I turned into a huge dragon...'
+  /MB1/MB8.MES 0 29 'And then I...'
+  /MB1/MB8.MES 0 30 ' I panicked,'
+  /MB1/MB8.MES 0 31 ' and I killed all'
+  /MB1/MB8.MES 0 32 'of the zombies that were after me.'
+  /MB1/MB8.MES 0 33 'That was just a dream...'
+  /MB1/MB8.MES 0 34 ' Right,'
+  /MB1/MB8.MES 0 35 ' Holmes?'
+  /MB1/MB8.MES 0 36 'It was just a weird near-death experience...'
+  /MB1/MB8.MES 0 37 'Please,'
+  /MB1/MB8.MES 0 38 ' Holmes...'
+  /MB1/MB8.MES 0 39 'Just tell me it was all a dream!'
+  /MB1/MB8.MES 0 42 'But...'
+  /MB1/MB8.MES 0 43 ' But why?!'
+  /MB1/MB8.MES 0 44 'Why did I turn into a dragon?'
+  /MB1/MB8.MES 0 49 "Today's my fifteenth birthday..."
+  /MB1/MB8.MES 0 61 'Shaman...?'
+  /MB1/MB8.MES 0 64 'But I...'
+  /MB1/MB8.MES 0 65 " I don't want to be a dragon!"
+  /MB1/MB8.MES 0 108 'But Holmes...'
+  /MB1/MB8.MES 0 109 "I'm terrified..."
+  /MB1/MB8.MES 0 113 'But...'
+  /MB1/MB8.MES 0 124 'Holmes...'
+  /MB1/MB8.MES 6 0 'Haah,'
+  /MB1/MB8.MES 6 1 ' haah...'
+  /MB1/MB8.MES 6 2 "I can't..."
+  /MB1/MB8.MES 6 3 ' go another step...'
+  /MB1/MB8.MES 6 4 'O Goddess Yutona...'
+  /MB1/MB8.MES 6 5 'Please give me strength...'
+  /MB1/MB8.MES 8 0 'What...'
+  /MB1/MB8.MES 8 1 ' What just happened...?'
+  /MG1/GEVMSG04.MES 19 12 'But...'
+  /MG1/GEVMSG04.MES 19 13 "You're pirates, too, aren't you?"
+  /MG1/GEVMSG04.MES 19 18 'I knew it,'
+  /MG1/GEVMSG04.MES 19 19 ' you are pirates!'
+  /MG1/GEVMSG04.MES 19 20 'O dear Yutona,'
+  /MG1/GEVMSG04.MES 19 21 ' please save your'
+  /MG1/GEVMSG04.MES 19 22 'humble servant!'
+  /MG1/GEVMSG04.MES 19 25 'Ahhh!'
+  /MG1/GEVMSG04.MES 19 26 'Get your hands off me!'
+  /MG1/GEVMSG04.MES 19 30 'Huh?'
+  /MG1/GEVMSG04.MES 19 31 ' Um...'
+  /MG1/GEVMSG04.MES 19 32 "I'm..."
+  /MG1/GEVMSG04.MES 19 33 ' Katri.'
+  /MG1/GEVMSG04.MES 19 38 "I don't know..."
+  /MG1/GEVMSG04.MES 19 39 "I'm not even sure where I was born."
+  /MG1/GEVMSG04.MES 19 41 'Bishop Law,'
+  /MG1/GEVMSG04.MES 19 42 ' my foster father, said that I was'
+  /MG1/GEVMSG04.MES 19 43 'abandoned in the forests of Salia as a baby.'
+  /MG1/GEVMSG04.MES 19 44 "He's the one who named me."
+  /MG1/GEVMSG04.MES 19 45 'He was very good to me,'
+  /MG1/GEVMSG04.MES 19 46 ' and raised me'
+  /MG1/GEVMSG04.MES 19 47 'like his own daughter.'
+  /MG1/GEVMSG04.MES 19 48 'But he was...'
+  /MG1/GEVMSG04.MES 19 51 '...We were on our way to the Temple of Mars.'
+  /MG1/GEVMSG04.MES 19 52 'He was going to leave me in the protection'
+  /MG1/GEVMSG04.MES 19 53 'of a priest named Eisenbach.'
+  /MG1/GEVMSG04.MES 19 54 'He said it was to prevent a great'
+  /MG1/GEVMSG04.MES 19 55 'catastrophe from occurring...'
+  /MG1/GEVMSG04.MES 19 59 'My father said I was wearing this'
+  /MG1/GEVMSG04.MES 19 60 'bracelet when he found me.'
+  /MG1/GEVMSG04.MES 19 61 "But that's all he ever told me about it."
+  /MG1/GEVMSG04.MES 19 64 'No!'
+  /MG1/GEVMSG04.MES 19 65 'This is very dear to me!'
+  /MG1/GEVMSG04.MES 19 66 'Please,'
+  /MG1/GEVMSG04.MES 19 67 ' anything but this!'
+  /MG1/GEVMSG04.MES 19 104 'Xeno,'
+  /MG1/GEVMSG04.MES 19 105 ' here.'
+  /MG1/GEVMSG04.MES 19 106 "I'll let you see it."
+  /MG1/GEVMSG04.MES 19 114 "I wasn't showing it to you!"
+  /MG1/GEVMSG04.MES 19 115 'Give it back!'
+  /MG1/GEVMSG04.MES 19 119 'Thank you...'
+  /MG1/GEVMSG04.MES 19 129 "I'd love to!"
+  /MG1/GEVMSG04.MES 19 130 'Your name is Juni,'
+  /MG1/GEVMSG04.MES 19 131 ' right?'
+  /MG1/GEVMSG04.MES 19 132 'Lead the way!'
+  /MG1/GEVMSG04.MES 20 0 'Captain...'
+  /MG1/GEVMSG04.MES 20 1 ' Holmes, right?'
+  /MG1/GEVMSG04.MES 20 2 'Look what I found on the cliffside!'
+  /MG1/GEVMSG04.MES 20 3 "It's a magic staff!"
+  /MG1/GEVMSG04.MES 20 6 'Creepy?'
+  /MG1/GEVMSG04.MES 20 7 'You think so?'
+  /MG1/GEVMSG04.MES 20 8 'It could be the legendary Staff of Morse!'
+  /MG1/GEVMSG04.MES 20 9 'If I could learn how to use it, I might be able'
+  /MG1/GEVMSG04.MES 20 10 'to bring my father back to life...'
+  /MG1/GEVMSG04.MES 20 18 "You're horrible,"
+  /MG1/GEVMSG04.MES 20 19 ' Holmes!'
+  /MG1/GEVMSG04.MES 20 20 'Xeno and the others are nice, but you...'
+  /MG1/GEVMSG04.MES 20 21 'Is it that fun to be mean to me all the time!?'
+  /MG1/GEVMSG04.MES 20 25 'Fine!'
+  /MG1/GEVMSG04.MES 20 26 "I'm never talking to you again,"
+  /MG1/GEVMSG04.MES 20 27 ' Holmes!'
+  /MG1/GEVMSG04.MES 20 28 "I'll bring my father back to life myself!"
+  /MG1/GEVMSG19.MES 52 58 'Sir Shirou,'
+  /MG1/GEVMSG19.MES 52 59 ' please be careful.'
+  /MG1/GEVMSG19.MES 52 60 'I shall pray for your safety.'
+  /MG1/GEVMSG38.MES 374 3 'Mother!'
+  /MG1/GEVMSG38.MES 374 8 "I'm home,"
+  /MG1/GEVMSG38.MES 374 9 ' Mother...'
+  /MG1/GEVMSG38.MES 388 3 'Xeno...?'
+  /MG1/GEVMSG38.MES 388 4 'Why would you say something like that?'
+  /MG1/GEVMSG38.MES 388 5 "You promised you'd stay with me..."
+  /MG1/GEVMSG38.MES 388 6 "That we'd always be friends!"
+  /MG1/GEVMSG38.MES 388 8 'Please,'
+  /MG1/GEVMSG38.MES 388 9 ' Xeno!'
+  /MG1/GEVMSG38.MES 388 10 "Don't go!"
+  /MG1/GEVMSG38.MES 388 11 "I don't want to lose my friends..."
+  /MG1/GEVMSG38.MES 389 3 'Xeno...?'
+  /MG1/GEVMSG38.MES 389 4 'Why would you say something like that?'
+  /MG1/GEVMSG38.MES 389 5 "You promised you'd stay with me..."
+  /MG1/GEVMSG38.MES 389 6 "That we'd always be friends!"
+  /MG1/GEVMSG38.MES 389 8 'Please,'
+  /MG1/GEVMSG38.MES 389 9 ' Xeno!'
+  /MG1/GEVMSG38.MES 389 10 "Don't go!"
+  /MG1/GEVMSG38.MES 389 11 "I don't want to lose my friends..."
+  /MG1/GEVMSG38.MES 389 21 'Xeno...'
+  /MG1/GEVMSG38.MES 390 3 "You're really leaving,"
+  /MG1/GEVMSG38.MES 390 4 ' Xeno?'
+  /MG1/GEVMSG38.MES 390 10 "I won't!"
+  /MG1/GEVMSG38.MES 390 11 "I'll always remember you both."
+  /MG1/GEVMSG38.MES 390 18 'Juni...'
+  /MG1/GEVMSG38.MES 390 26 'Goodbye,'
+  /MG1/GEVMSG38.MES 390 27 ' Xeno...'
+  /MG1/GEVMSG38.MES 391 9 "It's all right,"
+  /MG1/GEVMSG38.MES 391 10 ' Father...'
+  /MG1/GEVMSG38.MES 391 11 "I'll be fine."
+  /MG1/GEVMSG38.MES 391 12 'Holmes,'
+  /MG1/GEVMSG38.MES 391 13 " if you're set on leaving,"
+  /MG1/GEVMSG38.MES 391 14 "I'm not going to stop you."
+  /MG1/GEVMSG38.MES 391 15 'Give my best to Lord Runan for me.'
+  /MG1/GEVMSG38.MES 391 20 'A lot has happened over this last year.'
+  /MG1/GEVMSG38.MES 391 21 "I'm not a frail little girl anymore."
+  /MG1/GEVMSG38.MES 391 22 "I've grown up a lot."
+  /MG1/GEVMSG38.MES 391 23 "I'll be all right even without you"
+  /MG1/GEVMSG38.MES 391 24 'watching over me,'
+  /MG1/GEVMSG38.MES 391 25 ' Holmes.'
+  /MG1/GEVMSG38.MES 391 26 "I'm going to work with my Father and do"
+  /MG1/GEVMSG38.MES 391 27 "my best to help with Salia's reconstruction."
+  /MG1/GEVMSG38.MES 392 7 'See,'
+  /MG1/GEVMSG38.MES 392 8 ' Holmes?'
+  /MG1/GEVMSG38.MES 392 9 "We don't need your lousy band of pirates"
+  /MG1/GEVMSG38.MES 392 10 'around here for anything anymore.'
+  /MG1/GEVMSG38.MES 392 11 'Just go and do whatever you want.'
+  /MG1/GEVMSG45.MES 467 178 'Holmes...'
+  /MG1/GEVMSG45.MES 467 179 "I'm so happy to see you!"
+  /MG1/GEVMSG45.MES 467 191 'Really...?'
+  /MG1/GEVMSG45.MES 467 192 'Do you mean that,'
+  /MG1/GEVMSG45.MES 467 193 ' Holmes?'
+  /MG1/GEVMSG45.MES 467 194 'I was worried you hated me...'
+  /MG1/GEVMSG45.MES 467 198 'Experiment...?'
+  /MG1/GEVMSG45.MES 467 202 'Oh,'
+  /MG1/GEVMSG45.MES 467 203 ' right!'
+  /MG1/GEVMSG45.MES 467 204 "You said that it'd make him feel more"
+  /MG1/GEVMSG45.MES 467 205 'at ease,'
+  /MG1/GEVMSG45.MES 467 206 ' but he looked really mad...'
+  /MG1/GEVMSG45.MES 467 207 "I don't think it worked at all."
+  /MG1/GEVMSG45.MES 467 272 'I like it,'
+  /MG1/GEVMSG45.MES 467 273 ' too!'
+  /MG1/GEVMSG45.MES 467 276 'You think so?'
+  /MG1/GEVMSG45.MES 467 277 'Should I go by Maria,'
+  /MG1/GEVMSG45.MES 467 278 ' then?'
+  /MG1/GEVMSG45.MES 467 285 "That's good..."
+  /MG1/GEVMSG45.MES 467 286 ' I prefer Katri,'
+  /MG1/GEVMSG45.MES 467 287 ' too.'
+  /MG1/GEVMSG45.MES 467 288 "It's the name Bishop Law gave me."
+  /MG1/GEVMSG45.MES 468 15 "With the Goddess's gentleness..."
+  /MG1/GEVMSG45.MES 469 15 "With the Goddess's gentleness..."
+  /MG1/GEVMSG45.MES 470 15 "With the Goddess's gentleness..."
+  /MG1/GEVMSG45.MES 66007 3 "With the Goddess's gentleness..."
+  /MG1/GEVMSG50.MES 107 2 'No,'
+  /MG1/GEVMSG50.MES 107 3 " I'm all right."
+  /MG1/GEVMSG50.MES 107 4 "Don't worry about me."
+  /MG1/GEVMSG50.MES 108 15 'I'
+  /MG1/GEVMSG50.MES 108 16 "-It's not a big deal, Holmes..."
+  /MG1/GEVMSG50.MES 109 2 'Yep!'
+  /MG1/GEVMSG50.MES 109 3 'Where are we going next?'
+  /MG1/GEVMSG50.MES 109 8 "I've never been to Leda before!"
+  /MG1/GEVMSG50.MES 109 16 'Okay!'
+  /MG1/GEVMSG50.MES 109 17 " Let's get going, then."
+  /MG1/GEVMSG50.MES 109 18 "We'll find that Dakruon,"
+  /MG1/GEVMSG50.MES 109 19 ' and then we can'
+  /MG1/GEVMSG50.MES 109 20 "save Attrom's sister!"
+  /MG1/GEVMSG50.MES 110 2 'Yep!'
+  /MG1/GEVMSG50.MES 110 3 'Where are we going next?'
+  /MG1/GEVMSG50.MES 110 8 "I've never been to Leda before!"
+  /MG1/GEVMSG50.MES 111 2 'Are you going to chase after him, Holmes?'
+  /MG1/GEVMSG50.MES 111 6 'Then,'
+  /MG1/GEVMSG50.MES 111 7 ' are we headed back to Port Saura?'
+  /MG1/GEVMSG50.MES 112 3 'Okay...'
+  /MG1/GEVMSG51.MES 116 2 'All right...'
+  /MG1/GEVMSG51.MES 116 4 'Yes...'
+  /MG1/GEVMSG51.MES 116 5 "I'm sorry..."
+  /MG1/GEVMSG51.MES 116 12 'Will you be fine without me?'
+  /MG1/GEVMSG51.MES 116 15 'Really...?'
+  /MG1/GEVMSG51.MES 116 16 'If you say so...'
+  /MG1/GEVMSG51.MES 116 25 'Holmes...'
+  /MG1/GEVMSG51.MES 117 2 'All right...'
+  /MG1/GEVMSG51.MES 117 4 'Yes...'
+  /MG1/GEVMSG51.MES 117 5 "I'm sorry..."
+  /MG1/GEVMSG51.MES 117 12 'Will you be fine without me?'
+  /MG1/GEVMSG51.MES 117 15 'Really...?'
+  /MG1/GEVMSG51.MES 117 16 'If you say so...'
+  /MG1/GEVMSG51.MES 117 24 'Holmes...'
+  /MG1/GEVMSG51.MES 65654 0 'Haah...'
+  /MG1/GEVMSG51.MES 65654 1 ' haah..'
+  /MG1/GEVMSG51.MES 65654 2 ' haah...'
+  /MG1/GEVMSG51.MES 65654 3 'Holmes...'
+  /MG1/GEVMSG51.MES 65654 4 ' wait up...!'
+  /MG1/GEVMSG51.MES 65654 8 '...'
+  /MG1/GEVMSG51.MES 65654 15 'Aaah!'
+  /MG1/GEVMSG51.MES 65654 23 'Holmes,'
+  /MG1/GEVMSG51.MES 65654 24 ' I want you to take this.'
+  /MG1/GEVMSG51.MES 65654 27 "I don't want to leave you all..."
+  /MG1/GEVMSG51.MES 65654 28 'But Father and Mother are very weak,'
+  /MG1/GEVMSG51.MES 65654 29 'and I need to stay by their side'
+  /MG1/GEVMSG51.MES 65654 30 'until they get their strength back...'
+  /MG1/GEVMSG51.MES 65654 34 "It's my most treasured possession..."
+  /MG1/GEVMSG51.MES 65654 35 "I've had it since I was a little girl..."
+  /MG1/GEVMSG51.MES 65654 36 'It even led me back to my parents!'
+  /MG1/GEVMSG51.MES 65654 37 'That bracelet is my heart...'
+  /MG1/GEVMSG51.MES 65654 38 "That's why I want you to have it."
+  /MG1/GEVMSG51.MES 65654 39 'I want you to take this bracelet'
+  /MG1/GEVMSG51.MES 65654 40 'as my replacement on the team.'
+  /MG1/GEVMSG51.MES 65654 41 'Please carry it with you.'
+  /MG1/GEVMSG51.MES 65654 44 'Please,'
+  /MG1/GEVMSG51.MES 65654 45 ' Holmes!'
+  /MG1/GEVMSG51.MES 65654 46 "I'm worried about you!"
+  /MG1/GEVMSG51.MES 65654 47 'I had a terrible dream...'
+  /MG1/GEVMSG51.MES 65654 48 "That if I didn't give you my bracelet,"
+  /MG1/GEVMSG51.MES 65654 49 'we would never see each other again...'
+  /MG1/GEVMSG51.MES 65654 55 "You'll be there to protect me."
+  /MG1/GEVMSG51.MES 65654 56 'I believe in you,'
+  /MG1/GEVMSG51.MES 65654 57 ' Holmes...'
+  /MG1/GEVMSG51.MES 65654 58 "I know you'll come for me."
+  /MG1/GEVMSG53.MES 136 0 'The sea breeze feels so nice...'
+  /MG1/GEVMSG53.MES 136 1 "Why don't you sit here,"
+  /MG1/GEVMSG53.MES 136 2 ' Xeno?'
+  /MG1/GEVMSG53.MES 136 4 'Isura island...'
+  /MG1/GEVMSG53.MES 136 5 'Even with such nice weather,'
+  /MG1/GEVMSG53.MES 136 6 " it's still"
+  /MG1/GEVMSG53.MES 136 7 'too far away to see just yet.'
+  /MG1/GEVMSG53.MES 136 10 'Hmm?'
+  /MG1/GEVMSG53.MES 136 15 'Hate them...?'
+  /MG1/GEVMSG53.MES 136 16 'No,'
+  /MG1/GEVMSG53.MES 136 17 ' I never even thought about it.'
+  /MG1/GEVMSG53.MES 136 18 'If they are alive,'
+  /MG1/GEVMSG53.MES 136 19 ' I just want to'
+  /MG1/GEVMSG53.MES 136 20 'meet them,'
+  /MG1/GEVMSG53.MES 136 21 ' and hug them...'
+  /MG1/GEVMSG53.MES 136 27 'Is it different for you?'
+  /MG1/GEVMSG53.MES 136 28 'Do you resent your parents?'
+  /MG1/GEVMSG53.MES 136 47 'Xeno...'
+  /MG1/GEVMSG53.MES 136 48 " I'm sorry..."
+  /MG1/GEVMSG53.MES 136 49 'But I think your parents did love you.'
+  /MG1/GEVMSG53.MES 136 50 'Your eyes are beautiful,'
+  /MG1/GEVMSG53.MES 136 51 ' and you have'
+  /MG1/GEVMSG53.MES 136 52 'a kind heart...'
+  /MG1/GEVMSG53.MES 136 53 'You must have gotten those from your'
+  /MG1/GEVMSG53.MES 136 54 'mother and father, right?'
+  /MG1/GEVMSG53.MES 136 55 "Parents like that couldn't have hated you."
+  /MG1/GEVMSG53.MES 136 56 "I don't think you were abandoned."
+  /MG1/GEVMSG53.MES 136 57 'Hey,'
+  /MG1/GEVMSG53.MES 136 58 ' Xeno...'
+  /MG1/GEVMSG53.MES 136 59 "Let's try and find them."
+  /MG1/GEVMSG53.MES 136 60 ' Our real parents.'
+  /MG1/GEVMSG53.MES 136 61 "I bet they're suffering more than we are."
+  /MG1/GEVMSG53.MES 136 69 'Sure!'
+  /MG1/GEVMSG53.MES 136 70 ' I like you,'
+  /MG1/GEVMSG53.MES 136 71 ' Xeno.'
+  /MG1/GEVMSG53.MES 136 72 "I'll be your friend forever."
+  /MG1/GEVMSG56.MES 147 74 'Holmes,'
+  /MG1/GEVMSG56.MES 147 75 ' I want to help!'
+  /MG1/GEVMSG56.MES 148 52 'Holmes,'
+  /MG1/GEVMSG56.MES 148 53 ' I want to help them!'
+  /MG1/GEVMSG56.MES 149 53 'Holmes,'
+  /MG1/GEVMSG56.MES 149 54 ' I want to help them!'
+  /MG1/GEVMSG56.MES 65686 49 'Holmes,'
+  /MG1/GEVMSG56.MES 65686 50 ' I want to help them!'
+  /MG1/GEVMSG57.MES 114 0 'Holmes,'
+  /MG1/GEVMSG57.MES 114 1 ' do you have a minute?'
+  /MG1/GEVMSG57.MES 114 8 "I'm trying not to..."
+  /MG1/GEVMSG57.MES 114 9 'But...'
+  /MG1/GEVMSG57.MES 114 10 ' I believe what General Zachariah said.'
+  /MG1/GEVMSG57.MES 114 11 "I've dreamt about finally meeting my birth"
+  /MG1/GEVMSG57.MES 114 12 'parents so many times,'
+  /MG1/GEVMSG57.MES 114 13 " I'm so excited"
+  /MG1/GEVMSG57.MES 114 14 "that my heart's about to burst!"
+  /MG1/GEVMSG57.MES 151 0 'How are you feeling,'
+  /MG1/GEVMSG57.MES 151 1 ' Maerchen?'
+  /MG1/GEVMSG57.MES 151 2 'Are your wounds healed?'
+  /MG1/GEVMSG57.MES 151 7 'Thank goodness.'
+  /MG1/GEVMSG57.MES 151 8 "But even though you're getting your strength"
+  /MG1/GEVMSG57.MES 151 9 'back,'
+  /MG1/GEVMSG57.MES 151 10 " please don't go back to your old life!"
+  /MG1/GEVMSG57.MES 151 15 'All right.'
+  /MG1/GEVMSG57.MES 151 16 ' I trust you.'
+  /MG1/GEVMSG57.MES 151 21 'Yes,'
+  /MG1/GEVMSG57.MES 151 22 ' what is it?'
+  /MG1/GEVMSG57.MES 151 27 'Something to show me?'
+  /MG1/GEVMSG57.MES 151 28 'What is it?'
+  /MG1/GEVMSG57.MES 151 34 "I've got some..."
+  /MG1/GEVMSG57.MES 151 35 ' stuff I want to'
+  /MG1/GEVMSG57.MES 151 36 'take care of there.'
+  /MG1/GEVMSG57.MES 151 37 "I'd rather not say..."
+  /MG1/GEVMSG57.MES 152 0 'W'
+  /MG1/GEVMSG57.MES 152 1 '-What is this place?'
+  /MG1/GEVMSG57.MES 152 8 'T'
+  /MG1/GEVMSG57.MES 152 9 '-Torture chambers?!'
+  /MG1/GEVMSG57.MES 152 15 'Eep!'
+  /MG1/GEVMSG57.MES 152 16 'Wait,'
+  /MG1/GEVMSG57.MES 152 17 " you can't be..."
+  /MG1/GEVMSG57.MES 152 18 'Father?!'
+  /MG1/GEVMSG57.MES 152 22 'Y'
+  /MG1/GEVMSG57.MES 152 23 "-You're not a ghost,"
+  /MG1/GEVMSG57.MES 152 24 ' are you...?'
+  /MG1/GEVMSG57.MES 152 30 'But how...?'
+  /MG1/GEVMSG57.MES 152 31 'You were stabbed...'
+  /MG1/GEVMSG57.MES 152 32 " The blood wouldn't stop..."
+  /MG1/GEVMSG57.MES 152 33 'I held your hand as you died...'
+  /MG1/GEVMSG57.MES 152 54 'Yes!'
+  /MG1/GEVMSG57.MES 152 55 "I've been traveling with Captain Holmes"
+  /MG1/GEVMSG57.MES 152 56 'of Granada,'
+  /MG1/GEVMSG57.MES 152 57 " and he's been so kind to me!"
+  /MG1/GEVMSG57.MES 152 66 'Maerchen...'
+  /MG1/GEVMSG57.MES 152 67 'Thank you so much...'
+  /MG1/GEVMSG57.MES 152 75 'Sorry,'
+  /MG1/GEVMSG57.MES 152 76 ' Holmes!'
+  /MG1/GEVMSG57.MES 152 77 " I'm done now!"
+  /MG1/GEVMSG57.MES 152 81 'Hee hee,'
+  /MG1/GEVMSG57.MES 152 82 ' this is Bishop Law of Mahl!'
+  /MG1/GEVMSG57.MES 152 83 'My father!'
+  /MG1/GEVMSG58.MES 156 17 'What?'
+  /MG1/GEVMSG58.MES 156 18 'But we just found each other again...'
+  /MG1/GEVMSG58.MES 156 25 'All right...'
+  /MG1/GEVMSG58.MES 156 26 "Send word as soon as you're feeling better,"
+  /MG1/GEVMSG58.MES 156 27 "and we'll come right back to get you!"
+  /MG1/GEVMSG60.MES 65735 45 'Um...'
+  /MG1/GEVMSG60.MES 65735 46 ' Please forgive him,'
+  /MG1/GEVMSG60.MES 65735 47 ' Mr. Eugen!'
+  /MG1/GEVMSG60.MES 65735 48 "If Holmes hadn't been drinking so much,"
+  /MG1/GEVMSG60.MES 65735 49 "I know he never would've said such things..."
+  /MG1/GEVMSG60.MES 65735 53 'Y'
+  /MG1/GEVMSG60.MES 65735 54 '-Yes!'
+  /MG1/GEVMSG60.MES 65735 55 "My name's Katri."
+  /MG1/GEVMSG60.MES 65735 59 'I will,'
+  /MG1/GEVMSG60.MES 65735 60 ' Lord Runan!'
+  /MG1/GEVMSG64.MES 65715 0 'Wow...'
+  /MG1/GEVMSG64.MES 65715 1 "You're both Pegasus Knights?"
+  /MG1/GEVMSG64.MES 65715 2 "I'm so jealous!"
+  /MG1/GEVMSG64.MES 65715 6 'I'
+  /MG1/GEVMSG64.MES 65715 7 "-I think I'll pass..."
+  /MG1/GEVMSG64.MES 65715 8 "You're always so polite to me,"
+  /MG1/GEVMSG64.MES 65715 9 ' Martel...'
+  /MG1/GEVMSG64.MES 65715 10 'You speak plainly with the others,'
+  /MG1/GEVMSG64.MES 65715 11 'so why do you treat me specially?'
+  /MG1/GEVMSG64.MES 65715 21 'Oh,'
+  /MG1/GEVMSG64.MES 65715 22 ' okay!'
+  /MG1/GEVMSG64.MES 65715 23 'See you later,'
+  /MG1/GEVMSG64.MES 65715 24 ' Martel!'
+  /MG1/GEVMSG68.MES 65733 5 'I knew it, you are pirates!'
+  /MG1/GEVMSG68.MES 65733 6 'O dear Yutona,'
+  /MG1/GEVMSG68.MES 65733 7 ' please save your'
+  /MG1/GEVMSG68.MES 65733 8 'humble servant...!'
+  /MG1/GEVMSG68.MES 65733 11 'Ahhh!'
+  /MG1/GEVMSG68.MES 65733 12 'Get your hands off me!'
+  /MG1/GEVMSG68.MES 65733 13 "You're horrible, Holmes!"
+  /MG1/GEVMSG68.MES 65733 14 'Xeno and the others are nice, but you...'
+  /MG1/GEVMSG68.MES 65733 15 'Is it that fun to be mean to me all the time!?'
+  /MG1/GEVMSG68.MES 65733 19 'Fine!'
+  /MG1/GEVMSG68.MES 65733 20 "I'm never talking to you again, Holmes!"
+  /MG1/GEVMSG68.MES 65733 21 "I'll bring my father back to life myself!"
+  /MG1/GEVMSG68.MES 65733 25 'But...'
+  /MG1/GEVMSG68.MES 65733 43 'Sorry,'
+  /MG1/GEVMSG68.MES 65733 44 ' Holmes!'
+  /MG1/GEVMSG68.MES 65733 45 " I'm done now!"
+  /MG1/GEVMSG68.MES 65733 49 'Hee hee,'
+  /MG1/GEVMSG68.MES 65733 50 ' this is Bishop Law of Mahl!'
+  /MG1/GEVMSG68.MES 65733 51 'My father!'
+  /MG1/GEVMSG68.MES 65733 52 'Hey,'
+  /MG1/GEVMSG68.MES 65733 53 ' Holmes?'
+  /MG1/GEVMSG68.MES 65733 54 'About Kranion,'
+  /MG1/GEVMSG68.MES 65733 55 ' I think she...'
+  /MG1/GEVMSG68.MES 65733 58 'Sorry...'
+  /MG1/GEVMSG68.MES 65733 63 'It all just seems so unreal...'
+  /MG1/GEVMSG68.MES 65733 64 "I'll finally be able to meet my real parents..."
+  /MG1/GEVMSG68.MES 65733 65 "And it's all thanks to you,"
+  /MG1/GEVMSG68.MES 65733 66 ' Holmes!'
+  /MG1/GEVMSG68.MES 65733 67 'Thank you so much for everything!'
+  /MG1/GEVMSG68.MES 65733 75 'I know that,'
+  /MG1/GEVMSG68.MES 65733 76 ' but still...'
+  /MG1/GEVMSG68.MES 65733 77 'Thank you,'
+  /MG1/GEVMSG68.MES 65733 78 ' Holmes.'
+  /MG1/GEVMSG68.MES 65733 81 'Really...?'
+  /MG1/GEVMSG68.MES 65733 82 'If you say so...'
+  /MG1/GEVMSG68.MES 65733 90 'Holmes...'
+  /MG1/GEVMSG68.MES 65733 91 "It's my most treasured possession..."
+  /MG1/GEVMSG68.MES 65733 92 "I've had it since I was a little girl..."
+  /MG1/GEVMSG68.MES 65733 93 'It even led me back to my parents!'
+  /MG1/GEVMSG68.MES 65733 94 'That bracelet is my heart...'
+  /MG1/GEVMSG68.MES 65733 95 "That's why I want you to have it."
+  /MG1/GEVMSG68.MES 65733 96 'I want you to take this bracelet'
+  /MG1/GEVMSG68.MES 65733 97 'as my replacement on the team.'
+  /MG1/GEVMSG68.MES 65733 98 'Please carry it with you.'
+  /MG1/GEVMSG68.MES 65733 101 'Please,'
+  /MG1/GEVMSG68.MES 65733 102 ' Holmes!'
+  /MG1/GEVMSG68.MES 65733 103 "I'm worried about you!"
+  /MG1/GEVMSG68.MES 65733 104 'I had a terrible dream...'
+  /MG1/GEVMSG68.MES 65733 105 "That if I didn't give you my bracelet,"
+  /MG1/GEVMSG68.MES 65733 106 'we would never see each other again...'
+  /MG1/GEVMSG68.MES 65733 112 "You'll be there to protect me."
+  /MG1/GEVMSG68.MES 65733 113 'I believe in you,'
+  /MG1/GEVMSG68.MES 65733 114 ' Holmes...'
+  /MG1/GEVMSG68.MES 65733 115 "I know you'll come for me."
+=== 01FE count= 6
+  /MB1/MB130.MES 4 3 'Gah...'
+  /MB1/MB130.MES 4 17 'Shigen...!'
+  /MB1/MB130.MES 4 24 '...'
+  /MB1/MB130.MES 4 31 '...!'
+  /MB1/MB139.MES 1 0 'Shigen...'
+  /MB1/MB139.MES 1 1 'I will not let you die...'
+=== 0071 count= 275
+  /MB1/MB1.MES 9 0 'I beg of you,'
+  /MB1/MB1.MES 9 1 ' please rescue'
+  /MB1/MB1.MES 9 2 'Sister Enteh!'
+  /MB1/MB1.MES 9 3 'She came all the way here'
+  /MB1/MB1.MES 9 4 'from the Temple of Mars to'
+  /MB1/MB1.MES 9 5 'care for our sick and wounded.'
+  /MB1/MB1.MES 9 6 "She even saved my brother's"
+  /MB1/MB1.MES 9 7 'life when he was dying from'
+  /MB1/MB1.MES 9 8 'a venomous snakebite!'
+  /MB1/MB1.MES 9 9 'If anyone ever needs help,'
+  /MB1/MB1.MES 9 10 'then Sister Enteh is the first'
+  /MB1/MB1.MES 9 11 'to lend a hand,'
+  /MB1/MB1.MES 9 12 ' no matter'
+  /MB1/MB1.MES 9 13 'who it is.'
+  /MB1/MB1.MES 9 14 "But I never imagined she'd trust"
+  /MB1/MB1.MES 9 15 'the words of a bandit...'
+  /MB1/MB1.MES 9 16 'My brother went to rescue her,'
+  /MB1/MB1.MES 9 17 "but I'm still worried."
+  /MB1/MB1.MES 9 18 'If only I were able to fight,'
+  /MB1/MB1.MES 9 19 'then I could help out in'
+  /MB1/MB1.MES 9 20 'times like these...'
+  /MB1/MB1.MES 9 21 'Please,'
+  /MB1/MB1.MES 9 22 ' save Sister Enteh'
+  /MB1/MB1.MES 9 23 'from the Taurus bandits!'
+  /MB1/MB12.MES 5 1 'Oh, Bartz!'
+  /MB1/MB12.MES 5 2 " You're safe!"
+  /MB1/MB12.MES 5 3 'Thank goodness...'
+  /MB1/MB12.MES 5 9 'No...'
+  /MB1/MB12.MES 5 10 ' But...'
+  /MB1/MB12.MES 5 11 "I couldn't help but worry..."
+  /MB1/MB12.MES 5 12 'If something happened to you,'
+  /MB1/MB12.MES 5 13 "then I'd be all alone..."
+  /MB1/MB12.MES 5 15 "I'd never be able to bear that!"
+  /MB1/MB12.MES 5 16 "I couldn't bear being left all alone..."
+  /MB1/MB12.MES 5 18 '...Bartz?'
+  /MB1/MB12.MES 5 20 '...I knew it.'
+  /MB1/MB12.MES 5 21 "You're leaving the village,"
+  /MB1/MB12.MES 5 22 " aren't you?"
+  /MB1/MB12.MES 5 24 'I hate you!'
+  /MB1/MB12.MES 5 30 'Bartz...'
+  /MB1/MB12.MES 8 3 'Ah,'
+  /MB1/MB12.MES 8 4 ' yes...'
+  /MB1/MB12.MES 8 5 'I got separated from my companions,'
+  /MB1/MB12.MES 8 6 "and don't know where to go..."
+  /MB1/MB12.MES 8 7 'Can you help me?'
+  /MB1/MB12.MES 8 12 'Really?'
+  /MB1/MB12.MES 8 13 'Thank you very much!'
+  /MB1/MB12.MES 8 14 'Mmm...'
+  /MB1/MB12.MES 8 15 "It's delicious."
+  /MB1/MB12.MES 8 16 'Thank you,'
+  /MB1/MB12.MES 8 17 " ma'am."
+  /MB1/MB12.MES 8 21 'Aah!'
+  /MB1/MB12.MES 8 22 'Who are you?'
+  /MB1/MB12.MES 8 27 'Ah,'
+  /MB1/MB12.MES 8 28 " I'm sorry."
+  /MB1/MB12.MES 8 29 'Forgive me for yelling.'
+  /MB1/MB12.MES 8 30 "I'm fifteen years old."
+  /MB1/MB12.MES 8 31 'My mother passed away years ago.'
+  /MB1/MB12.MES 8 35 'Yes,'
+  /MB1/MB12.MES 8 36 ' she was...'
+  /MB1/MB12.MES 8 37 'She was a dancer in her youth,'
+  /MB1/MB12.MES 8 38 'so she had a nice figure.'
+  /MB1/MB12.MES 8 39 'I hope I look like her when I get older.'
+  /MB1/MB12.MES 8 44 'Yes,'
+  /MB1/MB12.MES 8 45 ' my mother taught me a little.'
+  /MB1/MB12.MES 8 46 'I dance by myself every now and then,'
+  /MB1/MB12.MES 8 47 'but never in front of anyone.'
+  /MB1/MB12.MES 8 48 "I've never danced for anyone but my mother."
+  /MB1/MB12.MES 8 49 "It's too embarrassing..."
+  /MB1/MB12.MES 8 55 'What!?'
+  /MB1/MB12.MES 8 56 ' No way!'
+  /MB1/MB12.MES 8 57 "There's no way I'm going to"
+  /MB1/MB12.MES 8 58 'dance in front of other people!'
+  /MB1/MB12.MES 8 59 'I-'
+  /MB1/MB12.MES 8 60 "I'm leaving!"
+  /MB1/MB12.MES 8 61 'N-'
+  /MB1/MB12.MES 8 62 'No...'
+  /MB1/MB12.MES 8 63 'My legs...'
+  /MB1/MB12.MES 8 64 "They won't move..."
+  /MB1/MB121.MES 7 5 "I don't want any milk!"
+  /MB1/MB121.MES 7 17 'Yes,'
+  /MB1/MB121.MES 7 18 ' a little...'
+  /MB1/MB121.MES 7 19 "Was that dancer's name..."
+  /MB1/MB121.MES 7 20 ' Lan?'
+  /MB1/MB121.MES 7 21 "That was my mother's name."
+  /MB1/MB121.MES 7 22 'I heard she used to live around here.'
+  /MB1/MB121.MES 7 34 'What was his name?'
+  /MB1/MB121.MES 7 50 'Mom passed away five years ago.'
+  /MB1/MB121.MES 7 51 'She got really sick...'
+  /MB1/MB139.MES 3 0 'Another dance?'
+  /MB1/MB143.MES 10 5 'Well...'
+  /MB1/MB143.MES 10 10 '*Sigh*...'
+  /MB1/MB143.MES 10 11 'All right,'
+  /MB1/MB143.MES 10 12 " I'll do it."
+  /MB1/MB144.MES 15 2 'Aah!'
+  /MB1/MB144.MES 15 3 ' Lord Lionheart!'
+  /MB1/MB144.MES 15 4 'F'
+  /MB1/MB144.MES 15 5 '-Forgive me,'
+  /MB1/MB144.MES 15 6 " I didn't notice you..."
+  /MB1/MB144.MES 15 10 'Y-Yes,'
+  /MB1/MB144.MES 15 11 ' it is...'
+  /MB1/MB144.MES 15 12 'And thank you,'
+  /MB1/MB144.MES 15 13 " I've practiced a lot..."
+  /MB1/MB144.MES 15 16 'My mother taught it to me...'
+  /MB1/MB144.MES 15 17 'The basic steps,'
+  /MB1/MB144.MES 15 18 ' anyway.'
+  /MB1/MB144.MES 15 19 "I've been told she was a popular"
+  /MB1/MB144.MES 15 20 'dancer from around here in Blaad.'
+  /MB1/MB144.MES 15 24 'Yes,'
+  /MB1/MB144.MES 15 25 ' it was!'
+  /MB1/MB144.MES 15 26 'She passed away a few years ago,'
+  /MB1/MB144.MES 15 27 ' but she'
+  /MB1/MB144.MES 15 28 'left me this hand mirror to remember her by.'
+  /MB1/MB144.MES 15 31 'Huh?'
+  /MB1/MB144.MES 15 36 'What...?'
+  /MB1/MB144.MES 15 37 'Whaaaat?!'
+  /MB1/MB144.MES 15 56 'Lord Lionheart...'
+  /MB1/MB144.MES 15 64 'No!'
+  /MB1/MB144.MES 15 65 ' I know she still loved you!'
+  /MB1/MB144.MES 15 66 "Mother's love was eternal!"
+  /MB1/MB144.MES 15 67 'She never thought ill of you,'
+  /MB1/MB144.MES 15 68 ' Father.'
+  /MB1/MB144.MES 15 72 'Y-'
+  /MB1/MB144.MES 15 73 'Yes...!'
+  /MB1/MB144.MES 15 74 'Of course I do!'
+  /MB1/MB144.MES 15 81 'Father...'
+  /MB1/MB2.MES 4 0 'Sister Enteh!'
+  /MB1/MB2.MES 4 1 "I'm so glad you're safe!"
+  /MB1/MB2.MES 4 5 'No...'
+  /MB1/MB2.MES 4 6 "I've become fed up with myself"
+  /MB1/MB2.MES 4 7 'after all this.'
+  /MB1/MB2.MES 4 10 "I'm only a year younger than you,"
+  /MB1/MB2.MES 4 11 "but I'm nothing like you."
+  /MB1/MB2.MES 4 12 "I'm just a useless child."
+  /MB1/MB2.MES 4 21 'I need to learn more...'
+  /MB1/MB2.MES 4 22 'I want to become a pure and strong'
+  /MB1/MB2.MES 4 23 'cleric like you.'
+  /MB1/MB2.MES 4 24 'Please, Sister Enteh, take me with you'
+  /MB1/MB2.MES 4 25 'to the Temple of Mars!'
+  /MB1/MB2.MES 4 27 "Bartz isn't the only one who can"
+  /MB1/MB2.MES 4 28 'go on journeys!'
+  /MB1/MB2.MES 4 29 'I want to spread my wings, too!'
+  /MB1/MB2.MES 4 30 "I don't want to be left here"
+  /MB1/MB2.MES 4 31 'all alone, doing nothing but'
+  /MB1/MB2.MES 4 32 'waiting!'
+  /MB1/MB2.MES 4 33 'I want to see what the world has'
+  /MB1/MB2.MES 4 34 'to offer!'
+  /MB1/MB2.MES 4 35 "I don't want to spend the rest of my"
+  /MB1/MB2.MES 4 36 'life in a tiny village like this!'
+  /MB1/MB3.MES 65545 0 'Bartz...'
+  /MB1/MB3.MES 65545 3 'Right...'
+  /MB1/MB3.MES 65545 4 'Just be careful,'
+  /MB1/MB3.MES 65545 5 ' okay?'
+  /MB1/MB5.MES 7 3 "I'm sick of staying behind..."
+  /MB1/MB5.MES 7 4 'always waiting all alone by myself...'
+  /MB1/MB5.MES 7 5 "I'm going to the Temple of Mars with"
+  /MB1/MB5.MES 7 6 'Sister Enteh!'
+  /MB1/MB5.MES 7 13 'No way!'
+  /MB1/MB5.MES 7 14 'Besides,'
+  /MB1/MB5.MES 7 15 " you're leaving the village too,"
+  /MB1/MB5.MES 7 16 "aren't you,"
+  /MB1/MB5.MES 7 17 ' Bartz?'
+  /MB1/MB5.MES 7 19 "You're always talking about making a name"
+  /MB1/MB5.MES 7 20 'for yourself on the battlefield.'
+  /MB1/MB5.MES 7 21 'I was always scared that one day,'
+  /MB1/MB5.MES 7 22 " you'd"
+  /MB1/MB5.MES 7 23 'disappear and leave me behind.'
+  /MB1/MB5.MES 7 24 'But I have dreams just like you,'
+  /MB1/MB5.MES 7 25 ' Bartz!'
+  /MB1/MB5.MES 7 26 'If you get to leave,'
+  /MB1/MB5.MES 7 27 " than why can't I go"
+  /MB1/MB5.MES 7 28 'with Sister Enteh!?'
+  /MB1/MB68.MES 0 2 "I'm sorry,"
+  /MB1/MB68.MES 0 3 ' Grandfather...'
+  /MB1/MB68.MES 0 4 "I've decided to leave the village"
+  /MB1/MB68.MES 0 5 'with Sister Enteh.'
+  /MB1/MB68.MES 0 8 'What?'
+  /MB1/MB68.MES 0 13 'Mother left it for me?'
+  /MB1/MB68.MES 0 27 'Wait,'
+  /MB1/MB68.MES 0 28 ' but that man was killed in'
+  /MB1/MB68.MES 0 29 'the Salian Civil War,'
+  /MB1/MB68.MES 0 30 " wasn't he?"
+  /MB1/MB68.MES 0 31 "You're telling me that my real father"
+  /MB1/MB68.MES 0 32 "was Mother's first husband?"
+  /MB1/MB68.MES 0 46 'Yes...'
+  /MB1/MB68.MES 0 47 'Mother never talked about it,'
+  /MB1/MB68.MES 0 48 "but I assumed they'd just stopped"
+  /MB1/MB68.MES 0 49 'getting along with each other.'
+  /MB1/MB68.MES 0 66 'I always felt sorry for Dad...'
+  /MB1/MB68.MES 0 67 "Why couldn't Mother love him?"
+  /MB1/MB68.MES 0 74 'Huh...?'
+  /MB1/MB68.MES 0 79 'N'
+  /MB1/MB68.MES 0 80 '-No way...'
+  /MB1/MB68.MES 0 81 "You don't mean he's still alive?!"
+  /MB1/MB68.MES 0 91 'No,'
+  /MB1/MB68.MES 0 92 ' I could never hate him...'
+  /MB1/MB68.MES 0 93 'Thanks to him,'
+  /MB1/MB68.MES 0 94 ' Mother survived,'
+  /MB1/MB68.MES 0 95 ' and I'
+  /MB1/MB68.MES 0 96 'was able to grow up here with you all.'
+  /MB1/MB68.MES 0 97 'Grandfather...'
+  /MB1/MB68.MES 0 98 " Bartz doesn't know any"
+  /MB1/MB68.MES 0 99 'of this,'
+  /MB1/MB68.MES 0 100 ' does he?'
+  /MB1/MB68.MES 0 101 "Please don't tell him."
+  /MB1/MB68.MES 0 102 'Please...'
+  /MB1/MB68.MES 0 103 " He doesn't need to know..."
+  /MB1/MB68.MES 5 0 'Um...'
+  /MB1/MB68.MES 5 1 'Have you found Sister Enteh...?'
+  /MB1/MB72.MES 9 3 'Stop eating like a pig, Bartz!'
+  /MB1/MB72.MES 9 4 "You're embarrassing me."
+  /MB1/MB72.MES 9 9 'Nobody!'
+  /MB1/MB72.MES 9 10 "I'm fifteen years old, Bartz."
+  /MB1/MB72.MES 9 11 'I have to start acting at least a little'
+  /MB1/MB72.MES 9 12 'ladylike.'
+  /MB1/MB72.MES 9 17 'Bartz!'
+  /MB1/MB72.MES 9 18 "Oh, what's the point..."
+  /MB1/MB8.MES 4 0 "What's wrong,"
+  /MB1/MB8.MES 4 1 ' Bartz?'
+  /MB1/MB8.MES 4 2 ' You look flustered.'
+  /MB1/MB8.MES 4 6 'Oh,'
+  /MB1/MB8.MES 4 7 ' I see.'
+  /MB1/MB8.MES 4 8 'How is Sister Enteh?'
+  /MB1/MB8.MES 4 14 'Sure...'
+  /MB1/MB8.MES 4 18 'Bartz...'
+  /MG1/GEVMSG10.MES 65616 2 'Oh, Father Lee...'
+  /MG1/GEVMSG10.MES 65616 3 "No, it's just..."
+  /MG1/GEVMSG10.MES 65616 4 "It's just that so much has happened"
+  /MG1/GEVMSG10.MES 65616 5 "over the past few days, and I'm a"
+  /MG1/GEVMSG10.MES 65616 6 'little disoriented...'
+  /MG1/GEVMSG10.MES 65616 7 "I'll be fine..."
+  /MG1/GEVMSG10.MES 65616 10 'Bishop Lee...'
+  /MG1/GEVMSG10.MES 65616 11 'Why do people fight?'
+  /MG1/GEVMSG10.MES 65616 12 'Why do they murder and rob one another?'
+  /MG1/GEVMSG10.MES 65616 19 'Yes, Father...'
+  /MG1/GEVMSG10.MES 65616 22 'Hm?'
+  /MG1/GEVMSG10.MES 65616 23 ' A staff?'
+  /MG1/GEVMSG10.MES 65616 30 'Thank you, Father Lee!'
+  /MG1/GEVMSG10.MES 65616 31 "I'll make good use of it!"
+  /MG1/GEVMSG38.MES 384 6 'Thank you,'
+  /MG1/GEVMSG38.MES 384 7 ' Father!'
+  /MG1/GEVMSG38.MES 384 8 "Of course I'll come!"
+  /MG1/GEVMSG38.MES 384 20 "I'm not really sure yet..."
+  /MG1/GEVMSG38.MES 384 21 "But I'd like to continue dancing."
+  /MG1/GEVMSG38.MES 384 22 'Will you allow it,'
+  /MG1/GEVMSG38.MES 384 23 ' Father?'
+  /MG1/GEVMSG38.MES 384 27 'Thank you,'
+  /MG1/GEVMSG38.MES 384 28 ' Father...'
+  /MG1/GEVMSG38.MES 385 3 'Bartz...'
+  /MG1/GEVMSG38.MES 386 22 "Isn't this great,"
+  /MG1/GEVMSG38.MES 386 23 ' Bartz?'
+  /MG1/GEVMSG38.MES 387 3 'Bartz...'
+  /MG1/GEVMSG38.MES 387 14 'What?!'
+  /MG1/GEVMSG38.MES 387 15 'But why,'
+  /MG1/GEVMSG38.MES 387 16 ' Bartz?'
+  /MG1/GEVMSG38.MES 387 26 'Bartz...'
+  /MG1/GEVMSG38.MES 387 36 'I...'
+  /MG1/GEVMSG38.MES 387 37 ' I understand.'
+  /MG1/GEVMSG38.MES 387 38 "I'll wait until you've found your"
+  /MG1/GEVMSG38.MES 387 39 'answer,'
+  /MG1/GEVMSG38.MES 387 40 ' Bartz.'
+  /MG1/GEVMSG42.MES 424 0 'Bartz...'
+  /MG1/GEVMSG42.MES 424 5 'Yeah.'
+  /MG1/GEVMSG42.MES 425 0 'Bartz...'
+  /MG1/GEVMSG42.MES 425 5 'Yeah.'
+  /MG1/GEVMSG42.MES 425 8 'Hm...?'
+  /MG1/GEVMSG42.MES 425 11 'Sure!'
+  /MG1/GEVMSG42.MES 425 12 'I want to show everyone how'
+  /MG1/GEVMSG42.MES 425 13 "good I've gotten at it!"
+  /MG1/GEVMSG42.MES 426 0 'Goodbye, Lord Runan.'
+  /MG1/GEVMSG42.MES 426 1 "I'm returning home to Taurus now."
+  /MG1/GEVMSG42.MES 426 6 "Don't be sorry,"
+  /MG1/GEVMSG42.MES 426 7 ' Lord Runan.'
+  /MG1/GEVMSG42.MES 426 8 "I'll..."
+  /MG1/GEVMSG42.MES 426 9 " I'll be all right."
+=== 006B count= 133
+  /MB1/MB116.MES 1 0 'La la la...'
+  /MB1/MB116.MES 1 3 'Oh,'
+  /MB1/MB116.MES 1 4 " it's Mr. Priest!"
+  /MB1/MB116.MES 1 5 'A very good morning to you!'
+  /MB1/MB116.MES 1 9 '...Why do you ask?'
+  /MB1/MB116.MES 1 17 'So what if I was?'
+  /MB1/MB116.MES 1 18 'I love singing!'
+  /MB1/MB116.MES 1 19 "It's much better than being a dumb old nun."
+  /MB1/MB116.MES 1 20 'But my father told me,'
+  /MB1/MB116.MES 1 21 ' "'
+  /MB1/MB116.MES 1 22 'Lyria, being a'
+  /MB1/MB116.MES 1 23 'performer is dangerous business!'
+  /MB1/MB116.MES 1 24 "You're going to do something worthwhile"
+  /MB1/MB116.MES 1 25 'with your life:'
+  /MB1/MB116.MES 1 26 ' helping people!"'
+  /MB1/MB116.MES 1 27 'And so here I am.'
+  /MB1/MB116.MES 1 28 "But singing isn't worthless!"
+  /MB1/MB116.MES 1 29 "I think it's wonderful to encourage"
+  /MB1/MB116.MES 1 30 'and uplift people with music!'
+  /MB1/MB116.MES 1 31 "Don't you think so,"
+  /MB1/MB116.MES 1 32 ' too?'
+  /MB1/MB116.MES 1 37 'Hooray!'
+  /MB1/MB116.MES 1 38 'Then please,'
+  /MB1/MB116.MES 1 39 ' persuade my father!'
+  /MB1/MB116.MES 1 40 "I'll be the best singing priestess ever!"
+  /MB1/MB116.MES 1 41 "I'll travel around the world so"
+  /MB1/MB116.MES 1 42 'everyone can hear my voice!'
+  /MB1/MB116.MES 1 50 'I will,'
+  /MB1/MB116.MES 1 51 ' Mr. Priest!'
+  /MB1/MB116.MES 1 52 "I'll do my very best!"
+  /MB1/MB121.MES 8 34 'La la la~'
+  /MB1/MB122.MES 12 0 "It's so wonderful..."
+  /MB1/MB128.MES 65545 0 'Eww,'
+  /MB1/MB128.MES 65545 1 ' gross!'
+  /MB1/MB128.MES 65545 2 "We're fighting THOSE?"
+  /MB1/MB139.MES 4 0 'Ok, '
+  /MB1/MB139.MES 4 1 "I'll sing for you..."
+  /MB1/MB143.MES 9 0 "The warrior and maiden's love~"
+  /MB1/MB143.MES 9 1 'No dark of evil could oppose~'
+  /MB1/MB143.MES 9 2 "The sword of light and dragon's fang~"
+  /MB1/MB143.MES 9 3 'Did banish shadow from the realm~'
+  /MB1/MB143.MES 9 5 'Though both have gone now from the world~'
+  /MB1/MB143.MES 9 6 'Their light shines on forevermore~'
+  /MB1/MB143.MES 9 7 'In fields of golden wheat and sun~'
+  /MB1/MB143.MES 9 8 'Their smiles and prayers watch over us~'
+  /MB1/MB143.MES 9 10 'Whew!'
+  /MB1/MB143.MES 9 11 "Now I'm kinda tired."
+  /MB1/MB143.MES 9 12 'Hey,'
+  /MB1/MB143.MES 9 13 ' Attrom,'
+  /MB1/MB143.MES 9 14 ' were you listening?'
+  /MB1/MB143.MES 9 16 'Oh,'
+  /MB1/MB143.MES 9 17 ' wow!'
+  /MB1/MB143.MES 9 18 " You're all teary-eyed!"
+  /MB1/MB143.MES 9 19 'Did my song move you that much?'
+  /MB1/MB143.MES 9 25 'Stupid?!'
+  /MB1/MB143.MES 9 26 'Fine,'
+  /MB1/MB143.MES 9 27 " if that's what you think,"
+  /MB1/MB143.MES 9 28 " then I'm"
+  /MB1/MB143.MES 9 29 'not gonna let you hear my singing anymore!'
+  /MB1/MB144.MES 2 0 'Wow,'
+  /MB1/MB144.MES 2 1 " you're amazing,"
+  /MB1/MB144.MES 2 2 ' Plum!'
+  /MB1/MB144.MES 2 3 'I wish I could dance like that!'
+  /MG1/GEVMSG24.MES 210 0 'La la la...'
+  /MG1/GEVMSG24.MES 210 3 'W'
+  /MG1/GEVMSG24.MES 210 4 '-What do you mean?'
+  /MG1/GEVMSG24.MES 210 8 "You aren't having fun,"
+  /MG1/GEVMSG24.MES 210 9 ' Juni?'
+  /MG1/GEVMSG24.MES 210 13 "You'd feel better if you sang!"
+  /MG1/GEVMSG24.MES 210 14 "Let's sing together,"
+  /MG1/GEVMSG24.MES 210 15 ' okay?'
+  /MG1/GEVMSG24.MES 210 24 'Oooh,'
+  /MG1/GEVMSG24.MES 210 25 ' cool staff!'
+  /MG1/GEVMSG24.MES 210 26 'Didja steal it?'
+  /MG1/GEVMSG24.MES 210 31 'Noooo,'
+  /MG1/GEVMSG24.MES 210 32 " don't be mad,"
+  /MG1/GEVMSG24.MES 210 33 ' Juni!'
+  /MG1/GEVMSG24.MES 210 34 "I'm sorry!"
+  /MG1/GEVMSG24.MES 210 35 ' See?'
+  /MG1/GEVMSG24.MES 210 36 ' I apologized!'
+  /MG1/GEVMSG24.MES 210 40 'What kind of staff is it?'
+  /MG1/GEVMSG24.MES 210 41 "Let's try it out..."
+  /MG1/GEVMSG24.MES 210 42 'Wow!'
+  /MG1/GEVMSG24.MES 210 43 ' Did you see that?!'
+  /MG1/GEVMSG24.MES 210 44 'That was so cool!'
+  /MG1/GEVMSG35.MES 364 0 "I'm coming with you,"
+  /MG1/GEVMSG35.MES 364 1 ' Attrom!'
+  /MG1/GEVMSG35.MES 364 6 'Meanie...'
+  /MG1/GEVMSG35.MES 364 7 'Fine,'
+  /MG1/GEVMSG35.MES 364 8 ' then you leave me no choice!'
+  /MG1/GEVMSG38.MES 378 0 "I'm coming with you,"
+  /MG1/GEVMSG38.MES 378 1 ' Attrom!'
+  /MG1/GEVMSG38.MES 378 6 'Meanie...'
+  /MG1/GEVMSG38.MES 378 7 'Fine,'
+  /MG1/GEVMSG38.MES 378 8 ' then you leave me no choice!'
+  /MG1/GEVMSG39.MES 396 0 'La la la...'
+  /MG1/GEVMSG39.MES 396 3 "I'm gonna leave here,"
+  /MG1/GEVMSG39.MES 396 4 ' too.'
+  /MG1/GEVMSG39.MES 396 5 'See you,'
+  /MG1/GEVMSG39.MES 396 6 ' Holmes!'
+  /MG1/GEVMSG39.MES 396 10 "That's an S-"
+  /MG1/GEVMSG39.MES 396 11 'E-'
+  /MG1/GEVMSG39.MES 396 12 'C-'
+  /MG1/GEVMSG39.MES 396 13 'R-'
+  /MG1/GEVMSG39.MES 396 14 'E-'
+  /MG1/GEVMSG39.MES 396 15 'T!'
+  /MG1/GEVMSG39.MES 396 16 'Bye bye!'
+  /MG1/GEVMSG41.MES 65947 0 'I want to come with you too,'
+  /MG1/GEVMSG41.MES 65947 1 ' Attrom!'
+  /MG1/GEVMSG41.MES 65947 6 'Yay!'
+  /MG1/GEVMSG41.MES 65947 7 'La la la...'
+  /MG1/GEVMSG64.MES 177 8 'La la la...'
+  /MG1/GEVMSG64.MES 177 18 'Hi there!'
+  /MG1/GEVMSG64.MES 177 19 'Who are you,'
+  /MG1/GEVMSG64.MES 177 20 ' sir?'
+  /MG1/GEVMSG64.MES 177 26 'Thank goodness!'
+  /MG1/GEVMSG64.MES 177 27 "I'm so very lost..."
+  /MG1/GEVMSG64.MES 177 35 'You really mean it?!'
+  /MG1/GEVMSG64.MES 177 44 'Me,'
+  /MG1/GEVMSG64.MES 177 45 ' a superstar...?'
+  /MG1/GEVMSG64.MES 177 51 'Okay!'
+  /MG1/GEVMSG64.MES 177 52 "I'll do my very best!"
+  /MG1/GEVMSG64.MES 178 0 'La la la...'
+  /MG1/GEVMSG64.MES 178 5 'Hi there!'
+  /MG1/GEVMSG64.MES 178 6 'Who are you,'
+  /MG1/GEVMSG64.MES 178 7 ' sir?'
+  /MG1/GEVMSG64.MES 178 13 'Thank goodness!'
+  /MG1/GEVMSG64.MES 178 14 "I'm so very lost..."
+  /MG1/GEVMSG64.MES 178 22 'You really mean it?!'
+  /MG1/GEVMSG64.MES 178 31 'Me,'
+  /MG1/GEVMSG64.MES 178 32 ' a superstar...?'
+  /MG1/GEVMSG64.MES 178 38 'Okay!'
+  /MG1/GEVMSG64.MES 178 39 "I'll do my very best!"
+=== 0068 count= 101
+  /MB1/MB133.MES 1 3 'The ones who invaded the Fire Shrine?'
+  /MB1/MB133.MES 1 4 'Such energetic little boys...'
+  /MB1/MB133.MES 1 6 "We needn't trouble him with this."
+  /MB1/MB133.MES 1 7 'You can finish them off yourself.'
+  /MB1/MB139.MES 5 0 'Zieg, what are you doing...?'
+  /MB1/MB139.MES 5 1 "You cannot fall here when there's"
+  /MB1/MB139.MES 5 2 'so much left to do!'
+  /MB1/MB148.MES 2 6 "I'm disappointed,"
+  /MB1/MB148.MES 2 7 ' Zieg...'
+  /MB1/MB148.MES 2 8 "You let your guard down, didn't you?"
+  /MB1/MB148.MES 2 12 "Let's just get you out of here."
+  /MB1/MB148.MES 2 13 "We'll make them pay for this later."
+  /MB1/MB148.MES 65544 6 "I'm disappointed,"
+  /MB1/MB148.MES 65544 7 ' Zieg...'
+  /MB1/MB148.MES 65544 8 "You let your guard down, didn't you?"
+  /MB1/MB148.MES 65544 12 "Let's just get you out of here."
+  /MB1/MB148.MES 65544 13 "We'll make them pay for this later."
+  /MB1/MB49.MES 1 0 'Well,'
+  /MB1/MB49.MES 1 1 " wasn't that a show!"
+  /MB1/MB49.MES 1 2 'Lovely performance,'
+  /MB1/MB49.MES 1 3 ' I must say.'
+  /MB1/MB49.MES 1 4 'Even for a traitor like you.'
+  /MB1/MB49.MES 14 0 'Here the whole time,'
+  /MB1/MB49.MES 14 1 ' yes.'
+  /MB1/MB49.MES 14 2 'But I was certain Julius was '
+  /MB1/MB49.MES 14 3 'going to be the one to kill'
+  /MB1/MB49.MES 14 4 'the old man...'
+  /MB1/MB49.MES 14 5 "It's all the same to me,"
+  /MB1/MB49.MES 14 6 ' though.'
+  /MB1/MB49.MES 51 0 'Of course.'
+  /MB1/MB49.MES 51 1 'He stopped being useful to me'
+  /MB1/MB49.MES 51 2 'many months ago.'
+  /MB1/MB49.MES 51 3 'And now,'
+  /MB1/MB49.MES 51 4 ' the Kingdom of'
+  /MB1/MB49.MES 51 5 'Canaan shall finally come'
+  /MB1/MB49.MES 51 6 'to its inevitable end.'
+  /MB1/MB49.MES 51 7 'Arless,'
+  /MB1/MB49.MES 51 8 ' consumed in the flames'
+  /MB1/MB49.MES 51 9 'of the dragon Mousa...'
+  /MB1/MB49.MES 51 10 'You,'
+  /MB1/MB49.MES 51 11 ' executed for murdering'
+  /MB1/MB49.MES 51 12 'the Emperor...'
+  /MB1/MB49.MES 51 13 'And Julius,'
+  /MB1/MB49.MES 51 14 ' who as we speak'
+  /MB1/MB49.MES 51 15 'is destroying himself out of'
+  /MB1/MB49.MES 51 16 'shame for his inaction...'
+  /MB1/MB49.MES 51 17 'The three stars of Canaan fall,'
+  /MB1/MB49.MES 51 18 'and the sun of Zoa rises.'
+  /MB1/MB49.MES 51 19 'Praise be to His Excellency,'
+  /MB1/MB49.MES 51 20 'our great Pontiff Guenchaos.'
+  /MB1/MB49.MES 16 0 'As Empress of the Zoa Empire'
+  /MB1/MB49.MES 16 1 'and consort of the late Emperor'
+  /MB1/MB49.MES 16 2 'Bahanuk,'
+  /MB1/MB49.MES 16 3 ' I hereby sentence you'
+  /MB1/MB49.MES 16 4 'to death,'
+  /MB1/MB49.MES 16 5 ' Barker of Canaan.'
+  /MB1/MB49.MES 3 0 'Pathetic wretch...'
+  /MB1/MB49.MES 18 0 'Well,'
+  /MB1/MB49.MES 18 1 " isn't this sweet?"
+  /MB1/MB49.MES 18 2 'It really is the kid from'
+  /MB1/MB49.MES 18 3 'all those years ago...'
+  /MB1/MB49.MES 18 4 'Did you come here to'
+  /MB1/MB49.MES 18 5 'avenge mommy,'
+  /MB1/MB49.MES 18 6 ' boy?'
+  /MB1/MB49.MES 18 7 'Come and try me'
+  /MB1/MB49.MES 18 8 ', then!'
+  /MB1/MB49.MES 18 9 'Give me your best shot!'
+  /MB1/MB49.MES 21 0 "Don't be a spoilsport,"
+  /MB1/MB49.MES 21 1 ' Temujin.'
+  /MB1/MB49.MES 21 2 'Long time no see,'
+  /MB1/MB49.MES 21 3 ' by the way.'
+  /MB1/MB49.MES 21 4 "You've certainly looked better."
+  /MB1/MB49.MES 52 0 'How dare you look down on me!'
+  /MB1/MB49.MES 52 1 "You're a traitor,"
+  /MB1/MB49.MES 52 2 ' Temujin!'
+  /MB1/MB49.MES 52 3 'You threw away your comrades'
+  /MB1/MB49.MES 52 4 'for your own selfishness!'
+  /MB1/MB49.MES 23 0 'Hmph...'
+  /MB1/MB49.MES 23 1 'I will take my leave for now...'
+  /MB1/MB49.MES 23 2 'Enjoy what little time you'
+  /MB1/MB49.MES 23 3 'have left,'
+  /MB1/MB49.MES 23 4 ' traitor.'
+  /MB1/MB49.MES 23 5 "It doesn't matter if I kill"
+  /MB1/MB49.MES 23 6 'you now or not.'
+  /MB1/MB49.MES 23 7 'You will all be consumed by'
+  /MB1/MB49.MES 23 8 'the black rain of Gerxel'
+  /MB1/MB49.MES 23 9 'when he rises again!'
+  /MG1/GEVMSG22.MES 65630 0 'Hello,'
+  /MG1/GEVMSG22.MES 65630 1 ' Zieg.'
+  /MG1/GEVMSG22.MES 65630 4 'I started to get worried when you stopped'
+  /MG1/GEVMSG22.MES 65630 5 'sending your regular reports,'
+  /MG1/GEVMSG22.MES 65630 6 ' so I thought'
+  /MG1/GEVMSG22.MES 65630 7 "I'd pay you a visit."
+  /MG1/GEVMSG22.MES 65630 8 "You haven't abandoned your mission,"
+  /MG1/GEVMSG22.MES 65630 9 'have you?'
+  /MG1/GEVMSG22.MES 65630 17 'Whatever you say, Zieg...'
+  /MG1/GEVMSG22.MES 65630 18 'Regardless,'
+  /MG1/GEVMSG22.MES 65630 19 ' His Excellency wanted me to'
+  /MG1/GEVMSG22.MES 65630 20 'tell you that your mission is complete.'
+  /MG1/GEVMSG22.MES 65630 21 'There are more pressing tasks for us ahead,'
+  /MG1/GEVMSG22.MES 65630 22 'and we need every one of our warriors.'
+=== 00D0 count= 176
+  /MB1/MB104.MES 2 2 'Even if we attack all together,'
+  /MB1/MB104.MES 2 3 "we still can't beat him..."
+  /MB1/MB104.MES 2 14 'I agree with Holmes.'
+  /MB1/MB104.MES 2 15 'Let us pray now,'
+  /MB1/MB104.MES 2 16 ' as Carluon prayed for'
+  /MB1/MB104.MES 2 17 'the gods to save him in his hour of need...'
+  /MB1/MB104.MES 5 2 'The pieces of the holy blade...'
+  /MB1/MB104.MES 5 3 'I can feel their power growing!'
+  /MB1/MB109.MES 7 0 "I'm truly grateful for your concern,"
+  /MB1/MB109.MES 7 1 'Prince Sennet,'
+  /MB1/MB109.MES 7 2 ' but you must focus on'
+  /MB1/MB109.MES 7 3 'your own great objective.'
+  /MB1/MB109.MES 7 4 'Canaan needs their prince.'
+  /MB1/MB109.MES 7 5 "You needn't worry about us."
+  /MB1/MB109.MES 7 6 "We're Champions of Yutona,"
+  /MB1/MB109.MES 7 7 ' remember?'
+  /MB1/MB109.MES 7 8 "But as long as we're going the same"
+  /MB1/MB109.MES 7 9 'direction,'
+  /MB1/MB109.MES 7 10 ' please feel free to accompany us.'
+  /MB1/MB113.MES 3 6 "We can't just ignore them, Richard!"
+  /MB1/MB113.MES 3 7 "It's far too dangerous here."
+  /MB1/MB114.MES 3 0 'Kuh...'
+  /MB1/MB114.MES 3 1 "I can't believe it..."
+  /MB1/MB114.MES 3 2 'I will withdraw for the time being.'
+  /MB1/MB133.MES 5 6 'Guenchaos...!'
+  /MB1/MB133.MES 5 12 "I won't be a pawn in your game,"
+  /MB1/MB133.MES 5 13 ' Guenchaos!'
+  /MB1/MB133.MES 5 14 "I've come here to put an end to you"
+  /MB1/MB133.MES 5 15 'and all your scheming!'
+  /MB1/MB133.MES 5 24 'Richard!?'
+  /MB1/MB133.MES 5 25 'No... '
+  /MB1/MB133.MES 5 26 " you can't be serious..."
+  /MB1/MB133.MES 5 31 'Richard...'
+  /MB1/MB133.MES 5 32 'Was none of it real,'
+  /MB1/MB133.MES 5 33 ' Richard?'
+  /MB1/MB133.MES 5 34 'Everything that we had,'
+  /MB1/MB133.MES 5 35 ' was it all a lie...?'
+  /MB1/MB133.MES 5 43 "You're wrong!"
+  /MB1/MB133.MES 5 44 "You're wrong,"
+  /MB1/MB133.MES 5 45 ' Richard...'
+  /MB1/MB133.MES 5 46 'When you proposed,'
+  /MB1/MB133.MES 5 47 ' it was just so sudden,'
+  /MB1/MB133.MES 5 48 "I couldn't give an answer right away..."
+  /MB1/MB133.MES 5 49 'My head was so full of emotions then,'
+  /MB1/MB133.MES 5 50 ' and'
+  /MB1/MB133.MES 5 51 "I didn't want to make any rash decisions..."
+  /MB1/MB133.MES 5 61 'No,'
+  /MB1/MB133.MES 5 62 " that's not what I meant..."
+  /MB1/MB133.MES 5 63 'Please, Richard!'
+  /MB1/MB133.MES 5 64 ' You have to believe me!'
+  /MB1/MB133.MES 5 65 'I do love you!'
+  /MB1/MB133.MES 5 66 ' I want to marry you!'
+  /MB1/MB133.MES 5 96 'Richard!!'
+  /MB1/MB133.MES 6 0 'Richard...'
+  /MB1/MB133.MES 6 1 "I don't understand..."
+  /MB1/MB140.MES 0 3 "Sorry, but I'm kind of busy."
+  /MB1/MB140.MES 0 4 "I can't talk right now!"
+  /MB1/MB58.MES 3 0 'Guenchaos...'
+  /MB1/MB58.MES 3 1 "I'll kill you!"
+  /MB1/MB58.MES 3 5 "We'll see about that!"
+  /MB1/MB58.MES 3 6 'The spirits of the three Shamans are with me!'
+  /MB1/MB58.MES 3 7 'Their anger is in this sword!'
+  /MB1/MB58.MES 3 8 'Die,'
+  /MB1/MB58.MES 3 9 ' Guenchaos!'
+  /MB1/MB60.MES 8 5 'Why...'
+  /MB1/MB60.MES 8 6 'After we came so far,'
+  /MB1/MB60.MES 8 7 ' we still'
+  /MB1/MB60.MES 8 8 "couldn't stop Gerxel's resurrection..."
+  /MB1/MB60.MES 8 9 'Goddess Yutona...'
+  /MB1/MB60.MES 8 10 'Why have you forsaken humanity?'
+  /MB1/MB60.MES 8 11 'Are we truly no longer worthy of life...?'
+  /MB1/MB62.MES 1 0 'Richard!'
+  /MB1/MB62.MES 1 1 'No,'
+  /MB1/MB62.MES 1 2 " don't leave me!"
+  /MB1/MB62.MES 1 8 'Richaaaard!'
+  /MB1/MB75.MES 0 0 'The great Mother Earth'
+  /MB1/MB75.MES 0 1 ' Miradona...?'
+  /MB1/MB75.MES 0 2 'I'
+  /MB1/MB75.MES 0 3 "-It can't be..."
+  /MB1/MB75.MES 0 4 'I must be seeing things...'
+  /MB1/MB75.MES 9 0 'Richard...'
+  /MB1/MB75.MES 9 4 "It's my fault Richard was killed..."
+  /MB1/MB75.MES 9 5 'I gave him my sword,'
+  /MB1/MB75.MES 9 6 ' but I...'
+  /MB1/MB75.MES 9 7 "I didn't know..."
+  /MB1/MB75.MES 9 8 'How can I even begin to apologize...?'
+  /MB1/MB76.MES 1 0 'Richard?!'
+  /MB1/MB76.MES 1 1 "You're alive!"
+  /MB1/MB76.MES 2 5 'Oh,'
+  /MB1/MB76.MES 2 6 ' Richard...!'
+  /MG1/GEVMSG11.MES 15 7 "You mustn't be rude,"
+  /MG1/GEVMSG11.MES 15 8 ' Richard.'
+  /MG1/GEVMSG11.MES 15 9 "I think it's very brave of him to fight"
+  /MG1/GEVMSG11.MES 15 10 'for his people at such a young age.'
+  /MG1/GEVMSG11.MES 15 18 'Then I will have no regrets.'
+  /MG1/GEVMSG11.MES 15 19 'I pity those who have no faith in'
+  /MG1/GEVMSG11.MES 15 20 'their fellow man.'
+  /MG1/GEVMSG11.MES 15 25 "Don't change the subject!"
+  /MG1/GEVMSG11.MES 16 90 'Pleased to meet you,'
+  /MG1/GEVMSG11.MES 16 91 ' Lord Runan.'
+  /MG1/GEVMSG11.MES 16 92 'I am Tia,'
+  /MG1/GEVMSG11.MES 16 93 ' daughter of Marquess Trente.'
+  /MG1/GEVMSG11.MES 16 94 'I understand that you have accepted'
+  /MG1/GEVMSG11.MES 16 95 'an alliance with our forces.'
+  /MG1/GEVMSG11.MES 16 96 'You have my most sincere thanks.'
+  /MG1/GEVMSG11.MES 16 115 'Hold,'
+  /MG1/GEVMSG11.MES 16 116 ' Richard.'
+  /MG1/GEVMSG11.MES 16 117 'Lord Runan,'
+  /MG1/GEVMSG11.MES 16 118 ' I do not wish for the destruction'
+  /MG1/GEVMSG11.MES 16 119 'of the current order of things,'
+  /MG1/GEVMSG11.MES 16 120 ' nor do I'
+  /MG1/GEVMSG11.MES 16 121 'aim to resurrect the fallen kingdom.'
+  /MG1/GEVMSG11.MES 16 122 'I have only one goal,'
+  /MG1/GEVMSG11.MES 16 123 ' one thing that I'
+  /MG1/GEVMSG11.MES 16 124 'absolutely must accomplish'
+  /MG1/GEVMSG11.MES 16 125 ', and for which'
+  /MG1/GEVMSG11.MES 16 126 'I am willing to go to any lengths.'
+  /MG1/GEVMSG11.MES 16 127 'It is for that cause that I am uniting'
+  /MG1/GEVMSG11.MES 16 128 'the scattered people of Leda.'
+  /MG1/GEVMSG11.MES 16 129 'The battle with Istoria is merely a'
+  /MG1/GEVMSG11.MES 16 130 'stepping stone toward that goal.'
+  /MG1/GEVMSG11.MES 16 133 'I will annihilate the Cult of Gerxel'
+  /MG1/GEVMSG11.MES 16 134 'and kill Pontiff Guenchaos.'
+  /MG1/GEVMSG11.MES 16 135 'That is my mission.'
+  /MG1/GEVMSG11.MES 16 137 'If I do not do this,'
+  /MG1/GEVMSG11.MES 16 138 ' I and my descendants'
+  /MG1/GEVMSG11.MES 16 139 'will be forced to live out our days in terror.'
+  /MG1/GEVMSG11.MES 16 140 'I have chosen a path to confront my fears'
+  /MG1/GEVMSG11.MES 16 141 'rather than to run from them.'
+  /MG1/GEVMSG11.MES 16 152 'Thank you,'
+  /MG1/GEVMSG11.MES 16 153 ' Lord Runan.'
+  /MG1/GEVMSG11.MES 16 154 'But for now,'
+  /MG1/GEVMSG11.MES 16 155 ' your alliance against the'
+  /MG1/GEVMSG11.MES 16 156 'Empire is more than enough.'
+  /MG1/GEVMSG11.MES 16 157 'I will be praying for your victory.'
+  /MG1/GEVMSG11.MES 16 158 "Yutona's grace be with you,"
+  /MG1/GEVMSG11.MES 16 159 ' Lord Runan.'
+  /MG1/GEVMSG20.MES 86 12 'What are you saying, Richard?'
+  /MG1/GEVMSG20.MES 86 13 'I will accompany you, like I always have.'
+  /MG1/GEVMSG20.MES 86 19 '......'
+  /MG1/GEVMSG32.MES 65865 0 'Sennet!'
+  /MG1/GEVMSG32.MES 65865 11 'It is strange,'
+  /MG1/GEVMSG32.MES 65865 12 " isn't it?"
+  /MG1/GEVMSG32.MES 65865 13 'It feels like the world is playing'
+  /MG1/GEVMSG32.MES 65865 14 'one big joke on all of us.'
+  /MG1/GEVMSG32.MES 65865 23 'Oh,'
+  /MG1/GEVMSG32.MES 65865 24 ' sorry!'
+  /MG1/GEVMSG32.MES 65865 25 "I'll be right there,"
+  /MG1/GEVMSG32.MES 65865 26 ' Richard!'
+  /MG1/GEVMSG32.MES 65865 27 'What were you going to say,'
+  /MG1/GEVMSG32.MES 65865 28 ' Sennet?'
+  /MG1/GEVMSG32.MES 65865 36 'Thank you,'
+  /MG1/GEVMSG32.MES 65865 37 ' Sennet.'
+  /MG1/GEVMSG32.MES 65865 38 ' Me too.'
+  /MG1/GEVMSG32.MES 65865 39 "You've always been a dear friend to me."
+  /MG1/GEVMSG32.MES 65865 40 'Well,'
+  /MG1/GEVMSG32.MES 65865 41 ' until we meet again!'
+  /MG1/GEVMSG33.MES 333 4 'Richard!'
+  /MG1/GEVMSG40.MES 400 21 'Same to you,'
+  /MG1/GEVMSG40.MES 400 22 ' Lord Runan.'
+  /MG1/GEVMSG55.MES 125 44 'Wait,'
+  /MG1/GEVMSG55.MES 125 45 ' Sir Holmes!'
+  /MG1/GEVMSG55.MES 125 46 "I apologize for Prince Richard's brashness."
+  /MG1/GEVMSG55.MES 125 47 "Please don't be upset with him."
+  /MG1/GEVMSG55.MES 125 49 "I'm Tia,"
+  /MG1/GEVMSG55.MES 125 50 ' daughter of Marquess Trente.'
+  /MG1/GEVMSG55.MES 125 53 '...'
+  /MG1/GEVMSG55.MES 125 76 "You don't believe I'm the real princess?"
+  /MG1/GEVMSG55.MES 125 92 "So you're saying I'm just being"
+  /MG1/GEVMSG55.MES 125 93 'used by Richard, is that it?'
+  /MG1/GEVMSG55.MES 125 100 'No,'
+  /MG1/GEVMSG55.MES 125 101 ' he would never do that!'
+  /MG1/GEVMSG55.MES 125 102 'I know him, and he would never betray'
+  /MG1/GEVMSG55.MES 125 103 'someone he loves!'
+  /MG1/GEVMSG55.MES 125 110 'No, wait!'
+  /MG1/GEVMSG55.MES 125 111 ' I...'
+=== 0163 count= 295
+  /MB1/MB109.MES 0 0 'Is this all the legions of Gerxel can do?'
+  /MB1/MB109.MES 0 1 'How in the world did anyone ever get'
+  /MB1/MB109.MES 0 2 'conquered by these imbeciles?'
+  /MB1/MB109.MES 2 0 'You "doubt"?'
+  /MB1/MB109.MES 2 1 ' Hmph.'
+  /MB1/MB109.MES 2 2 "Forgive me if I don't find the predictions"
+  /MB1/MB109.MES 2 3 'of a man who abandoned his country,'
+  /MB1/MB109.MES 2 4 ' wife,'
+  /MB1/MB109.MES 2 5 'and children to be of much worth,'
+  /MB1/MB109.MES 2 6 ' Alfred.'
+  /MB1/MB109.MES 5 0 "That's enough meddling,"
+  /MB1/MB109.MES 5 1 ' Prince Sennet.'
+  /MB1/MB109.MES 5 2 'Tia and I have decided,'
+  /MB1/MB109.MES 5 3 " and that's that."
+  /MB1/MB113.MES 3 0 'My, my,'
+  /MB1/MB113.MES 3 1 ' some scavengers have scuttled in'
+  /MB1/MB113.MES 3 2 'looking for the lost treasures of Leda!'
+  /MB1/MB113.MES 3 3 "They don't seem to care much about"
+  /MB1/MB113.MES 3 4 'their own skins,'
+  /MB1/MB113.MES 3 5 ' do they?'
+  /MB1/MB114.MES 0 0 'Kuh...'
+  /MB1/MB114.MES 0 1 "I'm going to have to"
+  /MB1/MB114.MES 0 2 'withdraw for the time being.'
+  /MB1/MB133.MES 5 21 'Of course not.'
+  /MB1/MB133.MES 5 22 'Tia...'
+  /MB1/MB133.MES 5 23 ' drop your sword.'
+  /MB1/MB133.MES 5 27 "I'm afraid so,"
+  /MB1/MB133.MES 5 28 ' Tia.'
+  /MB1/MB133.MES 5 29 'Sage Guenchaos has promised me the'
+  /MB1/MB133.MES 5 30 'Kingdom of Leda in exchange for you.'
+  /MB1/MB133.MES 5 36 "Don't pretend like you actually cared for me."
+  /MB1/MB133.MES 5 37 "I've done nothing but work hard for you,"
+  /MB1/MB133.MES 5 38 'to earn your affections,'
+  /MB1/MB133.MES 5 39 ' to prove myself...'
+  /MB1/MB133.MES 5 40 'But you rejected me.'
+  /MB1/MB133.MES 5 41 'You took all my love and crushed it!'
+  /MB1/MB133.MES 5 42 'You made a fool of me in my own court!'
+  /MB1/MB133.MES 5 52 'Did you hear that,'
+  /MB1/MB133.MES 5 53 ' Guenchaos?'
+  /MB1/MB133.MES 5 54 "She says that marrying me would've been"
+  /MB1/MB133.MES 5 55 'a'
+  /MB1/MB133.MES 5 56 ' "rash decision"!'
+  /MB1/MB133.MES 5 57 "It's funny what we let slip when we're"
+  /MB1/MB133.MES 5 58 'put on the spot,'
+  /MB1/MB133.MES 5 59 " isn't it,"
+  /MB1/MB133.MES 5 60 ' Tia?'
+  /MB1/MB133.MES 5 73 "She's all yours,"
+  /MB1/MB133.MES 5 74 ' Guenchaos.'
+  /MB1/MB133.MES 5 75 "I don't care what you do with her..."
+  /MB1/MB133.MES 5 76 'But remember:'
+  /MB1/MB133.MES 5 77 ' Leda is mine,'
+  /MB1/MB133.MES 5 78 " and you're"
+  /MB1/MB133.MES 5 79 'going to help me take it.'
+  /MB1/MB133.MES 5 92 'The Dark God...'
+  /MB1/MB133.MES 5 93 'How fitting,'
+  /MB1/MB133.MES 5 94 ' given what a monster'
+  /MB1/MB133.MES 5 95 "I've become..."
+  /MB1/MB133.MES 5 97 'Tia...'
+  /MB1/MB133.MES 5 98 'Farewell...'
+  /MB1/MB140.MES 1 4 "Figures that it'd be a filthy pirate like you"
+  /MB1/MB140.MES 1 5 "who's here to steal Leda's treasures."
+  /MB1/MB140.MES 1 6 'Were it up to me,'
+  /MB1/MB140.MES 1 7 " we'd have let those Gerxel"
+  /MB1/MB140.MES 1 8 'mongrels kill you,'
+  /MB1/MB140.MES 1 9 ' so count your lucky stars'
+  /MB1/MB140.MES 1 10 'that Prince Sennet is such a sap.'
+  /MB1/MB57.MES 65545 3 'What sort of man would I be if I turned'
+  /MB1/MB57.MES 65545 4 'tail after coming so far?'
+  /MB1/MB57.MES 65545 5 'Tia and I both knew this gambit could be'
+  /MB1/MB57.MES 65545 6 'our only chance of catching Guenchaos'
+  /MB1/MB57.MES 65545 7 'by surprise.'
+  /MB1/MB57.MES 65545 8 "I'm seeing this through to the end."
+  /MB1/MB57.MES 65545 9 'Do it,'
+  /MB1/MB57.MES 65545 10 ' Alfred.'
+  /MB1/MB57.MES 65545 11 'No matter what occurs,'
+  /MB1/MB57.MES 65545 12 ' I will not falter.'
+  /MB1/MB58.MES 1 0 "You'll never lay a finger on her,"
+  /MB1/MB58.MES 1 1 ' Guenchaos!'
+  /MB1/MB58.MES 1 2 'Die!'
+  /MB1/MB58.MES 1 5 'Damn,'
+  /MB1/MB58.MES 1 6 ' I missed...'
+  /MB1/MB58.MES 1 7 "You're more agile than I thought,"
+  /MB1/MB58.MES 1 8 ' old man.'
+  /MB1/MB58.MES 1 9 'Sorry for the delay,'
+  /MB1/MB58.MES 1 10 ' Tia.'
+  /MB1/MB58.MES 1 11 "I'll take care of this ruffian for you."
+  /MB1/MB58.MES 2 0 'Some knight I am,'
+  /MB1/MB58.MES 2 1 ' eh,'
+  /MB1/MB58.MES 2 2 ' Tia?'
+  /MB1/MB58.MES 2 3 "I can't even protect you properly..."
+  /MB1/MB58.MES 2 4 'But no matter what,'
+  /MB1/MB58.MES 2 5 ' I...'
+  /MB1/MB58.MES 2 6 'Damn it all...'
+  /MB1/MB58.MES 2 7 'Stand up,'
+  /MB1/MB58.MES 2 8 ' Richard...'
+  /MB1/MB58.MES 2 9 'You just have to...'
+  /MB1/MB58.MES 2 10 ' stand...'
+  /MB1/MB58.MES 2 12 "It's no use..."
+  /MB1/MB58.MES 2 13 'Here...'
+  /MB1/MB58.MES 2 14 " You'll need your sword back,"
+  /MB1/MB58.MES 2 15 ' Tia...'
+  /MB1/MB58.MES 2 16 "It wouldn't..."
+  /MB1/MB58.MES 2 17 ' work for me...'
+  /MB1/MB58.MES 2 18 'But I know it will for you...'
+  /MB1/MB58.MES 2 19 "You can't let Guenchaos..."
+  /MB1/MB58.MES 2 20 ' use you...'
+  /MB1/MB58.MES 2 21 'Promise me...'
+  /MB1/MB58.MES 2 22 "You'll make it out of this alive..."
+  /MB1/MB58.MES 65545 0 'Gaah...'
+  /MB1/MB62.MES 1 3 'Tia...'
+  /MB1/MB62.MES 1 4 ' my love...'
+  /MB1/MB62.MES 1 5 'Fight on...'
+  /MB1/MB62.MES 1 6 'Fight...'
+  /MB1/MB62.MES 1 7 ' to the last breath...'
+  /MB1/MB62.MES 4 0 'Grrraaah!'
+  /MB1/MB62.MES 4 1 "I can't move..."
+  /MB1/MB62.MES 4 2 ' my body...!'
+  /MB1/MB62.MES 4 3 "So that's how you..."
+  /MB1/MB62.MES 4 4 ' beat the other Sages...'
+  /MB1/MB62.MES 4 5 'You tricky bastard...'
+  /MB1/MB76.MES 2 0 'Indeed...'
+  /MB1/MB76.MES 2 1 "Though even the Goddess couldn't"
+  /MB1/MB76.MES 2 2 'bring back my pride...'
+  /MB1/MB76.MES 2 3 'I should never have lost to a man'
+  /MB1/MB76.MES 2 4 'like Guenchaos.'
+  /MB1/MB76.MES 2 7 'Just leave everything to me,'
+  /MB1/MB76.MES 2 8 ' Tia.'
+  /MB1/MB76.MES 2 9 "I'm going to make Leda a great kingdom,"
+  /MB1/MB76.MES 2 10 'like it used to be.'
+  /MB1/MB76.MES 2 11 'And then one day,'
+  /MB1/MB76.MES 2 12 ' the two of us'
+  /MB1/MB76.MES 2 13 'will rule the world together!'
+  /MB1/MB76.MES 2 14 'Ahahahaha...'
+  /MB1/MB76.MES 2 15 ' Augh,'
+  /MB1/MB76.MES 2 16 ' it hurts to laugh...'
+  /MG1/GEVMSG11.MES 15 0 'So,'
+  /MG1/GEVMSG11.MES 15 1 ' the Wellt-Razelian Alliance has'
+  /MG1/GEVMSG11.MES 15 2 'landed here in Mahl...'
+  /MG1/GEVMSG11.MES 15 3 'Runan is merely a child,'
+  /MG1/GEVMSG11.MES 15 4 ' but I suppose'
+  /MG1/GEVMSG11.MES 15 5 'I should welcome him nonetheless.'
+  /MG1/GEVMSG11.MES 15 6 'What a bother...'
+  /MG1/GEVMSG11.MES 15 11 'Hah...'
+  /MG1/GEVMSG11.MES 15 12 'Who knows what his true motive is?'
+  /MG1/GEVMSG11.MES 15 13 'If you insist on always looking for the'
+  /MG1/GEVMSG11.MES 15 14 'good side of people,'
+  /MG1/GEVMSG11.MES 15 15 " one day you're going"
+  /MG1/GEVMSG11.MES 15 16 'to be stabbed in the back,'
+  /MG1/GEVMSG11.MES 15 17 ' Tia.'
+  /MG1/GEVMSG11.MES 15 21 'Oh,'
+  /MG1/GEVMSG11.MES 15 22 ' Tia...'
+  /MG1/GEVMSG11.MES 15 23 'You truly are naive.'
+  /MG1/GEVMSG11.MES 15 24 "But perhaps that's what I like about you."
+  /MG1/GEVMSG11.MES 15 26 'No need to get upset,'
+  /MG1/GEVMSG11.MES 15 27 ' my dear.'
+  /MG1/GEVMSG11.MES 15 28 'Anyway,'
+  /MG1/GEVMSG11.MES 15 29 " I've sent an escort to meet Runan,"
+  /MG1/GEVMSG11.MES 15 30 'so he should be arriving shortly.'
+  /MG1/GEVMSG11.MES 15 31 "While I'd like to trust him,"
+  /MG1/GEVMSG11.MES 15 32 ' I must first'
+  /MG1/GEVMSG11.MES 15 33 'test his character for myself.'
+  /MG1/GEVMSG11.MES 15 34 'I have no doubt that he is simply a boy'
+  /MG1/GEVMSG11.MES 15 35 "basking in his father's fame."
+  /MG1/GEVMSG11.MES 15 36 'He can hardly be the hero that the rumors'
+  /MG1/GEVMSG11.MES 15 37 'make him out to be.'
+  /MG1/GEVMSG11.MES 16 5 'Lord Runan,'
+  /MG1/GEVMSG11.MES 16 6 ' surely there is no need for such'
+  /MG1/GEVMSG11.MES 16 7 'forced pleasantries at a time like this.'
+  /MG1/GEVMSG11.MES 16 8 'After the fiasco at the Battle of Balt'
+  /MG1/GEVMSG11.MES 16 9 'trying to aid your homeland,'
+  /MG1/GEVMSG11.MES 16 10 " I've fought"
+  /MG1/GEVMSG11.MES 16 11 'tooth and nail every day on the front lines.'
+  /MG1/GEVMSG11.MES 16 12 'Seeing a mere boy like you carry yourself'
+  /MG1/GEVMSG11.MES 16 13 'like a hero makes me sick to my stomach.'
+  /MG1/GEVMSG11.MES 16 17 'Oh?'
+  /MG1/GEVMSG11.MES 16 18 'I was expecting you to run off'
+  /MG1/GEVMSG11.MES 16 19 'crying to your advisor.'
+  /MG1/GEVMSG11.MES 16 20 "You're more mature than I'd anticipated."
+  /MG1/GEVMSG11.MES 16 44 '...Agreed.'
+  /MG1/GEVMSG11.MES 16 45 "Everything you've said is true,"
+  /MG1/GEVMSG11.MES 16 46 ' Lord Runan.'
+  /MG1/GEVMSG11.MES 16 47 'We have no other choice.'
+  /MG1/GEVMSG11.MES 16 48 'We have insufficient troops to hold off'
+  /MG1/GEVMSG11.MES 16 49 'both Istoria and the Empire.'
+  /MG1/GEVMSG11.MES 16 50 'Your assistance is exactly what we need.'
+  /MG1/GEVMSG11.MES 16 51 'However,'
+  /MG1/GEVMSG11.MES 16 52 ' my past alliances both at Balt'
+  /MG1/GEVMSG11.MES 16 53 'and here in Leda have been betrayed.'
+  /MG1/GEVMSG11.MES 16 54 'Many of my soldiers were lost,'
+  /MG1/GEVMSG11.MES 16 55 ' and I have'
+  /MG1/GEVMSG11.MES 16 56 'been cursing my foolishness ever since.'
+  /MG1/GEVMSG11.MES 16 57 'Thus,'
+  /MG1/GEVMSG11.MES 16 58 ' I felt the need to test your'
+  /MG1/GEVMSG11.MES 16 59 'character as a leader.'
+  /MG1/GEVMSG11.MES 16 60 'I apologize for my harsh words.'
+  /MG1/GEVMSG11.MES 16 69 'It seems some of the rumors about you'
+  /MG1/GEVMSG11.MES 16 70 'are indeed true,'
+  /MG1/GEVMSG11.MES 16 71 ' Lord Runan.'
+  /MG1/GEVMSG11.MES 16 72 'You do your father proud.'
+  /MG1/GEVMSG11.MES 16 73 'Now then,'
+  /MG1/GEVMSG11.MES 16 74 ' I would like to introduce Princess'
+  /MG1/GEVMSG11.MES 16 75 'Tia,'
+  /MG1/GEVMSG11.MES 16 76 ' leader of the new Leda Liberation Army.'
+  /MG1/GEVMSG11.MES 16 80 'Princess Tia is a direct descendant of'
+  /MG1/GEVMSG11.MES 16 81 'the old royal family of Leda.'
+  /MG1/GEVMSG11.MES 16 82 'To nations like Mahl founded on the soil'
+  /MG1/GEVMSG11.MES 16 83 'of the old Kingdom,'
+  /MG1/GEVMSG11.MES 16 84 ' she embodies our hope'
+  /MG1/GEVMSG11.MES 16 85 'for the restoration of our lands.'
+  /MG1/GEVMSG11.MES 16 86 'I ask that you give her your highest respect.'
+  /MG1/GEVMSG11.MES 16 88 'Princess Tia,'
+  /MG1/GEVMSG11.MES 16 89 ' this is Lord Runan of Razelia.'
+  /MG1/GEVMSG11.MES 16 112 'Watch your tongue,'
+  /MG1/GEVMSG11.MES 16 113 ' Lord Runan!'
+  /MG1/GEVMSG11.MES 16 114 'You are being disrespectful!'
+  /MG1/GEVMSG11.MES 16 142 "That's quite enough,"
+  /MG1/GEVMSG11.MES 16 143 ' Lord Runan.'
+  /MG1/GEVMSG11.MES 16 144 'Please do not tire the Princess further'
+  /MG1/GEVMSG11.MES 16 145 'with your interrogations.'
+  /MG1/GEVMSG20.MES 86 3 'He has?!'
+  /MG1/GEVMSG20.MES 86 4 'Well done, Lawrence!'
+  /MG1/GEVMSG20.MES 86 5 'Very well, give the reserves the signal to'
+  /MG1/GEVMSG20.MES 86 6 'begin the final charge!'
+  /MG1/GEVMSG20.MES 86 7 'I will lead the front lines.'
+  /MG1/GEVMSG20.MES 86 9 'Tia, you will wait here.'
+  /MG1/GEVMSG20.MES 86 10 'I will send an escort once we secure the'
+  /MG1/GEVMSG20.MES 86 11 'castle town.'
+  /MG1/GEVMSG20.MES 86 14 'Mahl is my kingdom and my home.'
+  /MG1/GEVMSG20.MES 86 15 'I must secure my own palace, you will be'
+  /MG1/GEVMSG20.MES 86 16 'formally invited in as an honored guest.'
+  /MG1/GEVMSG20.MES 86 17 'Perhaps as a woman you may not understand,'
+  /MG1/GEVMSG20.MES 86 18 'but please, Tia, you must defer to me here.'
+  /MG1/GEVMSG20.MES 86 20 'Albert, focus your offense on the left wing!'
+  /MG1/GEVMSG20.MES 86 21 'Keep sending in troops to overwhelm the'
+  /MG1/GEVMSG20.MES 86 22 'castle town!'
+  /MG1/GEVMSG20.MES 65624 2 'Ignore the stragglers.'
+  /MG1/GEVMSG20.MES 65624 3 "We don't have the strength to chase them"
+  /MG1/GEVMSG20.MES 65624 4 'all the way to Istoria.'
+  /MG1/GEVMSG20.MES 65624 7 'Exactly.'
+  /MG1/GEVMSG20.MES 65624 8 'We must prepare for an eastern attack.'
+  /MG1/GEVMSG20.MES 65624 9 "First, let us secure the castle's defenses."
+  /MG1/GEVMSG20.MES 65624 10 "Then, I'll meet with the Razelians."
+  /MG1/GEVMSG20.MES 65624 12 "I don't how he managed it, but Runan of"
+  /MG1/GEVMSG20.MES 65624 13 'Razelia has gathered troops from Wellt.'
+  /MG1/GEVMSG20.MES 65624 14 'He claims that he will liberate his nation'
+  /MG1/GEVMSG20.MES 65624 15 "from the Empire's grip."
+  /MG1/GEVMSG20.MES 65624 16 'He seems to be little more than a naive boy,'
+  /MG1/GEVMSG20.MES 65624 17 'but he may prove to be of some use to us...'
+  /MG1/GEVMSG32.MES 65865 19 'There you are,'
+  /MG1/GEVMSG32.MES 65865 20 ' Tia!'
+  /MG1/GEVMSG32.MES 65865 21 'What are you doing?'
+  /MG1/GEVMSG32.MES 65865 22 "Everyone's waiting on you!"
+  /MG1/GEVMSG33.MES 333 0 "It would've been convenient to have a man"
+  /MG1/GEVMSG33.MES 333 1 'like Tatus as the King of Reeve...'
+  /MG1/GEVMSG33.MES 333 2 "It's always easy to manipulate the greedy."
+  /MG1/GEVMSG33.MES 333 3 'However...'
+  /MG1/GEVMSG33.MES 333 5 "Don't be so angry!"
+  /MG1/GEVMSG33.MES 333 6 'I said "however"!'
+  /MG1/GEVMSG33.MES 333 7 'As for me,'
+  /MG1/GEVMSG33.MES 333 8 ' I will stand with Lord Runan.'
+  /MG1/GEVMSG33.MES 333 9 'If you dare stand against his wishes,'
+  /MG1/GEVMSG33.MES 333 10 'I will march the entire army of Leda'
+  /MG1/GEVMSG33.MES 333 11 'to your doorstep,'
+  /MG1/GEVMSG33.MES 333 12 ' Count Tatus.'
+  /MG1/GEVMSG33.MES 333 13 "Though I hardly think it'll be necessary..."
+  /MG1/GEVMSG40.MES 400 0 'Finally,'
+  /MG1/GEVMSG40.MES 400 1 " we're back in my country."
+  /MG1/GEVMSG40.MES 400 2 'Runan,'
+  /MG1/GEVMSG40.MES 400 3 ' Holmes,'
+  /MG1/GEVMSG40.MES 400 4 ' would you care to pay a'
+  /MG1/GEVMSG40.MES 400 5 'visit to my royal palace?'
+  /MG1/GEVMSG40.MES 400 6 'This is a special invitation from yours truly.'
+  /MG1/GEVMSG40.MES 400 10 'Hmph,'
+  /MG1/GEVMSG40.MES 400 11 ' suit yourselves.'
+  /MG1/GEVMSG40.MES 400 12 'You both will of course be invited to'
+  /MG1/GEVMSG40.MES 400 13 'our wedding and coronation ceremonies.'
+  /MG1/GEVMSG40.MES 400 14 'You should receive formal messages'
+  /MG1/GEVMSG40.MES 400 15 'of invitation in due time.'
+  /MG1/GEVMSG55.MES 125 11 "It's been a long time, Bastard of Granada."
+  /MG1/GEVMSG55.MES 125 12 'I heard that you abandoned your own home'
+  /MG1/GEVMSG55.MES 125 13 'and left your father to die.'
+  /MG1/GEVMSG55.MES 125 21 "Don't even pretend for a second that"
+  /MG1/GEVMSG55.MES 125 22 'you and I are similar.'
+  /MG1/GEVMSG55.MES 125 23 'Unlike you, I have returned valiantly'
+  /MG1/GEVMSG55.MES 125 24 'and reclaimed my homeland from Istoria.'
+  /MG1/GEVMSG55.MES 125 31 'Hmph.'
+  /MG1/GEVMSG55.MES 125 32 ' I was entertaining the idea of allying'
+  /MG1/GEVMSG55.MES 125 33 'with Granada, since it would be advantageous'
+  /MG1/GEVMSG55.MES 125 34 'to have a maritime trade partner who is also'
+  /MG1/GEVMSG55.MES 125 35 "a friend of Runan's..."
+  /MG1/GEVMSG55.MES 125 36 'However, I am reminded now that Runan does'
+  /MG1/GEVMSG55.MES 125 37 'not keep the most trustworthy of friends.'
+  /MG1/GEVMSG55.MES 125 38 'Now begone!'
+  /MG1/GEVMSG55.MES 125 39 ' I am busy preparing for the'
+  /MG1/GEVMSG55.MES 125 40 'continued fight against Istoria.'
+=== 0143 count= 83
+  /MB1/MB113.MES 3 47 'Understood, milady.'
+  /MB1/MB113.MES 3 48 'I shall protect the Princess,'
+  /MB1/MB113.MES 3 49 ' no matter what!'
+  /MB1/MB114.MES 65545 0 'Kuh...'
+  /MB1/MB114.MES 65545 1 "I'm going to have to"
+  /MB1/MB114.MES 65545 2 'withdraw for the time being.'
+  /MB1/MB140.MES 2 3 'San,'
+  /MB1/MB140.MES 2 4 ' there are no mothers or daughters'
+  /MB1/MB140.MES 2 5 'on the battlefield,'
+  /MB1/MB140.MES 2 6 ' only soldiers.'
+  /MB1/MB140.MES 2 7 'Do you understand me?'
+  /MB1/MB50.MES 65547 0 "I'm Silva,"
+  /MB1/MB50.MES 65547 1 ' former captain of the Black'
+  /MB1/MB50.MES 65547 2 'Knights in service of Prince Arless.'
+  /MB1/MB50.MES 65547 3 "I've been in exile in Salia for a while."
+  /MB1/MB50.MES 65547 7 'How kind of you...'
+  /MB1/MB50.MES 65547 8 'After Prince Arless died,'
+  /MB1/MB50.MES 65547 9 ' the Black Knights'
+  /MB1/MB50.MES 65547 10 'were scattered among the new Imperial army.'
+  /MB1/MB50.MES 65547 11 'Those of us who stayed together were'
+  /MB1/MB50.MES 65547 12 'captured or fled west to Salia.'
+  /MG1/GEVMSG31.MES 307 7 'Knights of Arless,'
+  /MG1/GEVMSG31.MES 307 8 ' move out!'
+  /MG1/GEVMSG31.MES 308 2 'Mintz...'
+  /MG1/GEVMSG31.MES 308 3 "You'll stay here and guard Prince Sennet."
+  /MG1/GEVMSG31.MES 308 4 "That's the second-in-command's duty."
+  /MG1/GEVMSG31.MES 308 7 "That's right."
+  /MG1/GEVMSG31.MES 308 8 'Got a problem with that,'
+  /MG1/GEVMSG31.MES 308 9 ' Lieutenant-General?'
+  /MG1/GEVMSG31.MES 309 25 'Take her with you,'
+  /MG1/GEVMSG31.MES 309 26 ' Mintz.'
+  /MG1/GEVMSG31.MES 309 27 'Remember,'
+  /MG1/GEVMSG31.MES 309 28 " you're supposed to set an"
+  /MG1/GEVMSG31.MES 309 29 'example for the younger knights.'
+  /MG1/GEVMSG31.MES 309 30 "Just don't do anything..."
+  /MG1/GEVMSG31.MES 309 31 ' irresponsible.'
+  /MG1/GEVMSG31.MES 311 4 "There's no need,"
+  /MG1/GEVMSG31.MES 311 5 ' Holmes.'
+  /MG1/GEVMSG31.MES 311 6 'She was a knight of Canaan who fell'
+  /MG1/GEVMSG31.MES 311 7 'in the line of duty.'
+  /MG1/GEVMSG31.MES 311 8 'I was prepared for this possibility'
+  /MG1/GEVMSG31.MES 311 9 'ever since she became a soldier.'
+  /MG1/GEVMSG31.MES 311 14 '...Thank you,'
+  /MG1/GEVMSG31.MES 311 15 ' Holmes.'
+  /MG1/GEVMSG31.MES 311 16 "You're a kind leader."
+  /MG1/GEVMSG31.MES 312 0 'San,'
+  /MG1/GEVMSG31.MES 312 1 ' what are you standing around for?'
+  /MG1/GEVMSG31.MES 312 2 'If you call yourself a knight,'
+  /MG1/GEVMSG31.MES 312 3 " then you'd"
+  /MG1/GEVMSG31.MES 312 4 'better fall in line with the others!'
+  /MG1/GEVMSG31.MES 313 0 'San,'
+  /MG1/GEVMSG31.MES 313 1 ' what are you standing around for?'
+  /MG1/GEVMSG31.MES 313 2 'If you call yourself a knight,'
+  /MG1/GEVMSG31.MES 313 3 " then you'd"
+  /MG1/GEVMSG31.MES 313 4 'better fall in line with the others!'
+  /MG1/GEVMSG31.MES 313 9 'Sorry...'
+  /MG1/GEVMSG31.MES 313 10 'How have you been,'
+  /MG1/GEVMSG31.MES 313 11 ' San?'
+  /MG1/GEVMSG31.MES 313 12 "The others tell me you've been very"
+  /MG1/GEVMSG31.MES 313 13 'diligent in your training.'
+  /MG1/GEVMSG31.MES 313 14 "I know that I've been hard on you ever since"
+  /MG1/GEVMSG31.MES 313 15 'I became the head of the Black Knights.'
+  /MG1/GEVMSG31.MES 313 16 "I haven't been a very good mother to you."
+  /MG1/GEVMSG31.MES 313 17 'I know you must have a grudge against me'
+  /MG1/GEVMSG31.MES 313 18 'for being so cold to you...'
+  /MG1/GEVMSG31.MES 313 19 "I'm sorry,"
+  /MG1/GEVMSG31.MES 313 20 ' San.'
+  /MG1/GEVMSG56.MES 146 0 'I leave my daughter in your capable'
+  /MG1/GEVMSG56.MES 146 1 'hands, Lord Lionheart.'
+  /MG1/GEVMSG56.MES 146 6 "You needn't worry about that."
+  /MG1/GEVMSG56.MES 146 7 "I've taught San how to be a proper knight."
+  /MG1/GEVMSG56.MES 146 8 "I promise she won't be a hindrance."
+  /MG1/GEVMSG56.MES 146 13 'Our mission extends beyond that, but...'
+  /MG1/GEVMSG56.MES 146 14 "For safety's sake, I can't tell you"
+  /MG1/GEVMSG56.MES 146 15 'any more than that.'
+  /MG1/GEVMSG56.MES 146 16 '...I feel terrible for being so secretive.'
+  /MG1/GEVMSG56.MES 146 17 "You've been too kind to us, Lord Lionheart."
+  /MG1/GEVMSG56.MES 146 23 'I feel more like an embarrassment, frankly.'
+  /MG1/GEVMSG56.MES 146 24 'My only consolation is that though'
+  /MG1/GEVMSG56.MES 146 25 'we have been exiled, the legacy of'
+  /MG1/GEVMSG56.MES 146 26 'Prince Arless lives on in us.'
+  /MG1/GEVMSG56.MES 146 31 'And to Lord Lionheart of Selba,'
+  /MG1/GEVMSG56.MES 146 32 'that Salia will be liberated under his banner!'
+=== 0152 count= 185
+  /MB1/MB109.MES 9 0 'Lord Temujin,'
+  /MB1/MB109.MES 9 1 ' what shall we do about those'
+  /MB1/MB109.MES 9 2 'other people in the ruins?'
+  /MB1/MB109.MES 9 3 'Should we help them out?'
+  /MB1/MB109.MES 11 0 'Understood.'
+  /MB1/MB113.MES 3 41 'Yes,'
+  /MB1/MB113.MES 3 42 ' Princess Resshea!'
+  /MB1/MB113.MES 3 43 'I will not fail you!'
+  /MB1/MB114.MES 4 0 'Kuh...'
+  /MB1/MB114.MES 4 1 "I can't believe it..."
+  /MB1/MB114.MES 4 2 'I will withdraw for the time being.'
+  /MB1/MB140.MES 3 2 'Martel,'
+  /MB1/MB140.MES 3 3 ' what are you doing here?!'
+  /MB1/MB140.MES 3 4 "Don't tell me you've brought Lady Enteh"
+  /MB1/MB140.MES 3 5 'to a terrible place like this!'
+  /MB1/MB140.MES 4 2 "Frau, why aren't you back at Salia?"
+  /MB1/MB140.MES 4 3 "Don't tell me you left Mother all alone!"
+  /MB1/MB140.MES 4 10 'Ugh,'
+  /MB1/MB140.MES 4 11 " you're so infuriatingly childish..."
+  /MB1/MB140.MES 4 12 'Just'
+  /MB1/MB140.MES 4 13 ' find somewhere safe to hide,'
+  /MB1/MB140.MES 4 14 ' okay?'
+  /MB1/MB140.MES 4 15 'These Gerxel types are too dangerous'
+  /MB1/MB140.MES 4 16 'for you to fight.'
+  /MB1/MB27.MES 7 7 'Prince Sennet,'
+  /MB1/MB27.MES 7 8 ' we should get Princess Neyfa'
+  /MB1/MB27.MES 7 9 'to somewhere she can rest.'
+  /MB1/MB27.MES 7 10 'From there,'
+  /MB1/MB27.MES 7 11 ' we should return to Erial'
+  /MB1/MB27.MES 7 12 'as quickly as possible.'
+  /MB1/MB27.MES 7 13 'Lord Temujin and Lady Katrina'
+  /MB1/MB27.MES 7 14 'must be worried, too.'
+  /MB1/MB45.MES 1 0 'You are Lord Runan of Razelia,'
+  /MB1/MB45.MES 1 1 ' correct?'
+  /MB1/MB45.MES 1 4 "I'm Verna."
+  /MB1/MB45.MES 1 5 " I think you've already met"
+  /MB1/MB45.MES 1 6 'one of my sisters,'
+  /MB1/MB45.MES 1 7 ' Martel.'
+  /MB1/MB45.MES 1 12 'Yes,'
+  /MB1/MB45.MES 1 13 " though I'm not here on"
+  /MB1/MB45.MES 1 14 "my mother's behalf today."
+  /MB1/MB45.MES 1 15 "I'm here as a messenger of the Army of"
+  /MB1/MB45.MES 1 16 'the Free Canaan.'
+  /MB1/MB45.MES 1 18 'Yes.'
+  /MB1/MB45.MES 1 19 "It's an anti-Imperial faction led by"
+  /MB1/MB45.MES 1 20 'Prince Sennet of Canaan.'
+  /MB1/MB45.MES 1 21 "We've gained much support from soldiers"
+  /MB1/MB45.MES 1 22 'and citizens still loyal to the old Canaan,'
+  /MB1/MB45.MES 1 23 "and we've already taken all of northern Zoa."
+  /MB1/MB45.MES 1 30 'Prince Sennet is the son of Prince Arless.'
+  /MB1/MB45.MES 1 31 'And being the son of the late crown prince,'
+  /MB1/MB45.MES 1 32 'he is first in line for the throne.'
+  /MB1/MB45.MES 1 39 "He was rescued by the daughter of Erial's"
+  /MB1/MB45.MES 1 40 'Lord Temujin and raised in her care.'
+  /MB1/MB45.MES 1 41 'My grandfather Octavus too,'
+  /MB1/MB45.MES 1 42 ' as well as Sage'
+  /MB1/MB45.MES 1 43 'Eisenbach and others,'
+  /MB1/MB45.MES 1 44 ' have watched over'
+  /MB1/MB45.MES 1 45 "Prince Sennet's safety in secret."
+  /MB1/MB45.MES 1 67 'The prince wants to make an official'
+  /MB1/MB45.MES 1 68 'declaration of peace with Reeve.'
+  /MB1/MB45.MES 1 69 '"Let us finish what our fathers could not."'
+  /MB1/MB45.MES 1 70 'Those were his words.'
+  /MB1/MB45.MES 1 72 'The events of two years ago have weighed'
+  /MB1/MB45.MES 1 73 "heavily on Prince Sennet's mind."
+  /MB1/MB45.MES 1 74 'Knowing how much his father meant to the'
+  /MB1/MB45.MES 1 75 'people of Canaan,'
+  /MB1/MB45.MES 1 76 ' he has made it his duty'
+  /MB1/MB45.MES 1 77 "to live up to his father's name."
+  /MB1/MB45.MES 1 80 'Indeed.'
+  /MB1/MB45.MES 1 81 ' It is quite the burden he has'
+  /MB1/MB45.MES 1 82 'taken upon himself.'
+  /MB1/MB45.MES 1 83 'The Prince wants to hold the ceremony'
+  /MB1/MB45.MES 1 84 'where this tragedy began,'
+  /MB1/MB45.MES 1 85 ' at Nolzeria.'
+  /MB1/MB45.MES 1 86 'Is this acceptable to you,'
+  /MB1/MB45.MES 1 87 ' Lord Runan?'
+  /MB1/MB45.MES 1 102 'We have sent word to Their Highnesses'
+  /MB1/MB45.MES 1 103 'asking for their support,'
+  /MB1/MB45.MES 1 104 ' but we have'
+  /MB1/MB45.MES 1 105 'yet to hear back from them.'
+  /MB1/MB45.MES 1 106 'Princess Resshea,'
+  /MB1/MB45.MES 1 107 ' one of our compatriots,'
+  /MB1/MB45.MES 1 108 'believes they will see reason,'
+  /MB1/MB45.MES 1 109 ' but there'
+  /MB1/MB45.MES 1 110 'is still room for doubt.'
+  /MB1/MB45.MES 1 113 'Unfortunately,'
+  /MB1/MB45.MES 1 114 ' yes...'
+  /MB1/MB45.MES 1 120 'If things continue as they have been,'
+  /MB1/MB45.MES 1 121 'we believe we will be able to take'
+  /MB1/MB45.MES 1 122 'the capitol within six weeks.'
+  /MB1/MB45.MES 1 123 'Additionally,'
+  /MB1/MB45.MES 1 124 ' Lord Runan...'
+  /MB1/MB45.MES 1 125 'Prince Sennet has asked that,'
+  /MB1/MB45.MES 1 126 ' in the interest'
+  /MB1/MB45.MES 1 127 'of preserving the lives of as many Canaanite'
+  /MB1/MB45.MES 1 128 'soldiers as possible,'
+  /MB1/MB45.MES 1 129 ' you hold your advance'
+  /MB1/MB45.MES 1 130 'in retaking Reeve.'
+  /MB1/MB45.MES 1 131 'Once he has taken the Canaanhall,'
+  /MB1/MB45.MES 1 132 ' he will'
+  /MB1/MB45.MES 1 133 'order all troops remaining in Reeve to'
+  /MB1/MB45.MES 1 134 'disarm and return to Canaan.'
+  /MB1/MB45.MES 1 168 'I understand...'
+  /MB1/MB45.MES 1 169 "I shall return to the Prince's side and"
+  /MB1/MB45.MES 1 170 'convey your feelings,'
+  /MB1/MB45.MES 1 171 ' Lord Runan.'
+  /MB1/MB45.MES 65540 6 'Princess Stephanie?!'
+  /MB1/MB45.MES 65540 7 'What in the world would she be doing here?'
+  /MB1/MB45.MES 65540 8 'Well,'
+  /MB1/MB45.MES 65540 9 ' never mind that.'
+  /MB1/MB45.MES 65540 10 ' Leave her to me.'
+  /MB1/MB45.MES 65540 11 "I don't believe she and Prince Sennet have"
+  /MB1/MB45.MES 65540 12 'ever met,'
+  /MB1/MB45.MES 65540 13 " but I'm sure she'll be happy to"
+  /MB1/MB45.MES 65540 14 'meet her cousin nonetheless.'
+  /MG1/GEVMSG17.MES 62 0 "It's so good to see you two!"
+  /MG1/GEVMSG17.MES 62 1 "I'm glad this trip didn't turn"
+  /MG1/GEVMSG17.MES 62 2 'out to be a complete waste.'
+  /MG1/GEVMSG17.MES 62 8 'I want to see Mother again,'
+  /MG1/GEVMSG17.MES 62 9 "but I'm too ashamed to face her..."
+  /MG1/GEVMSG17.MES 62 10 'I failed in my mission to protect'
+  /MG1/GEVMSG17.MES 62 11 'Lady Neyfa from Guenchaos.'
+  /MG1/GEVMSG17.MES 62 12 "I'm such a disgrace..."
+  /MG1/GEVMSG17.MES 62 15 'Is that supposed to make me feel better?!'
+  /MG1/GEVMSG17.MES 62 16 "How do you think you would feel if it'd"
+  /MG1/GEVMSG17.MES 62 17 'been Lady Enteh who was taken?'
+  /MG1/GEVMSG17.MES 62 18 'Would you be so defeatist then?'
+  /MG1/GEVMSG17.MES 62 19 'My one job was to protect her,'
+  /MG1/GEVMSG17.MES 62 20 ' but now'
+  /MG1/GEVMSG17.MES 62 21 "she's just another of the Cult's slaves."
+  /MG1/GEVMSG17.MES 62 22 "How can you say that it wasn't my fault?"
+  /MG1/GEVMSG17.MES 62 37 'You were still too young then.'
+  /MG1/GEVMSG17.MES 62 38 'But Grandfather did tell me that if Princess'
+  /MG1/GEVMSG17.MES 62 39 'Maria were ever found,'
+  /MG1/GEVMSG17.MES 62 40 ' he would entrust'
+  /MG1/GEVMSG17.MES 62 41 'her guardianship to you.'
+  /MG1/GEVMSG17.MES 62 44 'Of course he did,'
+  /MG1/GEVMSG17.MES 62 45 ' silly.'
+  /MG1/GEVMSG17.MES 62 46 "What's more,"
+  /MG1/GEVMSG17.MES 62 47 ' he needed our help.'
+  /MG1/GEVMSG17.MES 62 48 "It's the first time since Carluon's era that"
+  /MG1/GEVMSG17.MES 62 49 'so many Shamans have been born at once.'
+  /MG1/GEVMSG17.MES 62 50 'Even more bizarre is that they were all'
+  /MG1/GEVMSG17.MES 62 51 'born within three years of each other.'
+  /MG1/GEVMSG17.MES 62 52 'Lady Tia and Lady Enteh are sixteen,'
+  /MG1/GEVMSG17.MES 62 53 'Lady Katri is fifteen,'
+  /MG1/GEVMSG17.MES 62 54 ' and Lady Neyfa'
+  /MG1/GEVMSG17.MES 62 55 'is fourteen.'
+  /MG1/GEVMSG17.MES 62 56 'Grandfather believed that Yutona had'
+  /MG1/GEVMSG17.MES 62 57 'predicted a great danger in the future'
+  /MG1/GEVMSG17.MES 62 58 'for which all four Guardian Dragons'
+  /MG1/GEVMSG17.MES 62 59 'would be needed.'
+  /MG1/GEVMSG17.MES 62 60 'And while we may not have inherited the'
+  /MG1/GEVMSG17.MES 62 61 'powers of the Shamans,'
+  /MG1/GEVMSG17.MES 62 62 ' we still carry the'
+  /MG1/GEVMSG17.MES 62 63 'blood of Yutona,'
+  /MG1/GEVMSG17.MES 62 64 ' and so like the Sages,'
+  /MG1/GEVMSG17.MES 62 65 'we are duty-bound to protect our cousins.'
+  /MG1/GEVMSG17.MES 62 72 'I shall return to Prince Sennet.'
+  /MG1/GEVMSG17.MES 62 73 'Perhaps we may be able to thwart'
+  /MG1/GEVMSG17.MES 62 74 "Guenchaos's plan and rescue Neyfa before"
+  /MG1/GEVMSG17.MES 62 75 'things get out of hand...'
+  /MG1/GEVMSG17.MES 62 76 'We shall meet again in Nolzeria.'
+  /MG1/GEVMSG17.MES 63 93 'Lord Runan?'
+  /MG1/GEVMSG17.MES 63 94 'Pardon my intrusion...'
+  /MG1/GEVMSG17.MES 63 97 'Yes,'
+  /MG1/GEVMSG17.MES 63 98 " I've just come from Canaan."
+  /MG1/GEVMSG17.MES 63 99 'Prince Sennet has taken the Canaanhall,'
+  /MG1/GEVMSG17.MES 63 100 'and he has declared the end of the Empire.'
+  /MG1/GEVMSG17.MES 63 101 'All of Canaan is rallying behind him.'
+  /MG1/GEVMSG17.MES 63 102 'Now,'
+  /MG1/GEVMSG17.MES 63 103 ' since both Reeve and Canaan have been'
+  /MG1/GEVMSG17.MES 63 104 'reestablished,'
+  /MG1/GEVMSG17.MES 63 105 ' His Highness requests that'
+  /MG1/GEVMSG17.MES 63 106 'the official peace negotiations be held,'
+  /MG1/GEVMSG17.MES 63 107 'as was agreed earlier.'
+  /MG1/GEVMSG17.MES 63 114 "I'll come along as well."
+  /MG1/GEVMSG38.MES 381 0 "I'm going to head home to Salia,"
+  /MG1/GEVMSG38.MES 381 1 ' as well.'
+  /MG1/GEVMSG38.MES 381 2 'Thank you for being such an inspiring'
+  /MG1/GEVMSG38.MES 381 3 'leader to us all,'
+  /MG1/GEVMSG38.MES 381 4 ' Lord Runan.'
+  /MG1/GEVMSG38.MES 381 11 'Thank you very much,'
+  /MG1/GEVMSG38.MES 381 12 ' Lord Runan.'
+=== 0156 count= 278
+  /MB1/MB11.MES 0 0 "Don't get separated from us, Lady Sasha."
+  /MB1/MB11.MES 0 1 "I wouldn't want a stray arrow to hit you."
+  /MB1/MB11.MES 0 4 'You want to be a pegasus knight, too?'
+  /MB1/MB11.MES 0 9 'My mother told me that Queen Liza was one'
+  /MB1/MB11.MES 0 10 'of the finest Pegasus Knights in all of Salia'
+  /MB1/MB11.MES 0 11 'when she was younger.'
+  /MB1/MB11.MES 0 12 'I heard that she fought on par with the Six'
+  /MB1/MB11.MES 0 13 'Heroes during the Ledan Crusade,'
+  /MB1/MB11.MES 0 14 'and it was there that she met King Raphael'
+  /MB1/MB11.MES 0 15 'and the others.'
+  /MB1/MB11.MES 0 16 'With all that riding skill in your blood,'
+  /MB1/MB11.MES 0 17 " I'm sure"
+  /MB1/MB11.MES 0 18 'you could be a pegasus knight if you wanted.'
+  /MB1/MB11.MES 0 19 'The next time I visit my mother in Salia,'
+  /MB1/MB11.MES 0 20 "I'll ask if she has a spare pegasus flute."
+  /MB1/MB11.MES 0 21 'Then we can soar through the skies together!'
+  /MB1/MB11.MES 0 22 "Oh, and let's bring Verna and Frau along too!"
+  /MB1/MB11.MES 0 23 "We'll all race to see who can fly the fastest!"
+  /MB1/MB11.MES 1 0 'Wait!'
+  /MB1/MB11.MES 1 1 "Frau, it's me!"
+  /MB1/MB11.MES 1 4 'What are you doing!?'
+  /MB1/MB11.MES 1 5 'Why are you fighting for the empire?'
+  /MB1/MB11.MES 1 11 'Theo?!'
+  /MB1/MB11.MES 1 12 "I can't believe it..."
+  /MB1/MB11.MES 1 13 'But Frau,'
+  /MB1/MB11.MES 1 14 " that's no excuse to lose your"
+  /MB1/MB11.MES 1 15 "wits and play into the enemy's hands."
+  /MB1/MB11.MES 1 16 'Mother would be so disappointed.'
+  /MB1/MB11.MES 1 19 "I'll get your whole story later."
+  /MB1/MB11.MES 1 20 'For now,'
+  /MB1/MB11.MES 1 21 " let's just get you to a safe place."
+  /MB1/MB11.MES 1 22 'Understood?'
+  /MB1/MB11.MES 7 0 "It's been a long time,"
+  /MB1/MB11.MES 7 1 ' Theo.'
+  /MB1/MB11.MES 7 5 'Theo,'
+  /MB1/MB11.MES 7 6 ' listen to me.'
+  /MB1/MB11.MES 7 7 'Princess Maria is alive.'
+  /MB1/MB11.MES 7 8 'I met her on Isura.'
+  /MB1/MB11.MES 7 11 'Yes,'
+  /MB1/MB11.MES 7 12 " she's safe and sound."
+  /MB1/MB11.MES 7 13 'She was rescued by her wetnurse and left'
+  /MB1/MB11.MES 7 14 'in the care of a traveling priest.'
+  /MB1/MB11.MES 7 19 'Because of the horrors of what happened'
+  /MB1/MB11.MES 7 20 'to her fourteen years ago.'
+  /MB1/MB11.MES 7 21 'The king and queen died soon after'
+  /MB1/MB11.MES 7 22 'Princess Maria was born.'
+  /MB1/MB11.MES 7 23 'Viceroy Ahab recognized the Brand of Yutona'
+  /MB1/MB11.MES 7 24 'on her chest,'
+  /MB1/MB11.MES 7 25 ' and he called her a harbinger'
+  /MB1/MB11.MES 7 26 'of calamity and tried to have her killed.'
+  /MB1/MB11.MES 7 27 "That's why I didn't bring her back with me."
+  /MB1/MB11.MES 7 28 'Everyone still remembers the horrors of what'
+  /MB1/MB11.MES 7 29 'the last Vessel of Kranion did to Salia...'
+  /MB1/MB11.MES 7 30 'This way,'
+  /MB1/MB11.MES 7 31 ' at least until she grows up,'
+  /MB1/MB11.MES 7 32 'Lady Katri can try to live a normal life.'
+  /MB1/MB11.MES 7 34 "That's Princess Maria's adoptive name."
+  /MB1/MB11.MES 7 35 'You should know,'
+  /MB1/MB11.MES 7 36 ' Theo,'
+  /MB1/MB11.MES 7 37 ' that Lord Runan'
+  /MB1/MB11.MES 7 38 'is helping to protect Lady Katri.'
+  /MB1/MB11.MES 7 39 "She's currently in the care of his best friend"
+  /MB1/MB11.MES 7 40 'Holmes,'
+  /MB1/MB11.MES 7 41 " and she's quite happy with him."
+  /MB1/MB11.MES 7 42 'Do you still want to fight against him?'
+  /MB1/MB11.MES 7 43 "If you're an enemy of the"
+  /MB1/MB11.MES 7 44 'Champions of Yutona,'
+  /MB1/MB11.MES 7 45 " you're an enemy of"
+  /MB1/MB11.MES 7 46 'Princess Maria.'
+  /MB1/MB11.MES 7 47 "Or don't you care anymore?"
+  /MB1/MB11.MES 7 52 'Hee hee,'
+  /MB1/MB11.MES 7 53 " I think that'd be just fine."
+  /MB1/MB11.MES 8 0 'Frau?'
+  /MB1/MB11.MES 8 1 'What are you doing here...?'
+  /MB1/MB11.MES 65545 0 'Frau?!'
+  /MB1/MB11.MES 65545 1 'Why are you here?'
+  /MB1/MB11.MES 65545 4 'What?'
+  /MB1/MB11.MES 65545 5 "I haven't got time for this..."
+  /MB1/MB11.MES 65545 6 "We'll talk after the battle, Frau!"
+  /MB1/MB137.MES 4 0 'Frau?!'
+  /MB1/MB137.MES 4 1 'What are you doing here in Blaad?'
+  /MB1/MB137.MES 4 6 'Oh,'
+  /MB1/MB137.MES 4 7 ' never mind that.'
+  /MB1/MB137.MES 4 8 "We'll discuss this later."
+  /MB1/MB137.MES 4 9 'Put down that weapon right now and'
+  /MB1/MB137.MES 4 10 'come with me!'
+  /MB1/MB137.MES 4 13 'And tell that other girl with you'
+  /MB1/MB137.MES 4 14 'to stop fighting,'
+  /MB1/MB137.MES 4 15 ' too.'
+  /MB1/MB137.MES 4 16 'Honestly,'
+  /MB1/MB137.MES 4 17 ' what were you thinking?!'
+  /MB1/MB137.MES 5 0 'Frau?!'
+  /MB1/MB137.MES 5 1 'What are you doing here in Blaad?'
+  /MB1/MB137.MES 5 6 'Oh,'
+  /MB1/MB137.MES 5 7 ' never mind that.'
+  /MB1/MB137.MES 5 8 "We'll discuss this later."
+  /MB1/MB137.MES 5 9 'Put down that weapon right now and'
+  /MB1/MB137.MES 5 10 'come with me!'
+  /MB1/MB140.MES 3 0 'It is you, Sis!'
+  /MB1/MB140.MES 3 1 'I thought so!'
+  /MB1/MB140.MES 3 6 "It's"
+  /MB1/MB140.MES 3 7 ' kind of a long story.'
+  /MB1/MB140.MES 3 8 "A lot's happened since I last saw you..."
+  /MB1/MB63.MES 6 0 'Sister Enteh!'
+  /MB1/MB63.MES 6 1 "Thank goodness you're safe..."
+  /MB1/MB63.MES 6 4 'Oh,'
+  /MB1/MB63.MES 6 5 ' excuse me.'
+  /MB1/MB63.MES 6 6 "I'm Martel,"
+  /MB1/MB63.MES 6 7 ' a knight of Salia,'
+  /MB1/MB63.MES 6 8 ' though'
+  /MB1/MB63.MES 6 9 "recently I've been protecting Lady Enteh"
+  /MB1/MB63.MES 6 10 'at the Temple of Mars.'
+  /MB1/MB63.MES 6 11 'Master Eisenbach asked me to escort'
+  /MB1/MB63.MES 6 12 'Lady Enteh back to the Temple.'
+  /MB1/MB63.MES 6 21 'Yes,'
+  /MB1/MB63.MES 6 22 ' Ibis will be fine carrying'
+  /MB1/MB63.MES 6 23 'just the two of us.'
+  /MB1/MB63.MES 6 25 'What is it?'
+  /MB1/MB63.MES 6 31 'Huh...?'
+  /MB1/MB63.MES 6 37 'But Lady Enteh...'
+  /MB1/MB63.MES 6 45 '...Very well.'
+  /MB1/MB63.MES 6 46 'If you insist.'
+  /MB1/MB63.MES 6 61 'Of course...'
+  /MB1/MB63.MES 6 62 "I'll do whatever I can to help."
+  /MB1/MB63.MES 6 66 "Don't worry about it."
+  /MB1/MB63.MES 6 67 'My mission is to see Sister Enteh'
+  /MB1/MB63.MES 6 68 'safely back to the temple.'
+  /MB1/MB63.MES 6 69 'As long as she stays safe with you,'
+  /MB1/MB63.MES 6 70 'I am more than happy to assist.'
+  /MB1/MB63.MES 6 71 'Is that all right with you,'
+  /MB1/MB63.MES 6 72 ' Lady Enteh?'
+  /MB1/MB63.MES 6 75 'About that,'
+  /MB1/MB63.MES 6 76 ' Lady Enteh...'
+  /MB1/MB63.MES 6 77 'Is this the Lord Runan you talked about?'
+  /MG1/GEVMSG06.MES 7 22 'I am here,'
+  /MG1/GEVMSG06.MES 7 23 ' Master Eisenbach.'
+  /MG1/GEVMSG06.MES 7 24 'What is it that you need of me?'
+  /MG1/GEVMSG06.MES 7 29 'Understood,'
+  /MG1/GEVMSG06.MES 7 30 ' Master!'
+  /MG1/GEVMSG17.MES 62 3 "I'm glad you're well,"
+  /MG1/GEVMSG17.MES 62 4 ' Sis.'
+  /MG1/GEVMSG17.MES 62 5 "Mother's been quite concerned,"
+  /MG1/GEVMSG17.MES 62 6 ' you know.'
+  /MG1/GEVMSG17.MES 62 7 "Why haven't you reported back to her?"
+  /MG1/GEVMSG17.MES 62 13 "Sis, you're not a disgrace."
+  /MG1/GEVMSG17.MES 62 14 "There was nothing you could've done..."
+  /MG1/GEVMSG17.MES 62 23 'Forgive me,'
+  /MG1/GEVMSG17.MES 62 24 ' Sis.'
+  /MG1/GEVMSG17.MES 62 25 "I shouldn't have said that."
+  /MG1/GEVMSG17.MES 62 26 'With Lord Runan taking the matter of Lady'
+  /MG1/GEVMSG17.MES 62 27 "Enteh's protection upon himself,"
+  /MG1/GEVMSG17.MES 62 28 " I've been"
+  /MG1/GEVMSG17.MES 62 29 'more or less just an ordinary soldier.'
+  /MG1/GEVMSG17.MES 62 30 "I'm in no position to say anything."
+  /MG1/GEVMSG17.MES 62 67 'All the more reason we must not fail,'
+  /MG1/GEVMSG17.MES 62 68 ' Frau.'
+  /MG1/GEVMSG17.MES 62 69 "We must carry out Grandfather's dying wish."
+  /MG1/GEVMSG17.MES 62 70 'If we do not protect the Shamans,'
+  /MG1/GEVMSG17.MES 62 71 'the world will be plunged into darkness.'
+  /MG1/GEVMSG17.MES 62 77 'Take care,'
+  /MG1/GEVMSG17.MES 62 78 ' Verna.'
+  /MG1/GEVMSG38.MES 382 0 'I will be parting here as well,'
+  /MG1/GEVMSG38.MES 382 1 ' milord...'
+  /MG1/GEVMSG38.MES 382 11 'Possible?'
+  /MG1/GEVMSG38.MES 382 12 ' Ha!'
+  /MG1/GEVMSG38.MES 382 13 "I'm a pegasus knight!"
+  /MG1/GEVMSG38.MES 382 14 'I can go wherever I want!'
+  /MG1/GEVMSG38.MES 383 4 'Rebuild it?'
+  /MG1/GEVMSG38.MES 383 13 'Oh,'
+  /MG1/GEVMSG38.MES 383 14 " so I'm just a substitute for her?"
+  /MG1/GEVMSG38.MES 383 29 'Aha!'
+  /MG1/GEVMSG38.MES 383 30 'This is all some elaborate scheme to'
+  /MG1/GEVMSG38.MES 383 31 'get me to dress up in robes,'
+  /MG1/GEVMSG38.MES 383 32 " isn't it?"
+  /MG1/GEVMSG38.MES 383 33 "Is that what you're into,"
+  /MG1/GEVMSG38.MES 383 34 ' Rishel?'
+  /MG1/GEVMSG38.MES 383 40 'Wow...'
+  /MG1/GEVMSG38.MES 383 41 'Is that the same speech you gave to'
+  /MG1/GEVMSG38.MES 383 42 'my mother when you asked her?'
+  /MG1/GEVMSG38.MES 383 53 'Mother...'
+  /MG1/GEVMSG38.MES 383 62 "I never said I wouldn't do it!"
+  /MG1/GEVMSG38.MES 383 63 'If you really want me there,'
+  /MG1/GEVMSG38.MES 383 64 " then I'll"
+  /MG1/GEVMSG38.MES 383 65 'come and help you out for now.'
+  /MG1/GEVMSG38.MES 383 66 "But I'm not making any promises!"
+  /MG1/GEVMSG38.MES 383 67 "If I decide I don't like being a cleric,"
+  /MG1/GEVMSG38.MES 383 68 "I'm going back to being a knight!"
+  /MG1/GEVMSG38.MES 383 69 'You hear that,'
+  /MG1/GEVMSG38.MES 383 70 ' Mother?'
+  /MG1/GEVMSG64.MES 65715 3 'Would you like to try flying,'
+  /MG1/GEVMSG64.MES 65715 4 ' Lady Katri?'
+  /MG1/GEVMSG64.MES 65715 5 'You may ride with me if you like.'
+  /MG1/GEVMSG64.MES 65715 15 'Sorry,'
+  /MG1/GEVMSG64.MES 65715 16 ' Katri.'
+  /MG1/GEVMSG64.MES 65715 17 "I'll try to be more informal"
+  /MG1/GEVMSG64.MES 65715 18 'from now on.'
+  /MG1/GEVMSG64.MES 65715 25 'Frau,'
+  /MG1/GEVMSG64.MES 65715 26 " you mustn't ever let Lady Katri"
+  /MG1/GEVMSG64.MES 65715 27 'out of your sight.'
+  /MG1/GEVMSG64.MES 65715 28 'You must protect her at all costs.'
+  /MG1/GEVMSG64.MES 65715 33 'Of course she is,'
+  /MG1/GEVMSG64.MES 65715 34 " she's our friend!"
+  /MG1/GEVMSG64.MES 65715 35 'Now,'
+  /MG1/GEVMSG64.MES 65715 36 ' do as I say!'
+  /MG1/GEVMSG64.MES 65715 40 'Frau!'
+  /MG1/GEVMSG64.MES 65715 41 ' Promise me!'
+  /MG1/GEVMSG65.MES 180 0 'How are you feeling,'
+  /MG1/GEVMSG65.MES 180 1 ' Rishel?'
+  /MG1/GEVMSG65.MES 180 2 "I hope you're not overexerting yourself."
+  /MG1/GEVMSG65.MES 180 10 'When we all heard about the invasion of the'
+  /MG1/GEVMSG65.MES 180 11 'Water Shrine,'
+  /MG1/GEVMSG65.MES 180 12 ' Grandfather was very worried'
+  /MG1/GEVMSG65.MES 180 13 'about you and Meriel.'
+  /MG1/GEVMSG65.MES 180 21 "I don't think Grandfather saw it that way."
+  /MG1/GEVMSG65.MES 180 22 'I think it was just an easy decision.'
+  /MG1/GEVMSG65.MES 180 23 'Out of all his descendants,'
+  /MG1/GEVMSG65.MES 180 24 ' you were the'
+  /MG1/GEVMSG65.MES 180 25 'obvious best candidate.'
+  /MG1/GEVMSG65.MES 180 32 'True,'
+  /MG1/GEVMSG65.MES 180 33 ' but you are the first son of'
+  /MG1/GEVMSG65.MES 180 34 'Aunt Rosa,'
+  /MG1/GEVMSG65.MES 180 35 ' his next-oldest child.'
+  /MG1/GEVMSG65.MES 180 36 'Besides,'
+  /MG1/GEVMSG65.MES 180 37 ' Meriel has always taken after your'
+  /MG1/GEVMSG65.MES 180 38 "father's line of light magic,"
+  /MG1/GEVMSG65.MES 180 39 ' not fire magic.'
+  /MG1/GEVMSG65.MES 180 42 "It's not just his,"
+  /MG1/GEVMSG65.MES 180 43 " it's also your other"
+  /MG1/GEVMSG65.MES 180 44 "grandfather Sage Maios's."
+  /MG1/GEVMSG65.MES 180 45 'And besides,'
+  /MG1/GEVMSG65.MES 180 46 ' Uncle Narith was a great man...'
+  /MG1/GEVMSG65.MES 180 52 "You're referring to the incident with Maeve?"
+  /MG1/GEVMSG65.MES 180 85 "Didn't you and Meriel live at the Shrine?"
+  /MG1/GEVMSG65.MES 180 86 'How did neither of you know she was'
+  /MG1/GEVMSG65.MES 180 87 'being kept there all that time?'
+  /MG1/GEVMSG65.MES 180 96 'So,'
+  /MG1/GEVMSG65.MES 180 97 ' what happened to Narith?'
+  /MG1/GEVMSG65.MES 180 107 'Did you really feel nothing when you'
+  /MG1/GEVMSG65.MES 180 108 'heard that he passed away?'
+  /MG1/GEVMSG65.MES 180 117 'Did Meriel hate your father'
+  /MG1/GEVMSG65.MES 180 118 'as much as you did?'
+  /MG1/GEVMSG65.MES 180 127 '......'
+  /MG1/GEVMSG65.MES 180 132 "It's hard to say..."
+  /MG1/GEVMSG65.MES 180 133 'But you have to tell her eventually.'
+  /MG1/GEVMSG65.MES 180 144 'Are you kidding me?'
+  /MG1/GEVMSG65.MES 180 145 'The three of us are all terrible at magic!'
+  /MG1/GEVMSG65.MES 180 146 'Besides,'
+  /MG1/GEVMSG65.MES 180 147 ' we all looked up to Aunty Liza'
+  /MG1/GEVMSG65.MES 180 148 'and Father too much.'
+  /MG1/GEVMSG65.MES 180 149 "None of us would've ever been happy if"
+  /MG1/GEVMSG65.MES 180 150 "we hadn't become knights ourselves."
+  /MG1/GEVMSG65.MES 180 151 'Mother was against it at first,'
+  /MG1/GEVMSG65.MES 180 152 ' though.'
+  /MG1/GEVMSG65.MES 180 153 'She wanted one of us to at least continue'
+  /MG1/GEVMSG65.MES 180 154 'the family tradition of fire magic,'
+  /MG1/GEVMSG65.MES 180 155 ' but'
+  /MG1/GEVMSG65.MES 180 156 'she eventually gave in.'
+  /MG1/GEVMSG65.MES 180 157 'And as for our last cousin,'
+  /MG1/GEVMSG65.MES 180 158 ' I know you'
+  /MG1/GEVMSG65.MES 180 159 "wouldn't want to force little Sasha to"
+  /MG1/GEVMSG65.MES 180 160 "undergo all the training you've been through."
+  /MG1/GEVMSG65.MES 180 161 "She's going to become a pegasus knight"
+  /MG1/GEVMSG65.MES 180 162 'like us and her mother,'
+  /MG1/GEVMSG65.MES 180 163 ' anyway.'
+  /MG1/GEVMSG65.MES 180 164 'And so,'
+  /MG1/GEVMSG65.MES 180 165 ' Rishel,'
+  /MG1/GEVMSG65.MES 180 166 " you're the only one of us"
+  /MG1/GEVMSG65.MES 180 167 'who could possibly succeed Grandfather.'
+  /MG1/GEVMSG65.MES 180 168 "Don't worry!"
+  /MG1/GEVMSG65.MES 180 169 " You'll make a great Fire Sage!"
+  /MG1/GEVMSG65.MES 180 174 'Hee hee...'
+  /MG1/GEVMSG65.MES 180 175 ' No,'
+  /MG1/GEVMSG65.MES 180 176 ' I push my problems on you'
+  /MG1/GEVMSG65.MES 180 177 "BECAUSE I know you're so reliable!"
+  /MG1/GEVMSG65.MES 180 178 "But I won't leave everything to you,"
+  /MG1/GEVMSG65.MES 180 179 ' Rishel.'
+  /MG1/GEVMSG65.MES 180 180 "We'll all pitch in to help you out."
+  /MG1/GEVMSG65.MES 180 181 "I'll be cheering for you the whole way!"
+=== 0153 count= 239
+  /MB1/MB11.MES 1 2 'Huh...?'
+  /MB1/MB11.MES 1 3 ' Martel?'
+  /MB1/MB11.MES 1 6 'I just...'
+  /MB1/MB11.MES 1 7 ' got caught up in everything...'
+  /MB1/MB11.MES 1 8 'Theo, he...'
+  /MB1/MB11.MES 1 9 " Theo's dead..."
+  /MB1/MB11.MES 1 10 "I don't know what to do anymore..."
+  /MB1/MB11.MES 1 17 '...'
+  /MB1/MB11.MES 1 18 "I'm sorry, Martel..."
+  /MB1/MB11.MES 1 23 'Yes,'
+  /MB1/MB11.MES 1 24 ' Martel...'
+  /MB1/MB11.MES 5 0 'Please,'
+  /MB1/MB11.MES 5 1 ' Theo!'
+  /MB1/MB11.MES 5 2 "At least tell me why you're doing this!"
+  /MB1/MB11.MES 5 7 'Why...'
+  /MB1/MB11.MES 5 8 "Why won't you listen?"
+  /MB1/MB11.MES 5 9 'If Martel were here, you would listen to her!'
+  /MB1/MB11.MES 8 2 'Martel!'
+  /MB1/MB11.MES 8 3 'No time to explain!'
+  /MB1/MB11.MES 8 4 ' You have to stop Theo!'
+  /MB1/MB11.MES 8 5 "He won't listen to me,"
+  /MB1/MB11.MES 8 6 " but I know he'll"
+  /MB1/MB11.MES 8 7 'listen to you, Sis!'
+  /MB1/MB11.MES 65545 2 'Thank goodness you were able to'
+  /MB1/MB11.MES 65545 3 'convince him...'
+  /MB1/MB12.MES 0 0 'Theo!!'
+  /MB1/MB12.MES 0 1 'How dare you...!'
+  /MB1/MB12.MES 0 2 "I'll never forgive you!"
+  /MB1/MB125.MES 4 0 "People who can't fly are so"
+  /MB1/MB125.MES 4 1 'inconvenient,'
+  /MB1/MB125.MES 4 2 " aren't they?"
+  /MB1/MB125.MES 4 3 "I'll go on ahead!"
+  /MB1/MB13.MES 4 0 '...Wait!'
+  /MB1/MB13.MES 4 1 'I have no intention of fighting you!'
+  /MB1/MB137.MES 3 2 'Ah,'
+  /MB1/MB137.MES 3 3 ' one for me, too!'
+  /MB1/MB137.MES 3 10 'Huh?!'
+  /MB1/MB137.MES 3 11 ' You are not!'
+  /MB1/MB137.MES 3 12 "...She's not taller than me,"
+  /MB1/MB137.MES 3 13 ' is she, Madam?'
+  /MB1/MB137.MES 3 23 'San,'
+  /MB1/MB137.MES 3 24 ' this is our big chance!'
+  /MB1/MB137.MES 3 25 'We can take care of a band of thieves!'
+  /MB1/MB137.MES 3 29 "If we tell him, he'll just send his own knights"
+  /MB1/MB137.MES 3 30 'to take care of it,'
+  /MB1/MB137.MES 3 31 " and we'll never get to fight."
+  /MB1/MB137.MES 3 32 'But if we surprise him with our skill like this,'
+  /MB1/MB137.MES 3 33 'he and the other knights will stop treating'
+  /MB1/MB137.MES 3 34 'us like kids!'
+  /MB1/MB137.MES 4 2 'M-M-'
+  /MB1/MB137.MES 4 3 'Martel!'
+  /MB1/MB137.MES 4 4 'Er...'
+  /MB1/MB137.MES 4 5 ' I was just...'
+  /MB1/MB137.MES 4 11 'Yes,'
+  /MB1/MB137.MES 4 12 ' Sis...'
+  /MB1/MB137.MES 5 2 'M-M-'
+  /MB1/MB137.MES 5 3 'Martel!'
+  /MB1/MB137.MES 5 4 'Er...'
+  /MB1/MB137.MES 5 5 ' I was just...'
+  /MB1/MB137.MES 5 11 'Yes,'
+  /MB1/MB137.MES 5 12 ' Sis...'
+  /MB1/MB137.MES 65542 0 'Hey,'
+  /MB1/MB137.MES 65542 1 ' San...'
+  /MB1/MB137.MES 65542 2 "It turns out they're not bandits after all."
+  /MB1/MB137.MES 65542 7 'Yeah...'
+  /MB1/MB137.MES 65542 8 'I bet Lord Lionheart is going to'
+  /MB1/MB137.MES 65542 9 'be furious with us...'
+  /MB1/MB138.MES 0 82 'I volunteer, Uncle Lionheart!'
+  /MB1/MB138.MES 0 83 "I'm not being useful around here,"
+  /MB1/MB138.MES 0 84 ' but if I go'
+  /MB1/MB138.MES 0 85 'with them, I can practice my fighting!'
+  /MB1/MB138.MES 0 86 'Pleeeeease?'
+  /MB1/MB138.MES 0 95 'I will!'
+  /MB1/MB138.MES 0 96 ' Thank you, Uncle Lionheart!'
+  /MB1/MB138.MES 0 97 "And I won't be alone, either."
+  /MB1/MB138.MES 0 98 "San's coming too,"
+  /MB1/MB138.MES 0 99 ' right, San?'
+  /MB1/MB138.MES 1 82 'I volunteer, Uncle Lionheart!'
+  /MB1/MB138.MES 1 83 "I'm not being useful around here,"
+  /MB1/MB138.MES 1 84 ' but if I go'
+  /MB1/MB138.MES 1 85 'with them, I can practice my fighting!'
+  /MB1/MB138.MES 1 86 'Pleeeeease?'
+  /MB1/MB138.MES 1 95 'I will!'
+  /MB1/MB138.MES 1 96 ' Thank you, Uncle Lionheart!'
+  /MB1/MB140.MES 4 0 'Hiya, Sis!'
+  /MB1/MB140.MES 4 1 " It's me!"
+  /MB1/MB140.MES 4 4 "Don't worry,"
+  /MB1/MB140.MES 4 5 ' I got her permission!'
+  /MB1/MB140.MES 4 6 "I'm working hard for the cause,"
+  /MB1/MB140.MES 4 7 ' just like you!'
+  /MB1/MB140.MES 4 8 "You don't need to get so angry,"
+  /MB1/MB140.MES 4 9 ' Sis.'
+  /MB1/MB140.MES 4 17 'All right, Sis...'
+  /MB1/MB140.MES 4 18 'Sheesh...'
+  /MB1/MB140.MES 4 19 ' I am not a kid!'
+  /MB1/MB144.MES 11 0 'Hmph,'
+  /MB1/MB144.MES 11 1 " I'm going for a walk."
+  /MB1/MB144.MES 11 2 "I can't stand all these guys ogling and"
+  /MB1/MB144.MES 11 3 'drooling like monkeys...'
+  /MB1/MB150.MES 2 0 "For my big sisters' sake,"
+  /MB1/MB150.MES 2 1 "I won't lose to you!"
+  /MB1/MB38.MES 5 0 'You...'
+  /MB1/MB38.MES 5 1 ' How dare you!'
+  /MB1/MB38.MES 5 2 'Damn you people!'
+  /MG1/GEVMSG17.MES 62 31 'Grandfather gave both of you such important'
+  /MG1/GEVMSG17.MES 62 32 'missions before he passed away...'
+  /MG1/GEVMSG17.MES 62 33 'Verna to protect Lady Neyfa,'
+  /MG1/GEVMSG17.MES 62 34 ' and Martel'
+  /MG1/GEVMSG17.MES 62 35 'to protect Lady Enteh...'
+  /MG1/GEVMSG17.MES 62 36 'But not so much as a word to me!'
+  /MG1/GEVMSG17.MES 62 42 'Really?!'
+  /MG1/GEVMSG17.MES 62 43 "It's nice to know he believed in me..."
+  /MG1/GEVMSG17.MES 62 66 'But all three Sages have been killed...'
+  /MG1/GEVMSG17.MES 62 79 'I love you,'
+  /MG1/GEVMSG17.MES 62 80 ' Sis.'
+  /MG1/GEVMSG31.MES 312 9 "Your mother's really scary,"
+  /MG1/GEVMSG31.MES 312 10 ' San...'
+  /MG1/GEVMSG31.MES 312 11 "She's just like Martel..."
+  /MG1/GEVMSG31.MES 312 22 'Huh...'
+  /MG1/GEVMSG31.MES 312 23 "You're really cool,"
+  /MG1/GEVMSG31.MES 312 24 ' you know that?'
+  /MG1/GEVMSG31.MES 312 25 'I should learn more from you.'
+  /MG1/GEVMSG31.MES 312 28 'Yeah...'
+  /MG1/GEVMSG31.MES 312 29 " You're cool and independent."
+  /MG1/GEVMSG31.MES 312 30 "I've always relied on my big sisters"
+  /MG1/GEVMSG31.MES 312 31 'to look out for me...'
+  /MG1/GEVMSG31.MES 312 32 " but you're able to"
+  /MG1/GEVMSG31.MES 312 33 'take care of yourself just fine.'
+  /MG1/GEVMSG31.MES 312 34 "Even though we're the same age,"
+  /MG1/GEVMSG31.MES 312 35 "I'm still a child compared to you."
+  /MG1/GEVMSG31.MES 312 53 "Don't act like this is the end!"
+  /MG1/GEVMSG31.MES 312 54 "We'll be best friends forever,"
+  /MG1/GEVMSG31.MES 312 55 ' San!'
+  /MG1/GEVMSG31.MES 312 56 'Promise me,'
+  /MG1/GEVMSG31.MES 312 57 ' okay?'
+  /MG1/GEVMSG38.MES 379 0 "It's been fun,"
+  /MG1/GEVMSG38.MES 379 1 " but I'm glad to finally"
+  /MG1/GEVMSG38.MES 379 2 'be going home to Salia.'
+  /MG1/GEVMSG38.MES 379 3 'Thanks for everything,'
+  /MG1/GEVMSG38.MES 379 4 ' Captain Holmes!'
+  /MG1/GEVMSG38.MES 379 10 'Ha ha...'
+  /MG1/GEVMSG38.MES 379 11 'Princess Katri is safe with me,'
+  /MG1/GEVMSG38.MES 379 12 ' Captain!'
+  /MG1/GEVMSG38.MES 379 13 "I'll be the best knight ever!"
+  /MG1/GEVMSG38.MES 379 14 'Just you wait and see!'
+  /MG1/GEVMSG38.MES 380 4 'That sounds fun!'
+  /MG1/GEVMSG38.MES 380 5 "I'll pass on the message."
+  /MG1/GEVMSG38.MES 380 6 'Please give my regards to Aunt Liza.'
+  /MG1/GEVMSG54.MES 65676 40 'Uncle Lionheart!'
+  /MG1/GEVMSG54.MES 65676 41 'There you are!'
+  /MG1/GEVMSG54.MES 65676 45 "No, everything's fine in the village."
+  /MG1/GEVMSG54.MES 65676 46 "Actually, it's so peaceful it was boring."
+  /MG1/GEVMSG54.MES 65676 47 "That's why I came here, to help you!"
+  /MG1/GEVMSG54.MES 65676 53 "You don't have to worry about me,"
+  /MG1/GEVMSG54.MES 65676 54 ' Uncle!'
+  /MG1/GEVMSG54.MES 65676 55 "I'm already fifteen years old!"
+  /MG1/GEVMSG54.MES 65676 56 "I'm a real Pegasus Knight now!"
+  /MG1/GEVMSG54.MES 65676 57 "I've been practicing a whole lot!"
+  /MG1/GEVMSG54.MES 65676 58 'I wanted to do something useful for once...'
+  /MG1/GEVMSG54.MES 65676 59 "Please don't send me back home!"
+  /MG1/GEVMSG54.MES 65676 61 'She said it was fine!'
+  /MG1/GEVMSG54.MES 65676 62 '"Go and see if your uncle has any'
+  /MG1/GEVMSG54.MES 65676 63 'little things for you to do."'
+  /MG1/GEVMSG54.MES 65676 64 "That's what she told me."
+  /MG1/GEVMSG54.MES 65676 73 'I understand!'
+  /MG1/GEVMSG54.MES 65676 74 'Thank you,'
+  /MG1/GEVMSG54.MES 65676 75 ' Uncle!'
+  /MG1/GEVMSG56.MES 146 33 "You're San, right?"
+  /MG1/GEVMSG56.MES 146 34 'One of the exiles from Canaan?'
+  /MG1/GEVMSG56.MES 146 35 "My name's Frau!"
+  /MG1/GEVMSG56.MES 146 36 'I heard you were a knight-in-training, too.'
+  /MG1/GEVMSG56.MES 146 45 'Sure,'
+  /MG1/GEVMSG56.MES 146 46 " she's impressive,"
+  /MG1/GEVMSG56.MES 146 47 ' but the Black Knights'
+  /MG1/GEVMSG56.MES 146 48 "aren't the only strong forces around."
+  /MG1/GEVMSG56.MES 146 49 "There's the Sophian Wyvern Knights,"
+  /MG1/GEVMSG56.MES 146 50 ' and'
+  /MG1/GEVMSG56.MES 146 51 'the legions under the Warlord Temujin...'
+  /MG1/GEVMSG56.MES 146 52 'And besides,'
+  /MG1/GEVMSG56.MES 146 53 ' the title of "strongest army'
+  /MG1/GEVMSG56.MES 146 54 'in Lieberia" belongs to the Pegasus Knights'
+  /MG1/GEVMSG56.MES 146 55 'of Salia,'
+  /MG1/GEVMSG56.MES 146 56 ' who my big sister Verna fights for.'
+  /MG1/GEVMSG56.MES 146 57 "Now THEY'RE cool!"
+  /MG1/GEVMSG56.MES 146 67 'No way!'
+  /MG1/GEVMSG56.MES 146 68 'My big sisters treat me the same way.'
+  /MG1/GEVMSG56.MES 146 69 "They're out fighting in the war,"
+  /MG1/GEVMSG56.MES 146 70 ' but they'
+  /MG1/GEVMSG56.MES 146 71 'told me to just stay and watch the house.'
+  /MG1/GEVMSG56.MES 146 72 'They always look down on me like that!'
+  /MG1/GEVMSG56.MES 146 74 'San,'
+  /MG1/GEVMSG56.MES 146 75 ' I have an idea!'
+  /MG1/GEVMSG56.MES 146 76 "Let's work hard and train together"
+  /MG1/GEVMSG56.MES 146 77 'with Lord Lionheart!'
+  /MG1/GEVMSG56.MES 146 78 "We'll show your mother and my big sisters"
+  /MG1/GEVMSG56.MES 146 79 'just how great we can be!'
+  /MG1/GEVMSG56.MES 146 84 "Don't worry about that."
+  /MG1/GEVMSG56.MES 146 85 'Lord Lionheart might seem like a tough guy,'
+  /MG1/GEVMSG56.MES 146 86 "but he's got a soft spot for girls."
+  /MG1/GEVMSG56.MES 146 87 'Besides,'
+  /MG1/GEVMSG56.MES 146 88 " he's my uncle,"
+  /MG1/GEVMSG56.MES 146 89 ' too.'
+  /MG1/GEVMSG56.MES 146 90 "There's no way he'll say no!"
+  /MG1/GEVMSG56.MES 146 94 'Partners!'
+  /MG1/GEVMSG56.MES 146 95 'Hey,'
+  /MG1/GEVMSG56.MES 146 96 " let's go ask him right now!"
+  /MG1/GEVMSG64.MES 65715 12 "I'm curious about that too,"
+  /MG1/GEVMSG64.MES 65715 13 ' Sis.'
+  /MG1/GEVMSG64.MES 65715 14 'Why do you give Katri so much attention?'
+  /MG1/GEVMSG64.MES 65715 19 'Katri,'
+  /MG1/GEVMSG64.MES 65715 20 ' I think Holmes is calling you.'
+  /MG1/GEVMSG64.MES 65715 29 'Huh?'
+  /MG1/GEVMSG64.MES 65715 30 ' But why,'
+  /MG1/GEVMSG64.MES 65715 31 ' Sis?'
+  /MG1/GEVMSG64.MES 65715 32 'Is Katri an important person...?'
+  /MG1/GEVMSG64.MES 65715 37 "I know she's our friend,"
+  /MG1/GEVMSG64.MES 65715 38 ' but...'
+  /MG1/GEVMSG64.MES 65715 39 'Does she need extra protection?'
+  /MG1/GEVMSG64.MES 65715 42 'All right,'
+  /MG1/GEVMSG64.MES 65715 43 ' I promise!'
+  /MG1/GEVMSG64.MES 65715 44 'Geez,'
+  /MG1/GEVMSG64.MES 65715 45 ' why are you so serious,'
+  /MG1/GEVMSG64.MES 65715 46 ' Martel?'
+  /MG1/GEVMSG67.MES 183 54 'A confession of love?!'
+  /MG1/GEVMSG67.MES 183 55 'How sudden!'
+  /MG1/GEVMSG67.MES 183 56 ' How unexpected!'
+  /MG1/GEVMSG67.MES 183 57 'What will you do,'
+  /MG1/GEVMSG67.MES 183 58 ' Princess Sasha?'
+  /MG1/GEVMSG67.MES 183 66 'Well,'
+  /MG1/GEVMSG67.MES 183 67 ' you better decide fast!'
+  /MG1/GEVMSG67.MES 183 68 'Sir Holmes practically just asked your'
+  /MG1/GEVMSG67.MES 183 69 'father for your hand in marriage!'
+  /MG1/GEVMSG67.MES 183 77 'Princess Sasha,'
+  /MG1/GEVMSG67.MES 183 78 ' you have to turn him down'
+  /MG1/GEVMSG67.MES 183 79 'properly,'
+  /MG1/GEVMSG67.MES 183 80 ' and fast!'
+  /MG1/GEVMSG67.MES 183 81 "If you don't,"
+  /MG1/GEVMSG67.MES 183 82 " you'll regret it for"
+  /MG1/GEVMSG67.MES 183 83 'the rest of your life!'
+=== 0157 count= 210
+  /MB1/MB109.MES 12 0 'Shall we depart, then,'
+  /MB1/MB109.MES 12 1 ' Lord Sennet?'
+  /MB1/MB109.MES 12 2 'We should get to a site where we can'
+  /MB1/MB109.MES 12 3 'camp before the sun sets.'
+  /MB1/MB113.MES 3 8 'Your orders,'
+  /MB1/MB113.MES 3 9 ' Sennet?'
+  /MB1/MB113.MES 3 35 'Verna and I will be your vanguard,'
+  /MB1/MB113.MES 3 36 'Prince Sennet.'
+  /MB1/MB113.MES 3 37 "We'll crush these Gerxel dastards into"
+  /MB1/MB113.MES 3 38 'the dirt!'
+  /MB1/MB113.MES 3 39 ' Right,'
+  /MB1/MB113.MES 3 40 ' Verna?'
+  /MB1/MB113.MES 3 44 'General Silva,'
+  /MB1/MB113.MES 3 45 ' please help Lord Alfred'
+  /MB1/MB113.MES 3 46 'keep watch over Lady Neyfa.'
+  /MB1/MB114.MES 5 0 'Kuh...'
+  /MB1/MB114.MES 5 1 "I can't believe it..."
+  /MB1/MB114.MES 5 2 'I will withdraw for the time being.'
+  /MB1/MB140.MES 5 1 'Sir Raffin!'
+  /MB1/MB140.MES 5 2 "I never imagined I'd see you again,"
+  /MB1/MB140.MES 5 3 'let alone in a place like this.'
+  /MB1/MB140.MES 5 8 "I'm sorry, Raffin,"
+  /MB1/MB140.MES 5 9 " but I can't tarry here."
+  /MB1/MB140.MES 5 10 'But once this is all over,'
+  /MB1/MB140.MES 5 11 " I'd like to"
+  /MB1/MB140.MES 5 12 'have you return as one of my knights.'
+  /MB1/MB140.MES 5 13 'So until then...'
+  /MB1/MB140.MES 5 14 ' I order you to survive!'
+  /MB1/MB49.MES 4 0 'Stand back,'
+  /MB1/MB49.MES 4 1 ' Prince Sennet!'
+  /MB1/MB49.MES 4 2 "That's Empress Carla!"
+  /MB1/MB49.MES 7 0 'No...'
+  /MB1/MB49.MES 7 1 ' Barker...'
+  /MB1/MB49.MES 38 0 'I'
+  /MB1/MB49.MES 38 1 "-It can't be..."
+  /MB1/MB49.MES 38 2 'Lord Brother Barker!?'
+  /MB1/MB49.MES 8 0 'Pull yourself together!'
+  /MB1/MB49.MES 8 1 'You have to get up!'
+  /MB1/MB49.MES 40 0 'I accompanied Sennet in his'
+  /MB1/MB49.MES 40 1 'battle here at the capital.'
+  /MB1/MB49.MES 40 2 'I was worried about you,'
+  /MB1/MB49.MES 40 3 ' so I'
+  /MB1/MB49.MES 40 4 'made haste here...'
+  /MB1/MB49.MES 48 0 'Lord Brother...!'
+  /MB1/MB50.MES 2 11 'I am Resshea,'
+  /MB1/MB50.MES 2 12 ' Crown Princess of Sophia'
+  /MB1/MB50.MES 2 13 'and aunt to Prince Sennet.'
+  /MB1/MB50.MES 2 17 "You're very kind,"
+  /MB1/MB50.MES 2 18 ' Lord Runan.'
+  /MB1/MB50.MES 65547 30 "Silva's Knights of Arless and Theodora's"
+  /MB1/MB50.MES 65547 31 'Knights of Julius are the pride of Canaan.'
+  /MB1/MB57.MES 2 0 'Up there,'
+  /MB1/MB57.MES 2 1 ' Sennet!'
+  /MB1/MB57.MES 2 2 "It's Neyfa!"
+  /MB1/MB57.MES 2 6 'We need to find a way to get past these'
+  /MB1/MB57.MES 2 7 'iron bars,'
+  /MB1/MB57.MES 2 8 " or we'll never reach her..."
+  /MB1/MB57.MES 5 6 'Prince Sennet!'
+  /MB1/MB57.MES 5 7 'Get a hold of yourself!'
+  /MB1/MB62.MES 5 0 'Lord Sennet...'
+  /MB1/MB62.MES 5 1 'When you are lost...'
+  /MB1/MB62.MES 5 2 'Canaan will...'
+  /MB1/MB62.MES 5 3 'No,'
+  /MB1/MB62.MES 5 4 ' the world already...'
+  /MG1/GEVMSG16.MES 65596 3 'Prince Barker,'
+  /MG1/GEVMSG16.MES 65596 4 ' Prince Julius.'
+  /MG1/GEVMSG16.MES 65596 5 "It's an honor to see you again."
+  /MG1/GEVMSG16.MES 65596 12 'Of course,'
+  /MG1/GEVMSG16.MES 65596 13 ' Barker.'
+  /MG1/GEVMSG16.MES 65596 14 "I'll start from the beginning."
+  /MG1/GEVMSG16.MES 65596 15 'You recall the fire that took the life of'
+  /MG1/GEVMSG16.MES 65596 16 "Arless's wife,"
+  /MG1/GEVMSG16.MES 65596 17 ' Lady Selene?'
+  /MG1/GEVMSG16.MES 65596 25 'Right,'
+  /MG1/GEVMSG16.MES 65596 26 " but what Arless didn't know"
+  /MG1/GEVMSG16.MES 65596 27 "was that Lady Neyfa's wetnurse had taken"
+  /MG1/GEVMSG16.MES 65596 28 'the two children and fled to safety.'
+  /MG1/GEVMSG16.MES 65596 31 'Their attackers were still in pursuit,'
+  /MG1/GEVMSG16.MES 65596 32 ' so the'
+  /MG1/GEVMSG16.MES 65596 33 'nurse went to the nearby village and hired'
+  /MG1/GEVMSG16.MES 65596 34 'a traveling swordswoman to protect them.'
+  /MG1/GEVMSG16.MES 65596 35 'The children were spared from harm,'
+  /MG1/GEVMSG16.MES 65596 36 ' but the'
+  /MG1/GEVMSG16.MES 65596 37 'nurse was slain by her pursuers.'
+  /MG1/GEVMSG16.MES 65596 39 'In her dying moments,'
+  /MG1/GEVMSG16.MES 65596 40 ' the nurse told the'
+  /MG1/GEVMSG16.MES 65596 41 'mercenary the true identity of the children,'
+  /MG1/GEVMSG16.MES 65596 42 'and of their attackers.'
+  /MG1/GEVMSG16.MES 65596 43 'The assassins were led by none other'
+  /MG1/GEVMSG16.MES 65596 44 'than Queen Consort Carla herself.'
+  /MG1/GEVMSG16.MES 65596 52 "I'm afraid so."
+  /MG1/GEVMSG16.MES 65596 53 'She broke into the mansion while Arless'
+  /MG1/GEVMSG16.MES 65596 54 'was away with the intent to kidnap'
+  /MG1/GEVMSG16.MES 65596 55 'Lady Neyfa from her cradle.'
+  /MG1/GEVMSG16.MES 65596 56 'Lady Selene stood in her way,'
+  /MG1/GEVMSG16.MES 65596 57 'so Carla murdered her.'
+  /MG1/GEVMSG16.MES 65596 60 'She was under orders.'
+  /MG1/GEVMSG16.MES 65596 61 'Carla is a witch of the Cult of Gerxel.'
+  /MG1/GEVMSG16.MES 65596 62 'Not only that,'
+  /MG1/GEVMSG16.MES 65596 63 " she's one of Guenchaos's"
+  /MG1/GEVMSG16.MES 65596 64 'most trusted assistants.'
+  /MG1/GEVMSG16.MES 65596 65 "When Bahanuk's struggle to unify the Zoan"
+  /MG1/GEVMSG16.MES 65596 66 'Lands and wipe out the Cult began,'
+  /MG1/GEVMSG16.MES 65596 67 ' she was'
+  /MG1/GEVMSG16.MES 65596 68 'sent to his side in the hopes of tearing'
+  /MG1/GEVMSG16.MES 65596 69 'Canaan apart from the inside.'
+  /MG1/GEVMSG16.MES 65596 72 'Correct.'
+  /MG1/GEVMSG16.MES 65596 73 'For eighteen years,'
+  /MG1/GEVMSG16.MES 65596 74 ' she used her charms'
+  /MG1/GEVMSG16.MES 65596 75 "and her sorcery to corrupt Bahanuk's mind,"
+  /MG1/GEVMSG16.MES 65596 76 'bending him to her will...'
+  /MG1/GEVMSG16.MES 65596 77 " the Cult's will."
+  /MG1/GEVMSG16.MES 65596 80 'Because Lady Neyfa bears the Brand of'
+  /MG1/GEVMSG16.MES 65596 81 'Yutona,'
+  /MG1/GEVMSG16.MES 65596 82 ' marking her as a vessel for Rachis.'
+  /MG1/GEVMSG16.MES 65596 83 'Her blood was to be sacrificed in order'
+  /MG1/GEVMSG16.MES 65596 84 'to resurrect the Dark God.'
+  /MG1/GEVMSG16.MES 65596 87 "It's not only possible,"
+  /MG1/GEVMSG16.MES 65596 88 " it's in very"
+  /MG1/GEVMSG16.MES 65596 89 'real danger of happening.'
+  /MG1/GEVMSG16.MES 65596 90 'Despite our best efforts to protect her,'
+  /MG1/GEVMSG16.MES 65596 91 'Guenchaos has captured Lady Neyfa...'
+  /MG1/GEVMSG16.MES 65596 94 'Several days ago.'
+  /MG1/GEVMSG16.MES 65596 95 'Prince Sennet and I were making our way'
+  /MG1/GEVMSG16.MES 65596 96 'to the Wind Shrine when we were ambushed.'
+  /MG1/GEVMSG16.MES 65596 100 'Forgive me,'
+  /MG1/GEVMSG16.MES 65596 101 ' Lord Brother...'
+  /MG1/GEVMSG16.MES 65596 102 'Try as we did, none of us could even get'
+  /MG1/GEVMSG16.MES 65596 103 'close to Guenchaos,'
+  /MG1/GEVMSG16.MES 65596 104 ' let alone stop him...'
+  /MG1/GEVMSG16.MES 65596 110 'Right...'
+  /MG1/GEVMSG16.MES 65596 111 'The swordswoman who had been entrusted'
+  /MG1/GEVMSG16.MES 65596 112 'with the royal children fled to her home'
+  /MG1/GEVMSG16.MES 65596 113 'in Erial and raised them as her own.'
+  /MG1/GEVMSG16.MES 65596 114 'She was Katrina,'
+  /MG1/GEVMSG16.MES 65596 115 ' daughter of Lord Temujin.'
+  /MG1/GEVMSG16.MES 65596 121 'Yes,'
+  /MG1/GEVMSG16.MES 65596 122 ' though Lord Temujin was unaware of the'
+  /MG1/GEVMSG16.MES 65596 123 "children's importance until only recently."
+  /MG1/GEVMSG16.MES 65596 124 'The two of them grew up into fine young'
+  /MG1/GEVMSG16.MES 65596 125 'adults,'
+  /MG1/GEVMSG16.MES 65596 126 ' completely ignorant of their heritage.'
+  /MG1/GEVMSG16.MES 65596 127 'But when Neyfa turned fifteen last year,'
+  /MG1/GEVMSG16.MES 65596 128 'there was a shocking incident.'
+  /MG1/GEVMSG16.MES 65596 129 'Neyfa and Sennet had accompanied Lord'
+  /MG1/GEVMSG16.MES 65596 130 'Temujin during his campaign against the'
+  /MG1/GEVMSG16.MES 65596 131 'Kingdom of Istoria,'
+  /MG1/GEVMSG16.MES 65596 132 ' and they were ambushed.'
+  /MG1/GEVMSG16.MES 65596 133 'In her fear,'
+  /MG1/GEVMSG16.MES 65596 134 ' the Guardian Dragon Rachis'
+  /MG1/GEVMSG16.MES 65596 135 'that was slumbering inside her awoke,'
+  /MG1/GEVMSG16.MES 65596 136 'burning several dozen soldiers alive.'
+  /MG1/GEVMSG16.MES 65596 137 'Lady Neyfa was,'
+  /MG1/GEVMSG16.MES 65596 138 ' understandably,'
+  /MG1/GEVMSG16.MES 65596 139 ' distraught.'
+  /MG1/GEVMSG16.MES 65596 140 "That's when Prince Sennet started asking"
+  /MG1/GEVMSG16.MES 65596 141 'questions about their bloodline.'
+  /MG1/GEVMSG16.MES 65596 142 'The Cult was growing stronger each day.'
+  /MG1/GEVMSG16.MES 65596 143 "Lady Katrina knew she couldn't protect"
+  /MG1/GEVMSG16.MES 65596 144 'the children on her own any longer,'
+  /MG1/GEVMSG16.MES 65596 145 'so she sought help from her father.'
+  /MG1/GEVMSG16.MES 65596 146 'Temujin consulted the exiled Sage Eisenbach,'
+  /MG1/GEVMSG16.MES 65596 147 'who in turn contacted me.'
+  /MG1/GEVMSG16.MES 65596 148 'By the time I got to Erial,'
+  /MG1/GEVMSG16.MES 65596 149 ' the children'
+  /MG1/GEVMSG16.MES 65596 150 'had already learned the truth.'
+  /MG1/GEVMSG16.MES 65596 151 'They were both in a state of shock.'
+  /MG1/GEVMSG16.MES 65596 153 'But despite that,'
+  /MG1/GEVMSG16.MES 65596 154 ' Prince Sennet vowed that'
+  /MG1/GEVMSG16.MES 65596 155 'he would move heaven and earth to protect'
+  /MG1/GEVMSG16.MES 65596 156 'Neyfa from anyone who would threaten her.'
+  /MG1/GEVMSG16.MES 65596 157 'He took up arms soon after that.'
+  /MG1/GEVMSG16.MES 65596 170 "It was all Carla's doing."
+  /MG1/GEVMSG16.MES 65596 171 'Even back then, he was already under'
+  /MG1/GEVMSG16.MES 65596 172 "that witch's influence..."
+  /MG1/GEVMSG16.MES 65596 173 'I saw Carla murder my mother to get closer'
+  /MG1/GEVMSG16.MES 65596 174 'to Bahanuk, but when I told him, he dismissed'
+  /MG1/GEVMSG16.MES 65596 175 'it as a fantasy brought on by my grief.'
+  /MG1/GEVMSG16.MES 65596 176 'He thought it impossible that his beloved'
+  /MG1/GEVMSG16.MES 65596 177 'concubine could ever do such a thing.'
+  /MG1/GEVMSG16.MES 65596 178 'Carla convinced him that punishment was'
+  /MG1/GEVMSG16.MES 65596 179 'in order,'
+  /MG1/GEVMSG16.MES 65596 180 ' and so I was exiled.'
+  /MG1/GEVMSG16.MES 65596 185 'We had been accompanying the Ledan branch'
+  /MG1/GEVMSG16.MES 65596 186 'of the Champions of Yutona,'
+  /MG1/GEVMSG16.MES 65596 187 ' but we lost a'
+  /MG1/GEVMSG16.MES 65596 188 'great deal of soldiers after we separated.'
+  /MG1/GEVMSG16.MES 65596 189 'Recently,'
+  /MG1/GEVMSG16.MES 65596 190 " we've been gathering recruits"
+  /MG1/GEVMSG16.MES 65596 191 'from Sophia and Canaan,'
+  /MG1/GEVMSG16.MES 65596 192 ' as well as a few'
+  /MG1/GEVMSG16.MES 65596 193 'from the other Zoan Lands.'
+  /MG1/GEVMSG16.MES 65596 194 'Once our forces have grown strong enough,'
+  /MG1/GEVMSG16.MES 65596 195 'we plan to assault the Canaanhall and free'
+  /MG1/GEVMSG16.MES 65596 196 'both Canaan and Sophia from the Empire.'
+  /MG1/GEVMSG16.MES 65596 199 "I don't know how to proceed beyond that."
+  /MG1/GEVMSG16.MES 65596 200 'I came here to seek your counsel.'
+  /MG1/GEVMSG16.MES 65596 201 'I hoped that the two of you would be able'
+  /MG1/GEVMSG16.MES 65596 202 'to tell me the appropriate course of action.'
+  /MG1/GEVMSG16.MES 65596 206 "The Emperor is the Cult's puppet now."
+  /MG1/GEVMSG16.MES 65596 207 'Nothing we do will change that.'
+  /MG1/GEVMSG16.MES 65596 212 'Bahanuk is no father of mine.'
+  /MG1/GEVMSG16.MES 65596 213 'My father was the King of Sophia,'
+  /MG1/GEVMSG16.MES 65596 214 ' whom he'
+  /MG1/GEVMSG16.MES 65596 215 'murdered on his quest to unify Zoa.'
+  /MG1/GEVMSG16.MES 65596 216 'I will not hesitate.'
+  /MG1/GEVMSG16.MES 65596 220 'He is.'
+  /MG1/GEVMSG16.MES 65596 221 'We both have already made our choice.'
+  /MG1/GEVMSG16.MES 65596 271 "I will return to Prince Sennet's side as soon"
+  /MG1/GEVMSG16.MES 65596 272 'as I can and inform him of the situation.'
+=== 0171 count= 310
+  /MB1/MB11.MES 5 3 "You wouldn't understand,"
+  /MB1/MB11.MES 5 4 ' Frau.'
+  /MB1/MB11.MES 5 5 "You can't change my mind."
+  /MB1/MB11.MES 5 6 'Now return to the village!'
+  /MB1/MB11.MES 5 10 "Martel's no different!"
+  /MB1/MB11.MES 5 11 "I won't be like the others..."
+  /MB1/MB11.MES 5 12 "I won't abandon the village!"
+  /MB1/MB11.MES 5 13 "I'm leaving now,"
+  /MB1/MB11.MES 5 14 ' Frau.'
+  /MB1/MB11.MES 5 15 'You take care of yourself.'
+  /MB1/MB11.MES 7 2 'Martel?!'
+  /MB1/MB11.MES 7 3 'Why are you here?'
+  /MB1/MB11.MES 7 4 'I thought you returned to Salia.'
+  /MB1/MB11.MES 7 9 "She's alive?!"
+  /MB1/MB11.MES 7 10 'Is that really true, Martel?'
+  /MB1/MB11.MES 7 15 "I don't believe it..."
+  /MB1/MB11.MES 7 16 "She really is alive, isn't she...?"
+  /MB1/MB11.MES 7 17 'Wait,'
+  /MB1/MB11.MES 7 18 " why didn't you bring her with you!?"
+  /MB1/MB11.MES 7 33 'Katri...?'
+  /MB1/MB11.MES 7 48 'Always two steps ahead of me,'
+  /MB1/MB11.MES 7 49 "aren't you, Martel?"
+  /MB1/MB11.MES 7 50 '...Would it be all right if I fought'
+  /MB1/MB11.MES 7 51 'alongside you?'
+  /MB1/MB140.MES 5 0 'Princess Resshea?!'
+  /MB1/MB140.MES 5 4 'Yes,'
+  /MB1/MB140.MES 5 5 " it's certainly a funny place for a"
+  /MB1/MB140.MES 5 6 'reunion,'
+  /MB1/MB140.MES 5 7 " isn't it, milady?"
+  /MB1/MB2.MES 3 0 'Lord Runan, that is the village of Taurus,'
+  /MB1/MB2.MES 3 1 'just to the south.'
+  /MB1/MB2.MES 3 2 "The bandits' hideout is to the west."
+  /MB1/MB2.MES 3 4 'It seems to be safe for now.'
+  /MB1/MB2.MES 3 6 "Because it's still standing."
+  /MB1/MB2.MES 3 7 'When those bandits attack, they pillage'
+  /MB1/MB2.MES 3 8 'and burn, razing villages to the ground.'
+  /MB1/MB2.MES 3 9 'They leave nothing behind.'
+  /MB1/MB2.MES 3 13 'Of course.'
+  /MB1/MB2.MES 3 14 'We shall deal them the only just punishment'
+  /MB1/MB2.MES 3 15 'that exists in this world.'
+  /MB1/MB2.MES 3 16 'An eye for an eye, a tooth for a tooth.'
+  /MB1/MB2.MES 3 19 'Even if we choose not to, the villagers'
+  /MB1/MB2.MES 3 20 'most certainly will.'
+  /MB1/MB2.MES 3 21 'With their homes destroyed and their'
+  /MB1/MB2.MES 3 22 'kinsmen murdered, a simple apology will'
+  /MB1/MB2.MES 3 23 'not suffice.'
+  /MB1/MB2.MES 3 24 'Besides, the bandits will never surrender.'
+  /MB1/MB2.MES 3 25 'They know that the only thing that awaits'
+  /MB1/MB2.MES 3 26 'them is death.'
+  /MB1/MB2.MES 3 28 'My good Sir Runan, these are harsh lands'
+  /MB1/MB2.MES 3 29 'where people are desperate to scrape up'
+  /MB1/MB2.MES 3 30 'a living.'
+  /MB1/MB2.MES 3 31 'The people here lead hard, hard lives'
+  /MB1/MB2.MES 3 32 'from dawn till dusk.'
+  /MB1/MB2.MES 3 33 'When there is a shortage of food, men resort'
+  /MB1/MB2.MES 3 34 'to banditry to feed their families.'
+  /MB1/MB2.MES 3 35 'Those who have had their villages destroyed'
+  /MB1/MB2.MES 3 36 'also become bandits.'
+  /MB1/MB23.MES 1 24 'Princess Sasha,'
+  /MB1/MB23.MES 1 25 " you needn't worry"
+  /MB1/MB23.MES 1 26 'about Lord Runan.'
+  /MB1/MB23.MES 1 27 'He is a hero of Reeve,'
+  /MB1/MB23.MES 1 28 ' after all.'
+  /MB1/MB23.MES 1 29 'Such a man would never fall to'
+  /MB1/MB23.MES 1 30 'a band of simple outlaws.'
+  /MB1/MB23.MES 65538 24 'Princess Sasha,'
+  /MB1/MB23.MES 65538 25 " you needn't worry"
+  /MB1/MB23.MES 65538 26 'about Lord Runan.'
+  /MB1/MB23.MES 65538 27 'He is a hero of Reeve,'
+  /MB1/MB23.MES 65538 28 ' after all.'
+  /MB1/MB23.MES 65538 29 'Such a man would never fall to'
+  /MB1/MB23.MES 65538 30 'a band of simple outlaws.'
+  /MB1/MB3.MES 5 0 'I will draw the enemy toward me.'
+  /MB1/MB3.MES 5 1 'You must protect Princess Sasha.'
+  /MB1/MB3.MES 5 15 '...Very well.'
+  /MB1/MB3.MES 5 16 'I will follow your lead,'
+  /MB1/MB3.MES 5 17 ' commander.'
+  /MB1/MB38.MES 4 0 'Prepare yourself,'
+  /MB1/MB38.MES 4 1 ' outsider!'
+  /MB1/MB38.MES 4 2 'Know the power of a Salian soldier!'
+  /MB1/MB66.MES 0 0 'Sharon!'
+  /MB1/MB66.MES 0 1 " It's been too long."
+  /MB1/MB66.MES 0 2 'At first I thought I was seeing things,'
+  /MB1/MB66.MES 0 3 'but it really is you.'
+  /MB1/MB66.MES 0 7 'The last I saw you was back in Canaan.'
+  /MB1/MB66.MES 0 8 "I'm glad to see you are well."
+  /MB1/MB66.MES 0 11 'Sharon, I...'
+  /MB1/MB66.MES 0 12 " I'm sorry I didn't come back."
+  /MB1/MB66.MES 0 13 'But for a fugitive like me, it was too'
+  /MB1/MB66.MES 0 14 'dangerous to stay in the Empire.'
+  /MB1/MB66.MES 0 15 'When I was fleeing to Wellt, I barely even'
+  /MB1/MB66.MES 0 16 'made it across the Reeve River.'
+  /MB1/MB66.MES 0 17 'But I really did want...'
+  /MB1/MB66.MES 0 27 'Sharon...'
+  /MB1/MB66.MES 0 33 "You're right."
+  /MB1/MB66.MES 0 34 'We should just be glad that we were able'
+  /MB1/MB66.MES 0 35 'to see each other again.'
+  /MB1/MB66.MES 0 36 'Say Sharon,'
+  /MB1/MB66.MES 0 37 " why don't we get a drink"
+  /MB1/MB66.MES 0 38 'and catch up after this battle?'
+  /MB1/MB72.MES 3 0 'Esther, are you serious about this?'
+  /MB1/MB72.MES 3 2 'You know exactly what.'
+  /MB1/MB72.MES 3 3 "Are you serious about joining Lord Runan's"
+  /MB1/MB72.MES 3 4 'army?'
+  /MB1/MB72.MES 3 8 "Don't be a selfish child!"
+  /MB1/MB72.MES 3 9 'You should be staying in Wellt to help Father!'
+  /MB1/MB72.MES 3 13 'What is it with you lately, Esther?'
+  /MB1/MB72.MES 3 14 "I'm only trying to protect you as my"
+  /MB1/MB72.MES 3 15 'dear little sister.'
+  /MB1/MB72.MES 3 16 'Have I done something to upset you?'
+  /MB1/MB72.MES 3 18 "We may not be related, but I've always"
+  /MB1/MB72.MES 3 19 'thought of you as my true sister throughout'
+  /MB1/MB72.MES 3 20 'these five years.'
+  /MB1/MB72.MES 3 21 "You're my family, Esther, and I want it"
+  /MB1/MB72.MES 3 22 'to stay that way.'
+  /MB1/MB72.MES 3 23 'Is there something wrong with that?'
+  /MB1/MB72.MES 3 32 'Esther...'
+  /MB1/MB77.MES 3 0 'So Sharon,'
+  /MB1/MB77.MES 3 1 ' why did you bring me out here'
+  /MB1/MB77.MES 3 2 'to this empty courtyard?'
+  /MB1/MB77.MES 3 8 'This is the flute I used to call Garuda!'
+  /MB1/MB77.MES 3 9 'He flew all the way here?'
+  /MB1/MB77.MES 3 13 'Garuda...'
+  /MB1/MB77.MES 4 3 'I owe you, Sharon. Thank you.'
+  /MB1/MB77.MES 4 4 "But even with you and Garuda here, I can't..."
+  /MB1/MB77.MES 4 5 'I have to take Barge back from the Empire.'
+  /MB1/MB77.MES 4 6 "I'll never be whole until the day I do."
+  /MB1/MB77.MES 4 11 'Sharon...'
+  /MB1/MB77.MES 4 12 'Wait here.'
+  /MB1/MB77.MES 4 13 " I'll go get us some wine."
+  /MB1/MB77.MES 4 14 "Let's drink together till dawn in celebration"
+  /MB1/MB77.MES 4 15 'of our historic reunion!'
+  /MB1/MB77.MES 65546 0 "I'm sorry, Sharon, but I..."
+  /MB1/MB77.MES 65546 1 "I can't go back to the Wyvern Knights."
+  /MB1/MB77.MES 65546 2 "That's not who I am anymore."
+  /MB1/MB77.MES 65546 3 "Please don't ask that of me."
+  /MB1/MB77.MES 65546 8 '...'
+  /MB1/MB77.MES 65546 9 'Forgive me, Sharon.'
+  /MB1/MB9.MES 4 3 'Yes,'
+  /MB1/MB9.MES 4 4 ' the last time we met was at'
+  /MB1/MB9.MES 4 5 'the tournament at the capital.'
+  /MB1/MB9.MES 4 6 'It all seems so long ago now.'
+  /MB1/MB9.MES 4 7 "It's pathetic to see a knight of your"
+  /MB1/MB9.MES 4 8 'caliber wagging his tail at Codha.'
+  /MB1/MB9.MES 4 10 "You're better than this,"
+  /MB1/MB9.MES 4 11 ' Roger.'
+  /MB1/MB9.MES 4 12 "You're the Paladin,"
+  /MB1/MB9.MES 4 13 " one of Wellt's finest!"
+  /MB1/MB9.MES 4 14 'The shadow of the Zoa Empire is spreading,'
+  /MB1/MB9.MES 4 15 'trying to bring back the Dark Ages.'
+  /MB1/MB9.MES 4 16 'If we do not fight against his evil,'
+  /MB1/MB9.MES 4 17 ' then we'
+  /MB1/MB9.MES 4 18 'disgrace all that Carluon the Great stood for!'
+  /MB1/MB9.MES 4 19 "We can't be wasting our lives in a"
+  /MB1/MB9.MES 4 20 'ridiculous feud like this!'
+  /MB1/MB9.MES 4 21 "It doesn't matter who wins here."
+  /MB1/MB9.MES 4 22 'If the Empire is not stopped,'
+  /MB1/MB9.MES 4 23 'we will surely all perish.'
+  /MB1/MB9.MES 4 33 "I'm sorry you feel that way."
+  /MB1/MB9.MES 4 34 'Come then,'
+  /MB1/MB9.MES 4 35 ' Roger the Paladin!'
+  /MB1/MB9.MES 4 36 "I will give you a knight's death!"
+  /MB1/MB9.MES 9 3 'Yes,'
+  /MB1/MB9.MES 9 4 ' the last time we met was at'
+  /MB1/MB9.MES 9 5 'the tournament at the capital.'
+  /MB1/MB9.MES 9 6 'It all seems so long ago now.'
+  /MB1/MB9.MES 9 7 "It's pathetic to see a knight of your"
+  /MB1/MB9.MES 9 8 'caliber wagging his tail at Codha.'
+  /MB1/MB9.MES 9 10 "Because you're better than this,"
+  /MB1/MB9.MES 9 11 ' Roger.'
+  /MB1/MB9.MES 9 12 "You're the Paladin,"
+  /MB1/MB9.MES 9 13 " one of Wellt's finest!"
+  /MB1/MB9.MES 9 14 'The shadow of the Zoa Empire is spreading,'
+  /MB1/MB9.MES 9 15 'trying to bring back the Dark Ages.'
+  /MB1/MB9.MES 9 16 'If we do not fight against his evil,'
+  /MB1/MB9.MES 9 17 ' then we'
+  /MB1/MB9.MES 9 18 'disgrace all that Carluon the Great stood for!'
+  /MB1/MB9.MES 9 19 "We can't be wasting our lives in a"
+  /MB1/MB9.MES 9 20 'ridiculous feud like this!'
+  /MB1/MB9.MES 9 21 "It doesn't matter who wins here."
+  /MB1/MB9.MES 9 22 'If the Empire is not stopped,'
+  /MB1/MB9.MES 9 23 'we will surely all perish.'
+  /MB1/MB9.MES 9 35 "I'm sorry you feel that way."
+  /MB1/MB9.MES 9 36 'Come then,'
+  /MB1/MB9.MES 9 37 ' Roger the Paladin!'
+  /MB1/MB9.MES 9 38 "I will give you a knight's death!"
+  /MG1/GEVMSG01.MES 1 0 'Princess Sasha,'
+  /MG1/GEVMSG01.MES 1 1 ' we have been'
+  /MG1/GEVMSG01.MES 1 2 'expecting you.'
+  /MG1/GEVMSG01.MES 1 9 'Forgive me,'
+  /MG1/GEVMSG01.MES 1 10 ' the report of your escape'
+  /MG1/GEVMSG01.MES 1 11 'only came in late last night.'
+  /MG1/GEVMSG01.MES 1 12 'I was not prepared for the sudden news,'
+  /MG1/GEVMSG01.MES 1 13 'so my departure was delayed.'
+  /MG1/GEVMSG01.MES 1 19 'My humblest apologies...'
+  /MG1/GEVMSG01.MES 1 25 '......'
+  /MG1/GEVMSG01.MES 1 41 'Raffin,'
+  /MG1/GEVMSG01.MES 1 42 ' son of Count Marlon of Verje.'
+  /MG1/GEVMSG01.MES 1 43 'Please,'
+  /MG1/GEVMSG01.MES 1 44 ' follow me.'
+  /MG1/GEVMSG01.MES 1 45 'Let us continue this conversation inside.'
+  /MG1/GEVMSG01.MES 1 46 'My father has been waiting for you.'
+  /MG1/GEVMSG01.MES 1 160 'Yes,'
+  /MG1/GEVMSG01.MES 1 161 ' Father.'
+  /MG1/GEVMSG01.MES 1 163 'No,'
+  /MG1/GEVMSG01.MES 1 164 ' Esther.'
+  /MG1/GEVMSG01.MES 1 165 'You will stay here.'
+  /MG1/GEVMSG18.MES 67 0 'Preparations are complete,'
+  /MG1/GEVMSG18.MES 67 1 ' Father.'
+  /MG1/GEVMSG18.MES 67 2 'We will be departing shortly.'
+  /MG1/GEVMSG18.MES 67 8 'Is that true?'
+  /MG1/GEVMSG18.MES 67 9 'I thought she was being pursued by'
+  /MG1/GEVMSG18.MES 67 10 "Codha's soldiers!"
+  /MG1/GEVMSG18.MES 67 16 'Knights?'
+  /MG1/GEVMSG18.MES 67 17 '...Could it be the Empire?'
+  /MG1/GEVMSG18.MES 67 21 'Mousa...'
+  /MG1/GEVMSG18.MES 67 22 ' Soldiers from Reeve?'
+  /MG1/GEVMSG18.MES 67 29 'That would make them Lord Runan'
+  /MG1/GEVMSG18.MES 67 30 'and Lord Holmes,'
+  /MG1/GEVMSG18.MES 67 31 ' right?'
+  /MG1/GEVMSG18.MES 67 32 "Do you think they're seeking asylum?"
+  /MG1/GEVMSG18.MES 67 43 'And will you offer him aid,'
+  /MG1/GEVMSG18.MES 67 44 ' Father?'
+  /MG1/GEVMSG18.MES 67 45 'I know his citizens hail him as a hero'
+  /MG1/GEVMSG18.MES 67 46 'for holding his own against the Empire,'
+  /MG1/GEVMSG18.MES 67 47 'but what do you think of him?'
+  /MG1/GEVMSG18.MES 67 55 'So you think the rumors are untrue?'
+  /MG1/GEVMSG18.MES 67 69 'Yes,'
+  /MG1/GEVMSG18.MES 67 70 ' Father.'
+  /MG1/GEVMSG18.MES 67 74 'What do you mean,'
+  /MG1/GEVMSG18.MES 67 75 ' Esther?'
+  /MG1/GEVMSG18.MES 67 81 "Don't be absurd."
+  /MG1/GEVMSG18.MES 67 82 'I have sworn loyalty to the'
+  /MG1/GEVMSG18.MES 67 83 'princess as a knight of Wellt.'
+  /MG1/GEVMSG18.MES 67 84 "That's all there is to it."
+  /MG1/GEVMSG18.MES 67 90 'Bah!'
+  /MG1/GEVMSG18.MES 67 91 'Esther,'
+  /MG1/GEVMSG18.MES 67 92 ' if you have time to waste on such'
+  /MG1/GEVMSG18.MES 67 93 'useless gossip,'
+  /MG1/GEVMSG18.MES 67 94 " why don't you spend it on"
+  /MG1/GEVMSG18.MES 67 95 'your training?'
+  /MG1/GEVMSG18.MES 67 96 'I went through all the trouble of convincing'
+  /MG1/GEVMSG18.MES 67 97 'Father for you to let you train as a knight,'
+  /MG1/GEVMSG18.MES 67 98 'but not once have you taken your'
+  /MG1/GEVMSG18.MES 67 99 'responsibilities seriously!'
+  /MG1/GEVMSG18.MES 67 100 'One day,'
+  /MG1/GEVMSG18.MES 67 101 " I'll return to Barge,"
+  /MG1/GEVMSG18.MES 67 102 ' and I'
+  /MG1/GEVMSG18.MES 67 103 "won't be able to protect you anymore."
+  /MG1/GEVMSG18.MES 67 106 'Wait!'
+  /MG1/GEVMSG18.MES 67 107 ' Esther!'
+  /MG1/GEVMSG18.MES 67 112 'Yes,'
+  /MG1/GEVMSG18.MES 67 113 ' Father.'
+  /MG1/GEVMSG18.MES 67 114 'I will choose my words more carefully.'
+  /MG1/GEVMSG31.MES 314 0 'Lord Runan,'
+  /MG1/GEVMSG31.MES 314 1 ' Sharon and I will be heading'
+  /MG1/GEVMSG31.MES 314 2 'through Canaan on to Barge.'
+  /MG1/GEVMSG31.MES 314 3 'Together,'
+  /MG1/GEVMSG31.MES 314 4 ' I hope we can finally revive'
+  /MG1/GEVMSG31.MES 314 5 'our fallen motherland.'
+  /MG1/GEVMSG31.MES 314 6 'Please give my best to Count Marlon,'
+  /MG1/GEVMSG31.MES 314 7 'and tell him that I will forever be'
+  /MG1/GEVMSG31.MES 314 8 "grateful for what he's done for me."
+  /MG1/GEVMSG31.MES 315 0 'Lord Runan,'
+  /MG1/GEVMSG31.MES 315 1 ' Sharon and I will be heading'
+  /MG1/GEVMSG31.MES 315 2 'through Canaan on to Barge.'
+  /MG1/GEVMSG31.MES 315 3 'Together,'
+  /MG1/GEVMSG31.MES 315 4 ' I hope we can finally revive'
+  /MG1/GEVMSG31.MES 315 5 'our fallen motherland.'
+  /MG1/GEVMSG31.MES 315 6 'Please give my best to Count Marlon,'
+  /MG1/GEVMSG31.MES 315 7 'and tell him that I will forever be'
+  /MG1/GEVMSG31.MES 315 8 "grateful for what he's done for me."
+  /MG1/GEVMSG31.MES 315 9 'And...'
+  /MG1/GEVMSG31.MES 315 10 ' that I will be visiting him soon.'
+  /MG1/GEVMSG31.MES 315 11 'I need to apologize...'
+  /MG1/GEVMSG31.MES 316 0 'Lord Runan,'
+  /MG1/GEVMSG31.MES 316 1 ' I am going to accompany Prince'
+  /MG1/GEVMSG31.MES 316 2 'Sennet and continue on to Barge.'
+  /MG1/GEVMSG31.MES 316 3 'I will continue to work toward the'
+  /MG1/GEVMSG31.MES 316 4 'restoration of the Bargese nation.'
+  /MG1/GEVMSG31.MES 316 5 "It's the least I can do for them..."
+  /MG1/GEVMSG31.MES 316 6 'Sharon, and Esther...'
+  /MG1/GEVMSG31.MES 316 7 'Please give my best to Count Marlon,'
+  /MG1/GEVMSG31.MES 316 8 'and tell him that I will forever be'
+  /MG1/GEVMSG31.MES 316 9 "grateful for what he's done for me."
+  /MG1/GEVMSG31.MES 316 10 'And...'
+  /MG1/GEVMSG31.MES 316 11 ' that I will be visiting him soon.'
+  /MG1/GEVMSG31.MES 316 12 'I need to apologize...'
+  /MG1/GEVMSG31.MES 317 2 "I'm afraid so,"
+  /MG1/GEVMSG31.MES 317 3 ' Princess.'
+  /MG1/GEVMSG31.MES 317 4 'Do give my best to Her Majesty.'
+  /MG1/GEVMSG31.MES 318 1 "I'm sorry to say goodbye like this,"
+  /MG1/GEVMSG31.MES 318 2 ' Esther.'
+  /MG1/GEVMSG31.MES 318 3 "I know we didn't always see eye to eye,"
+  /MG1/GEVMSG31.MES 318 4 "but you've been like family to me."
+  /MG1/GEVMSG31.MES 318 11 'Esther...'
+  /MG1/GEVMSG31.MES 65856 14 'Sharon...'
+  /MG1/GEVMSG31.MES 65856 15 "I'm sorry..."
+  /MG1/GEVMSG31.MES 65856 23 "You're right..."
+  /MG1/GEVMSG31.MES 65856 24 'Goodbye,'
+  /MG1/GEVMSG31.MES 65856 25 ' Sharon.'
+  /MG1/GEVMSG43.MES 459 0 'Lord Father,'
+  /MG1/GEVMSG43.MES 459 1 ' I have returned.'
+  /MG1/GEVMSG43.MES 459 12 'I already am home,'
+  /MG1/GEVMSG43.MES 459 13 ' Lord Father.'
+  /MG1/GEVMSG43.MES 459 14 'And I want to repay you for all the'
+  /MG1/GEVMSG43.MES 459 15 "kindness you've shown me."
+  /MG1/GEVMSG53.MES 129 0 "Don't worry,"
+  /MG1/GEVMSG53.MES 129 1 ' Lionel.'
+  /MG1/GEVMSG53.MES 129 2 "They're not pirates."
+=== 014F count= 247
+  /MB1/MB100.MES 3 1 'Yes.'
+  /MB1/MB100.MES 3 2 'Thank you for stopping those men.'
+  /MB1/MB100.MES 3 6 "I'm Alicia,"
+  /MB1/MB100.MES 3 7 ' a priestess from the'
+  /MB1/MB100.MES 3 8 'temple of Trente,'
+  /MB1/MB100.MES 3 9 ' to the north.'
+  /MB1/MB100.MES 3 10 'I was on my way to the Temple of Mars,'
+  /MB1/MB100.MES 3 11 'but those bandits attacked me on the way.'
+  /MB1/MB100.MES 3 17 'Yes,'
+  /MB1/MB100.MES 3 18 " I'm studying thunder and wind magic."
+  /MB1/MB100.MES 3 19 "I've even invented my own spell,"
+  /MB1/MB100.MES 3 20 ' too.'
+  /MB1/MB100.MES 3 25 "It's one of Lord Alfred's commandments:"
+  /MB1/MB100.MES 3 26 '"One must never use magic to harm others,'
+  /MB1/MB100.MES 3 27 'except in the direst of circumstances."'
+  /MB1/MB100.MES 3 39 'Ah,'
+  /MB1/MB100.MES 3 40 ' no...'
+  /MB1/MB100.MES 3 41 ' I'
+  /MB1/MB100.MES 3 42 "-It's not that Alfred!"
+  /MB1/MB100.MES 3 43 'But people make that mistake a lot...'
+  /MB1/MB100.MES 7 5 '...What do you want?'
+  /MB1/MB100.MES 7 9 'No,'
+  /MB1/MB100.MES 7 10 ' you were attacking my captors,'
+  /MB1/MB100.MES 7 11 'who just happened to have a prisoner.'
+  /MB1/MB100.MES 7 12 'I wouldn\'t call that a "rescue."'
+  /MB1/MB100.MES 7 13 'But as much as it pains me to be'
+  /MB1/MB100.MES 7 14 'indebted to pirates,'
+  /MB1/MB100.MES 7 15 ' I thank you.'
+  /MB1/MB100.MES 7 23 "I'll pass,"
+  /MB1/MB100.MES 7 24 ' thanks.'
+  /MB1/MB100.MES 7 25 "But since you're so itinerant,"
+  /MB1/MB100.MES 7 26 'would you mind taking me to Salia?'
+  /MB1/MB100.MES 7 27 "I've got business at the Salian cathedral,"
+  /MB1/MB100.MES 7 28 'but as far as Fort Ligria should be fine.'
+  /MB1/MB100.MES 7 31 'Is that a no...?'
+  /MB1/MB100.MES 7 38 'Excellent!'
+  /MB1/MB100.MES 7 39 "I'm Alicia,"
+  /MB1/MB100.MES 7 40 ' by the way.'
+  /MB1/MB100.MES 8 4 'And you are?'
+  /MB1/MB100.MES 8 7 'Ah,'
+  /MB1/MB100.MES 8 8 " so you're Lord Alfred's son..."
+  /MB1/MB100.MES 8 12 'Oh,'
+  /MB1/MB100.MES 8 13 ' Lady Sylphis told me that.'
+  /MB1/MB100.MES 8 14 "I'm just a priestess of a temple in Trente."
+  /MB1/MB100.MES 8 15 'I was only headed to the Temple of Mars'
+  /MB1/MB100.MES 8 16 'because my minister asked me to.'
+  /MB1/MB100.MES 8 17 'Nothing special,'
+  /MB1/MB100.MES 8 18 ' really.'
+  /MB1/MB100.MES 8 19 'But since Sage Eisenbach is dead now,'
+  /MB1/MB100.MES 8 20 "it'd be kind of pointless,"
+  /MB1/MB100.MES 8 21 ' right?'
+  /MB1/MB100.MES 8 25 "If he's dead,"
+  /MB1/MB100.MES 8 26 " he's dead."
+  /MB1/MB100.MES 8 27 'No sense sugarcoating it.'
+  /MB1/MB100.MES 8 28 'I might only be a few years older than you,'
+  /MB1/MB100.MES 8 29 'little Maruj,'
+  /MB1/MB100.MES 8 30 ' but you should still respect'
+  /MB1/MB100.MES 8 31 'me as your senior.'
+  /MB1/MB100.MES 8 32 "Those who can't control their tongues"
+  /MB1/MB100.MES 8 33 "can't possibly control their magic,"
+  /MB1/MB100.MES 8 34 'am I right?'
+  /MB1/MB100.MES 8 36 'What a rude little boy!'
+  /MB1/MB100.MES 8 37 'If your father had raised you,'
+  /MB1/MB100.MES 8 38 ' I know he'
+  /MB1/MB100.MES 8 39 'would have beaten some manners into you.'
+  /MB1/MB100.MES 8 40 'But just because your daddy was never'
+  /MB1/MB100.MES 8 41 "around doesn't mean that you get to be"
+  /MB1/MB100.MES 8 42 'a spoiled brat.'
+  /MB1/MB100.MES 8 44 'Oh,'
+  /MB1/MB100.MES 8 45 ' did I strike a nerve?'
+  /MB1/MB100.MES 8 46 "Why don't you just run along for now"
+  /MB1/MB100.MES 8 47 'so you can cool your head,'
+  /MB1/MB100.MES 8 48 ' little boy.'
+  /MB1/MB100.MES 8 51 'Hee hee...'
+  /MB1/MB100.MES 8 52 'Look at him,'
+  /MB1/MB100.MES 8 53 ' all huffy and upset!'
+  /MB1/MB100.MES 65545 4 'And you are?'
+  /MB1/MB100.MES 65545 7 'Ah,'
+  /MB1/MB100.MES 65545 8 " so you're Lord Alfred's son..."
+  /MB1/MB100.MES 65545 12 'Oh,'
+  /MB1/MB100.MES 65545 13 ' one of the clerics here told me that.'
+  /MB1/MB100.MES 65545 14 "I'm just a priestess of a temple in Trente."
+  /MB1/MB100.MES 65545 15 'I was only headed to the Temple of Mars'
+  /MB1/MB100.MES 65545 16 'because my minister asked me to.'
+  /MB1/MB100.MES 65545 17 'Nothing special,'
+  /MB1/MB100.MES 65545 18 ' really.'
+  /MB1/MB100.MES 65545 19 'But since Eisenbach is dead now,'
+  /MB1/MB100.MES 65545 20 "it'd be kind of pointless,"
+  /MB1/MB100.MES 65545 21 ' right?'
+  /MB1/MB100.MES 65545 25 'I might only be three years older than you,'
+  /MB1/MB100.MES 65545 26 'Maruj, but you should still respect me'
+  /MB1/MB100.MES 65545 27 'as your senior.'
+  /MB1/MB100.MES 65545 28 "Those who can't control their tongues"
+  /MB1/MB100.MES 65545 29 "can't possibly control their magic,"
+  /MB1/MB100.MES 65545 30 'am I right?'
+  /MB1/MB100.MES 65545 32 'What a rude little boy!'
+  /MB1/MB100.MES 65545 33 'If your father had raised you,'
+  /MB1/MB100.MES 65545 34 ' I know he'
+  /MB1/MB100.MES 65545 35 'would have beaten some manners into you.'
+  /MB1/MB100.MES 65545 36 'But just because your daddy was never'
+  /MB1/MB100.MES 65545 37 "around doesn't mean that you get to be"
+  /MB1/MB100.MES 65545 38 'a spoiled brat.'
+  /MB1/MB100.MES 65545 40 'Oh,'
+  /MB1/MB100.MES 65545 41 ' did I strike a nerve?'
+  /MB1/MB100.MES 65545 42 "Why don't you just run along for now"
+  /MB1/MB100.MES 65545 43 'so you can cool your head,'
+  /MB1/MB100.MES 65545 44 ' little boy.'
+  /MB1/MB100.MES 65545 47 'Hee hee...'
+  /MB1/MB100.MES 65545 48 'Look at him,'
+  /MB1/MB100.MES 65545 49 ' all huffy and upset!'
+  /MB1/MB128.MES 4 0 "I'll take care of these monsters."
+  /MB1/MB128.MES 4 1 "Let's see how they handle my thunderbolts!"
+  /MB1/MB128.MES 4 5 'Got it!'
+  /MB1/MB128.MES 4 6 'Be careful out there!'
+  /MB1/MB140.MES 65542 0 'Lord Alfred...'
+  /MB1/MB140.MES 65542 5 'No,'
+  /MB1/MB140.MES 65542 6 " it wasn't that."
+  /MB1/MB140.MES 65542 7 'I just needed to understand...'
+  /MB1/MB140.MES 65542 8 "To understand why you couldn't love her..."
+  /MB1/MB140.MES 65542 9 'Why you were always so secretive...'
+  /MB1/MB140.MES 65542 10 'I needed to know who you really were.'
+  /MB1/MB140.MES 65542 13 'Yes, I did...'
+  /MB1/MB140.MES 65542 14 'I learned about your wife and children,'
+  /MB1/MB140.MES 65542 15 'how they were still waiting for you.'
+  /MB1/MB140.MES 65542 16 "I realized how torn you must've been inside..."
+  /MB1/MB140.MES 65542 17 "And so I'm trying to forgive you,"
+  /MB1/MB140.MES 65542 18 ' but...'
+  /MB1/MB140.MES 65542 25 'Stop it!'
+  /MB1/MB140.MES 65542 26 "Don't talk about my mother!"
+  /MB1/MB140.MES 65542 32 'Sylph!?'
+  /MB1/MB140.MES 65542 33 'But why would you...'
+  /MB1/MB140.MES 65542 36 '......'
+  /MB1/MB143.MES 5 0 "You're such an idiot..."
+  /MB1/MB143.MES 5 1 "You don't know the first thing about"
+  /MB1/MB143.MES 5 2 "women's hearts,"
+  /MB1/MB143.MES 5 3 ' Holmes.'
+  /MB1/MB143.MES 5 9 "Don't you think Katri must be sad,"
+  /MB1/MB143.MES 5 10 ' being all'
+  /MB1/MB143.MES 5 11 'by her lonesome back at the hidden village?'
+  /MB1/MB143.MES 5 12 'That girl adores you,'
+  /MB1/MB143.MES 5 13 ' you know.'
+  /MB1/MB144.MES 6 0 '......'
+  /MG1/GEVMSG37.MES 65909 0 "I'm glad you were finally able to"
+  /MG1/GEVMSG37.MES 65909 1 'see him again,'
+  /MG1/GEVMSG37.MES 65909 2 ' Mel.'
+  /MG1/GEVMSG37.MES 65909 3 'A nice father-daughter reunion...'
+  /MG1/GEVMSG37.MES 65909 6 'Yes,'
+  /MG1/GEVMSG37.MES 65909 7 ' I knew him for a time.'
+  /MG1/GEVMSG37.MES 65909 8 'He spent more than a decade in my house.'
+  /MG1/GEVMSG37.MES 65909 10 "Don't worry,"
+  /MG1/GEVMSG37.MES 65909 11 " don't worry..."
+  /MG1/GEVMSG37.MES 65909 12 "I'll tell you all about it."
+  /MG1/GEVMSG37.MES 65909 13 'Even though the Ledan Crusade toppled the'
+  /MG1/GEVMSG37.MES 65909 14 'oppressive government the Cult had set up'
+  /MG1/GEVMSG37.MES 65909 15 'over Leda,'
+  /MG1/GEVMSG37.MES 65909 16 " the struggle still wasn't over."
+  /MG1/GEVMSG37.MES 65909 17 'The Cult still tried to keep its influence'
+  /MG1/GEVMSG37.MES 65909 18 'in the region,'
+  /MG1/GEVMSG37.MES 65909 19 ' and volunteers rose up to'
+  /MG1/GEVMSG37.MES 65909 20 'fight against them.'
+  /MG1/GEVMSG37.MES 65909 21 'My mother was a cleric in the resistance.'
+  /MG1/GEVMSG37.MES 65909 22 'One day,'
+  /MG1/GEVMSG37.MES 65909 23 ' fourteen years ago,'
+  /MG1/GEVMSG37.MES 65909 24 ' a near-dead'
+  /MG1/GEVMSG37.MES 65909 25 'man with incredibly severe burns was'
+  /MG1/GEVMSG37.MES 65909 26 'brought to our church.'
+  /MG1/GEVMSG37.MES 65909 27 'After the head priest saw him,'
+  /MG1/GEVMSG37.MES 65909 28 ' he called him'
+  /MG1/GEVMSG37.MES 65909 29 'a lost cause and told my mother to start'
+  /MG1/GEVMSG37.MES 65909 30 'digging him a grave.'
+  /MG1/GEVMSG37.MES 65909 31 "But my mother wouldn't give up on him,"
+  /MG1/GEVMSG37.MES 65909 32 "and to everyone's surprise,"
+  /MG1/GEVMSG37.MES 65909 33 ' she managed'
+  /MG1/GEVMSG37.MES 65909 34 'to stabilize his condition.'
+  /MG1/GEVMSG37.MES 65909 35 'It took an entire half a year before'
+  /MG1/GEVMSG37.MES 65909 36 'the man regained consciousness.'
+  /MG1/GEVMSG37.MES 65909 37 'We learned his name was Alfred,'
+  /MG1/GEVMSG37.MES 65909 38 'and that he was a master sorcerer.'
+  /MG1/GEVMSG37.MES 65909 39 'But he still remained bedridden for the'
+  /MG1/GEVMSG37.MES 65909 40 'next ten years,'
+  /MG1/GEVMSG37.MES 65909 41 ' healing his burns.'
+  /MG1/GEVMSG37.MES 65909 42 'It was only two years ago that he'
+  /MG1/GEVMSG37.MES 65909 43 'actually managed to walk again.'
+  /MG1/GEVMSG37.MES 65909 44 'My mother wept tears of joy at the sight.'
+  /MG1/GEVMSG37.MES 65909 45 'And then,'
+  /MG1/GEVMSG37.MES 65909 46 ' three days later,'
+  /MG1/GEVMSG37.MES 65909 47 ' she died.'
+  /MG1/GEVMSG37.MES 65909 48 'She worked herself to death nursing'
+  /MG1/GEVMSG37.MES 65909 49 'him back to life.'
+  /MG1/GEVMSG37.MES 65909 55 'I think he was too ashamed.'
+  /MG1/GEVMSG37.MES 65909 56 "He didn't want your mother to see him"
+  /MG1/GEVMSG37.MES 65909 57 'in such a miserable state.'
+  /MG1/GEVMSG37.MES 65909 58 'He was a complete wreck.'
+  /MG1/GEVMSG37.MES 65909 59 'He always seemed like he was on the'
+  /MG1/GEVMSG37.MES 65909 60 'verge of committing suicide...'
+  /MG1/GEVMSG37.MES 65909 61 "So my mother didn't go against his wishes."
+  /MG1/GEVMSG37.MES 65909 62 'She kept his survival a secret for'
+  /MG1/GEVMSG37.MES 65909 63 'all those years.'
+  /MG1/GEVMSG37.MES 65909 68 'Yes,'
+  /MG1/GEVMSG37.MES 65909 69 ' I did.'
+  /MG1/GEVMSG37.MES 65909 70 'I was four years old when he was brought'
+  /MG1/GEVMSG37.MES 65909 71 'to us,'
+  /MG1/GEVMSG37.MES 65909 72 ' and I stayed with him in Mahl until'
+  /MG1/GEVMSG37.MES 65909 73 'last year,'
+  /MG1/GEVMSG37.MES 65909 74 ' when I was seventeen.'
+  /MG1/GEVMSG37.MES 65909 75 'My real dad died before I can remember,'
+  /MG1/GEVMSG37.MES 65909 76 'so he was the closest thing to a father'
+  /MG1/GEVMSG37.MES 65909 77 'that I had growing up.'
+  /MG1/GEVMSG37.MES 65909 78 'Even if he was confined to a bed for'
+  /MG1/GEVMSG37.MES 65909 79 'twelve of those years...'
+  /MG1/GEVMSG37.MES 65909 82 'My mother loved him dearly, but...'
+  /MG1/GEVMSG37.MES 65909 83 'He never returned her feelings.'
+  /MG1/GEVMSG37.MES 65909 84 'I hated him for that,'
+  /MG1/GEVMSG37.MES 65909 85 ' after she died.'
+  /MG1/GEVMSG37.MES 65909 86 "It wasn't until recently that I learned"
+  /MG1/GEVMSG37.MES 65909 87 "why he couldn't love my mother back."
+  /MG1/GEVMSG37.MES 65909 88 'For a while,'
+  /MG1/GEVMSG37.MES 65909 89 ' I hated you for being'
+  /MG1/GEVMSG37.MES 65909 90 "the cause of my mother's sadness..."
+  /MG1/GEVMSG37.MES 65909 91 "But it's not your fault,"
+  /MG1/GEVMSG37.MES 65909 92 ' Mel.'
+  /MG1/GEVMSG37.MES 65909 93 "I'm sorry."
+  /MG1/GEVMSG37.MES 65909 105 'Thank you for understanding,'
+  /MG1/GEVMSG37.MES 65909 106 ' Mel.'
+  /MG1/GEVMSG37.MES 65909 107 "You're very kind."
+  /MG1/GEVMSG37.MES 65909 108 'As my olive branch,'
+  /MG1/GEVMSG37.MES 65909 109 " I'm returning Sage"
+  /MG1/GEVMSG37.MES 65909 110 'Alfred to you in perfect health.'
+  /MG1/GEVMSG37.MES 65909 114 "I'd love to,"
+  /MG1/GEVMSG37.MES 65909 115 ' Mel,'
+  /MG1/GEVMSG37.MES 65909 116 " but I can't."
+  /MG1/GEVMSG37.MES 65909 117 'Not yet,'
+  /MG1/GEVMSG37.MES 65909 118 ' anyway.'
+  /MG1/GEVMSG37.MES 65909 119 'I still have a few things I need to'
+  /MG1/GEVMSG37.MES 65909 120 'think about and learn for myself.'
+  /MG1/GEVMSG37.MES 65909 121 "I can't settle down until I do."
+  /MG1/GEVMSG40.MES 401 0 "I'm getting off here too,"
+  /MG1/GEVMSG40.MES 401 1 ' Holmes.'
+  /MG1/GEVMSG40.MES 401 2 "I'll be helping Princess Tia out."
+  /MG1/GEVMSG40.MES 401 8 'As do I.'
+  /MG1/GEVMSG40.MES 401 9 'Sage Alfred has left the Earth Shrine'
+  /MG1/GEVMSG40.MES 401 10 'in my hands for now,'
+  /MG1/GEVMSG40.MES 401 11 ' so I have a lot of'
+  /MG1/GEVMSG40.MES 401 12 'work ahead of me.'
+  /MG1/GEVMSG40.MES 401 13 "And don't worry,"
+  /MG1/GEVMSG40.MES 401 14 " I'll help keep Prince"
+  /MG1/GEVMSG40.MES 401 15 "Richard's head from getting too big."
+=== 0185 count= 67
+  /MB1/MB109.MES 1 0 "Don't underestimate the Cult,"
+  /MB1/MB109.MES 1 1 ' Richard,'
+  /MB1/MB109.MES 1 2 'least of all Pontiff Guenchaos.'
+  /MB1/MB109.MES 1 3 'He singlehandedly killed all three of'
+  /MB1/MB109.MES 1 4 'the other Sages.'
+  /MB1/MB109.MES 1 5 'I highly doubt you could face him alone.'
+  /MB1/MB109.MES 3 0 'What did you say to me!?'
+  /MB1/MB113.MES 3 25 'Of course.'
+  /MB1/MB113.MES 3 26 'Be careful,'
+  /MB1/MB113.MES 3 27 ' Prince Sennet.'
+  /MB1/MB114.MES 2 0 'Kuh...'
+  /MB1/MB114.MES 2 1 "I'm going to have to"
+  /MB1/MB114.MES 2 2 'withdraw for the time being.'
+  /MB1/MB140.MES 65542 1 'Alicia...'
+  /MB1/MB140.MES 65542 2 ' Why did you leave my side?'
+  /MB1/MB140.MES 65542 3 'Are you still troubled by your'
+  /MB1/MB140.MES 65542 4 "mother's passing?"
+  /MB1/MB140.MES 65542 11 'And'
+  /MB1/MB140.MES 65542 12 ' did you find the answers you sought?'
+  /MB1/MB140.MES 65542 19 'I see...'
+  /MB1/MB140.MES 65542 20 'I wish I could live in a world where I'
+  /MB1/MB140.MES 65542 21 'loved you as my own daughter...'
+  /MB1/MB140.MES 65542 22 "But I'm afraid it just isn't possible."
+  /MB1/MB140.MES 65542 23 'Alicia,'
+  /MB1/MB140.MES 65542 24 ' about Nina...'
+  /MB1/MB140.MES 65542 27 'If you insist...'
+  /MB1/MB140.MES 65542 28 'But at the very least,'
+  /MB1/MB140.MES 65542 29 ' I want you to have this.'
+  /MB1/MB140.MES 65542 30 "It's Sylph,"
+  /MB1/MB140.MES 65542 31 ' my own wind magic.'
+  /MB1/MB140.MES 65542 34 'Think of it as a memento from me.'
+  /MB1/MB140.MES 65542 35 "It's about all I can do for you now..."
+  /MB1/MB57.MES 65545 0 'Are you sure you want to go through'
+  /MB1/MB57.MES 65545 1 'with this,'
+  /MB1/MB57.MES 65545 2 ' Richard?'
+  /MB1/MB57.MES 65545 13 "I will send you to Tia's side,"
+  /MB1/MB57.MES 65545 14 ' then.'
+  /MB1/MB57.MES 65545 15 'Godspeed,'
+  /MB1/MB57.MES 65545 16 ' Prince Richard.'
+  /MG1/GEVMSG37.MES 371 2 'Of course I do.'
+  /MG1/GEVMSG37.MES 371 3 'I could never forget that beautiful'
+  /MG1/GEVMSG37.MES 371 4 'face of yours...'
+  /MG1/GEVMSG37.MES 371 5 "It's been too long,"
+  /MG1/GEVMSG37.MES 371 6 ' Mel.'
+  /MG1/GEVMSG37.MES 371 26 "I'm sorry,"
+  /MG1/GEVMSG37.MES 371 27 ' Mel...'
+  /MG1/GEVMSG37.MES 371 28 'I promised myself that before I reunited'
+  /MG1/GEVMSG37.MES 371 29 'with you,'
+  /MG1/GEVMSG37.MES 371 30 ' I have to atone for my sins...'
+  /MG1/GEVMSG37.MES 371 31 'And that means apologizing to your mother.'
+  /MG1/GEVMSG37.MES 371 32 "I don't deserve to speak to you"
+  /MG1/GEVMSG37.MES 371 33 "until I've made things right with her."
+  /MG1/GEVMSG37.MES 371 35 'Yes, I am.'
+  /MG1/GEVMSG37.MES 371 36 "I've avoided it for far too long."
+  /MG1/GEVMSG37.MES 371 37 "I don't know if Sylphis will forgive me,"
+  /MG1/GEVMSG37.MES 371 38 'but I must apologize to her nonetheless.'
+  /MG1/GEVMSG37.MES 372 7 'Maruj...?'
+  /MG1/GEVMSG37.MES 372 8 "You've grown up to be a fine young man."
+  /MG1/GEVMSG37.MES 372 9 'Sylphis raised you well.'
+  /MG1/GEVMSG37.MES 372 22 'Of course.'
+  /MG1/GEVMSG37.MES 372 23 "I'm sorry,"
+  /MG1/GEVMSG37.MES 372 24 ' Maruj...'
+  /MG1/GEVMSG42.MES 418 1 'Sylphis!?'
+  /MG1/GEVMSG42.MES 418 2 'You came here to meet me...?'
+  /MG1/GEVMSG42.MES 418 9 "I'm so sorry, Sylphis..."
+  /MG1/GEVMSG42.MES 418 10 "I couldn't..."
+  /MG1/GEVMSG42.MES 418 15 'Sylphis...'
+=== 016B count= 198
+  /MB1/MB107.MES 1 0 'Gaah...'
+  /MB1/MB107.MES 1 1 'Who are you people?'
+  /MB1/MB107.MES 1 2 "You're no ordinary warriors..."
+  /MB1/MB107.MES 65544 0 'Gaaah...'
+  /MB1/MB107.MES 65544 1 "They don't call him Lionheart for nothing..."
+  /MB1/MB121.MES 0 3 'I see.'
+  /MB1/MB121.MES 0 4 'Have we determined their intentions?'
+  /MB1/MB121.MES 0 9 'No surprises there.'
+  /MB1/MB121.MES 0 10 'Ready everyone for battle!'
+  /MB1/MB121.MES 0 11 'We must eliminate any and all intruders'
+  /MB1/MB121.MES 0 12 'who would challenge the Viceroy.'
+  /MB1/MB121.MES 1 0 'So,'
+  /MB1/MB121.MES 1 1 " it's come to this..."
+  /MB1/MB121.MES 1 2 'Very well,'
+  /MB1/MB121.MES 1 3 ' I shall be your opponent!'
+  /MB1/MB121.MES 2 14 'Uugh...'
+  /MB1/MB121.MES 2 17 'Who are you...?'
+  /MB1/MB121.MES 2 18 'Why did you help me?'
+  /MB1/MB121.MES 2 21 'T'
+  /MB1/MB121.MES 2 22 '-That bracelet...!'
+  /MB1/MB121.MES 2 23 'Princess Maria?!'
+  /MB1/MB121.MES 2 24 'Thank the Goddess you survived...'
+  /MB1/MB121.MES 2 27 'Are you'
+  /MB1/MB121.MES 2 28 ' not Princess Maria?'
+  /MB1/MB121.MES 2 29 'But you have the Ring of Salia...'
+  /MB1/MB121.MES 2 32 'You are she,'
+  /MB1/MB121.MES 2 33 ' milady!'
+  /MB1/MB121.MES 2 34 'Princess Maria of Salia!'
+  /MB1/MB121.MES 2 35 'That you still have the Ring of Salia'
+  /MB1/MB121.MES 2 36 'I left with you is unmistakable proof!'
+  /MB1/MB121.MES 2 38 'I stole it and hid it with you,'
+  /MB1/MB121.MES 2 39 ' yes.'
+  /MB1/MB121.MES 2 40 'Fifteen years ago,'
+  /MB1/MB121.MES 2 41 ' I was a royal guardsman'
+  /MB1/MB121.MES 2 42 "serving under King Dagnell's brother Ahab."
+  /MB1/MB121.MES 2 43 'When you were born,'
+  /MB1/MB121.MES 2 44 ' Princess Maria,'
+  /MB1/MB121.MES 2 45 ' the king'
+  /MB1/MB121.MES 2 46 'and queen were overjoyed,'
+  /MB1/MB121.MES 2 47 ' but Ahab saw'
+  /MB1/MB121.MES 2 48 'your brand and called you a demon.'
+  /MB1/MB121.MES 2 49 'He ordered me to kill the newborn princess'
+  /MB1/MB121.MES 2 50 'to prevent another catastrophe like Kranion.'
+  /MB1/MB121.MES 2 51 'I took you from your crib and brought'
+  /MB1/MB121.MES 2 52 'you into the forest,'
+  /MB1/MB121.MES 2 53 " but I couldn't do it."
+  /MB1/MB121.MES 2 54 'Instead,'
+  /MB1/MB121.MES 2 55 ' I stole the Ring of Salia and'
+  /MB1/MB121.MES 2 56 'left you and it in the care of a priest'
+  /MB1/MB121.MES 2 57 'who promised he would take you far away.'
+  /MB1/MB121.MES 2 58 "But now you've returned here,"
+  /MB1/MB121.MES 2 59 'to your homeland of Salia...'
+  /MB1/MB121.MES 2 60 'Could this truly be a sign from the Goddess?'
+  /MB1/MB121.MES 2 61 'No...'
+  /MB1/MB121.MES 2 62 ' My sins are beyond redemption.'
+  /MB1/MB121.MES 2 63 'Forgive me,'
+  /MB1/MB121.MES 2 64 ' Princess Maria...'
+  /MB1/MB121.MES 2 65 "When Ahab's machinations were found out,"
+  /MB1/MB121.MES 2 66 'I assisted in his plot to usurp the throne and'
+  /MB1/MB121.MES 2 67 'bring an end to the rightful House of Salia...'
+  /MB1/MB121.MES 2 81 'No,'
+  /MB1/MB121.MES 2 82 ' please, hear me out!'
+  /MB1/MB121.MES 2 83 "I should've phrased that more carefully..."
+  /MB1/MB121.MES 2 84 'The king and queen ARE still alive!'
+  /MB1/MB121.MES 2 85 'When Ahab first took the king and queen'
+  /MB1/MB121.MES 2 86 'prisoner in his plot to steal the throne,'
+  /MB1/MB121.MES 2 87 'he planned to execute them.'
+  /MB1/MB121.MES 2 88 "That's when I made my decision to fight"
+  /MB1/MB121.MES 2 89 'my liege and defend the true king.'
+  /MB1/MB121.MES 2 90 'I refused to let him execute them.'
+  /MB1/MB121.MES 2 91 'But in my actions he saw a weakness,'
+  /MB1/MB121.MES 2 92 'and he has kept them secretly imprisoned'
+  /MB1/MB121.MES 2 93 'for years in order to control my loyalty.'
+  /MB1/MB121.MES 2 94 "They're being held in a hidden cell in the"
+  /MB1/MB121.MES 2 95 'dungeons of Castle Salia.'
+  /MB1/MB121.MES 2 96 'But it would be impossible to get them out'
+  /MB1/MB121.MES 2 97 'without first gaining control of the castle.'
+  /MB1/MB121.MES 2 98 'I beg of you,'
+  /MB1/MB121.MES 2 99 ' please save them!'
+  /MB1/MB121.MES 2 100 'Now that I have been defeated,'
+  /MB1/MB121.MES 2 101 ' Ahab will'
+  /MB1/MB121.MES 2 102 'certainly expel me as a failure,'
+  /MB1/MB121.MES 2 103 " so it won't"
+  /MB1/MB121.MES 2 104 'be long before he decides the king and queen'
+  /MB1/MB121.MES 2 105 "aren't useful to him anymore,"
+  /MB1/MB121.MES 2 106 ' either.'
+  /MB1/MB121.MES 2 107 'I have dreamed of a moment like this'
+  /MB1/MB121.MES 2 108 'for fifteen agonizing years.'
+  /MB1/MB121.MES 2 109 'Please,'
+  /MB1/MB121.MES 2 110 ' allow me to join you!'
+  /MB1/MB121.MES 2 111 'Let me redeem myself as a knight of Salia!'
+  /MB1/MB141.MES 0 0 'Push on,'
+  /MB1/MB141.MES 0 1 ' men!'
+  /MB1/MB141.MES 0 2 'Lionheart may be powerful,'
+  /MB1/MB141.MES 0 3 " but it's only"
+  /MB1/MB141.MES 0 4 'him and his men guarding the castle!'
+  /MB1/MB141.MES 0 5 'We have numbers on our side!'
+  /MB1/MB141.MES 0 9 "It can't be!"
+  /MB1/MB141.MES 0 10 'Selba has sent reinforcements already?!'
+  /MB1/MB141.MES 0 14 'It must be that troublesome band of'
+  /MB1/MB141.MES 0 15 'mercenaries the rebels have hired...'
+  /MB1/MB141.MES 0 16 'Order half of our troops to focus on defense!'
+  /MB1/MB141.MES 0 17 'I will send a messenger to the Viceroy.'
+  /MB1/MB141.MES 0 18 'We will have to hold out until he is able'
+  /MB1/MB141.MES 0 19 'to send us reinforcements from Castle Salia.'
+  /MB1/MB141.MES 1 0 'So,'
+  /MB1/MB141.MES 1 1 " it's come to this..."
+  /MB1/MB141.MES 1 2 'Very well,'
+  /MB1/MB141.MES 1 3 ' I shall be your opponent!'
+  /MB1/MB141.MES 2 14 'Uugh...'
+  /MB1/MB141.MES 2 17 'Who are you...?'
+  /MB1/MB141.MES 2 18 'Why did you help me?'
+  /MB1/MB141.MES 2 21 'T'
+  /MB1/MB141.MES 2 22 '-That birthmark...!'
+  /MB1/MB141.MES 2 23 'Princess Maria?!'
+  /MB1/MB141.MES 2 24 'Thank the Goddess you survived...'
+  /MB1/MB141.MES 2 27 'You are she,'
+  /MB1/MB141.MES 2 28 ' milady!'
+  /MB1/MB141.MES 2 29 'Princess Maria of Salia!'
+  /MB1/MB141.MES 2 30 'That Brand of Yutona that you bear'
+  /MB1/MB141.MES 2 31 'is unmistakable proof!'
+  /MB1/MB141.MES 2 36 'Fifteen years ago,'
+  /MB1/MB141.MES 2 37 ' I was a royal guardsman'
+  /MB1/MB141.MES 2 38 "serving under King Dagnell's brother Ahab."
+  /MB1/MB141.MES 2 39 'When you were born,'
+  /MB1/MB141.MES 2 40 ' Princess Maria,'
+  /MB1/MB141.MES 2 41 ' the king'
+  /MB1/MB141.MES 2 42 'and queen were overjoyed,'
+  /MB1/MB141.MES 2 43 ' but Ahab saw'
+  /MB1/MB141.MES 2 44 'your brand and called you a demon.'
+  /MB1/MB141.MES 2 45 'He ordered me to kill the newborn princess'
+  /MB1/MB141.MES 2 46 'to prevent another catastrophe like Kranion.'
+  /MB1/MB141.MES 2 47 'I took you from your crib and brought'
+  /MB1/MB141.MES 2 48 'you into the forest,'
+  /MB1/MB141.MES 2 49 " but I couldn't do it."
+  /MB1/MB141.MES 2 50 'Instead,'
+  /MB1/MB141.MES 2 51 ' I stole the Ring of Salia and'
+  /MB1/MB141.MES 2 52 'left you and it in the care of a priest'
+  /MB1/MB141.MES 2 53 'who promised he would take you far away.'
+  /MB1/MB141.MES 2 54 "But now you've returned here,"
+  /MB1/MB141.MES 2 55 'to your homeland of Salia...'
+  /MB1/MB141.MES 2 56 'Could this truly be a sign from the Goddess?'
+  /MB1/MB141.MES 2 57 'No...'
+  /MB1/MB141.MES 2 58 ' My sins are beyond redemption.'
+  /MB1/MB141.MES 2 59 'Forgive me,'
+  /MB1/MB141.MES 2 60 ' Princess Maria...'
+  /MB1/MB141.MES 2 61 "When Ahab's machinations were found out,"
+  /MB1/MB141.MES 2 62 'I assisted in his plot to usurp the throne and'
+  /MB1/MB141.MES 2 63 'bring an end to the rightful House of Salia...'
+  /MB1/MB141.MES 2 76 'My apologies.'
+  /MB1/MB141.MES 2 77 "I should've phrased that more carefully..."
+  /MB1/MB141.MES 2 78 'The king and queen ARE still alive.'
+  /MB1/MB141.MES 2 80 'When Ahab first took the king and queen'
+  /MB1/MB141.MES 2 81 'prisoner in his plot to steal the throne,'
+  /MB1/MB141.MES 2 82 'he planned to execute them.'
+  /MB1/MB141.MES 2 83 "That's when I made my decision to fight"
+  /MB1/MB141.MES 2 84 'my liege and defend the true king.'
+  /MB1/MB141.MES 2 85 'I refused to let him execute them.'
+  /MB1/MB141.MES 2 86 'But in my actions he saw a weakness,'
+  /MB1/MB141.MES 2 87 'and he has kept them secretly imprisoned'
+  /MB1/MB141.MES 2 88 'for years in order to control my loyalty.'
+  /MB1/MB141.MES 2 89 "They're being held in a hidden cell in the"
+  /MB1/MB141.MES 2 90 'dungeons of Castle Salia.'
+  /MB1/MB141.MES 2 91 'But it would be impossible to get them out'
+  /MB1/MB141.MES 2 92 'without first gaining control of the castle.'
+  /MB1/MB141.MES 2 93 'I beg of you,'
+  /MB1/MB141.MES 2 94 ' please save them!'
+  /MB1/MB141.MES 2 95 'Now that I have been defeated,'
+  /MB1/MB141.MES 2 96 ' Ahab will'
+  /MB1/MB141.MES 2 97 'certainly expel me as a failure,'
+  /MB1/MB141.MES 2 98 " so it won't"
+  /MB1/MB141.MES 2 99 'be long before he decides the king and queen'
+  /MB1/MB141.MES 2 100 "aren't useful to him anymore,"
+  /MB1/MB141.MES 2 101 ' either.'
+  /MB1/MB141.MES 2 102 'I have dreamed of a moment like this'
+  /MB1/MB141.MES 2 103 'for fifteen agonizing years.'
+  /MB1/MB141.MES 2 104 'Please,'
+  /MB1/MB141.MES 2 105 ' allow me to join you!'
+  /MB1/MB141.MES 2 106 'Let me redeem myself as a knight of Salia!'
+  /MB1/MB141.MES 3 3 "It can't be!"
+  /MB1/MB141.MES 3 4 'Selba has sent reinforcements already?!'
+  /MB1/MB141.MES 3 8 'It must be that troublesome band of'
+  /MB1/MB141.MES 3 9 'mercenaries the rebels have hired...'
+  /MB1/MB141.MES 3 10 'Order half of our troops to focus on defense'
+  /MB1/MB141.MES 3 11 'to reinforce the guard!'
+  /MB1/MB141.MES 3 12 'I will send a messenger to the Viceroy.'
+  /MB1/MB141.MES 3 13 'We will have to hold out until he is able'
+  /MB1/MB141.MES 3 14 'to send us reinforcements from Castle Salia.'
+  /MB1/MB141.MES 65541 0 'Lord Lionheart...'
+  /MB1/MB141.MES 65541 1 'My apologies,'
+  /MB1/MB141.MES 65541 2 ' but I have my orders!'
+  /MB1/MB141.MES 65541 3 'I shall reclaim Blaad!'
+  /MG1/GEVMSG38.MES 392 3 'Of course,'
+  /MG1/GEVMSG38.MES 392 4 ' Your Highness!'
+  /MG1/GEVMSG38.MES 392 5 "We'll be able to handle Salia"
+  /MG1/GEVMSG38.MES 392 6 'just fine by ourselves.'
+  /MG1/GEVMSG50.MES 65649 4 'As you command,'
+  /MG1/GEVMSG50.MES 65649 5 ' Viceroy.'

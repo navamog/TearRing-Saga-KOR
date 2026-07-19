@@ -1,0 +1,9 @@
+SPK: [363]
+--JP segs--
+0: 'よかろう'
+1: '\n私が相手になってやろう'
+--EN runs--
+0: 'So,'
+1: " it's come to this..."
+2: 'Very well,'
+3: ' I shall be your opponent!'

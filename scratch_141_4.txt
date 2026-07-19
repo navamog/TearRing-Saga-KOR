@@ -1,0 +1,31 @@
+SPK: [231, 432]
+--JP segs--
+0: 'ホ－ムズ､また助けられたな……'
+1: '\n草原の狼と呼ばれた俺も\nグラナダの若獅子には勝てぬようだ'
+2: '知っていたのか？……'
+3: '只者ではないと思っていたが\nヴォルス提督の子とあれば納得もゆく'
+4: '\nもっとも気づいたのは最近だがな'
+5: '親父のことなんざ俺にはまったく関係ねえ'
+6: '\nレオン公\n俺の前で親父の話はやめてくれねえか'
+7: 'お前が望むならそうしよう'
+8: '\nホ－ムズ､俺は街の様子を見てくる'
+9: '\nここはお前にまかすゆえ\nアハブの敗兵どもを始末してくれ……'
+--EN runs--
+0: "You've saved my hide yet again,"
+1: ' Holmes!'
+2: "I guess even the Lionheart can't match"
+3: 'the Sea Lion of Granada,'
+4: ' huh?'
+5: 'No one actually calls me that...'
+6: "How'd you figure it out?"
+7: "You didn't exactly hide it."
+8: "You said you were one of Granada's"
+9: 'privateers,'
+10: ' so I asked around.'
+11: "I had no idea you were Admiral Vals's son!"
+12: "Please don't talk about him."
+13: "I'd prefer to pretend he didn't exist."
+14: "Ha ha, if that's what you want."
+15: "I'm going to see what condition those"
+16: "mongrels of Ahab's have left Blaad in."
+17: "I'll leave the rest of them to you."

@@ -1,0 +1,559 @@
+===== /MG1/GEVMSG39.MES
+--- rid 394
+  run0: [0094] "We'll be headed north from here."
+  run1: [0094] 'It was good to meet you,'
+  run2: [0094] ' Lord Runan.'
+  run3: [01F2] 'Headed back to Erial,'
+  run4: [01F2] ' I take it?'
+  run5: [0094] 'Yes.'
+  run6: [0094] ' I know the citizens must be anxious'
+  run7: [0094] 'for my father to come back.'
+  run8: [0094] "I'm sure a lot of work has piled up"
+  run9: [0094] "for him while we've been away."
+  run10: [01B0] "I've been meaning to ask,"
+  run11: [01B0] ' how did Erial'
+  run12: [01B0] 'end up becoming a country,'
+  run13: [01B0] ' anyway?'
+  run14: [01B0] "Didn't it used to be just a Ledan fort?"
+  run15: [0094] 'After the Kingdom of Leda fell and the Cult'
+  run16: [0094] 'of Gerxel moved in,'
+  run17: [0094] ' people had to rely on'
+  run18: [0094] 'their local leaders to protect them.'
+  run19: [0094] "When that wasn't enough against the Cult,"
+  run20: [0094] 'the Crusaders came and drove them out.'
+  run21: [01B0] 'So your father was one of the Crusaders'
+  run22: [01B0] 'who went there twenty-three years ago?'
+  run23: [0094] 'Not at first.'
+  run24: [0094] 'He was actually one of the leaders of'
+  run25: [0094] 'the invading force,'
+  run26: [0094] ' until he had a falling'
+  run27: [0094] 'out with the Pontiff.'
+  run28: [0094] 'He switched sides and became one of'
+  run29: [0094] 'the Six Warriors who led the Crusade.'
+  run30: [01B0] "That's quite a change of heart..."
+  run31: [01B0] "He must've been a pretty strong fighter"
+  run32: [01B0] 'to be so influential like that.'
+  run33: [0094] 'I was only a little girl back then,'
+  run34: [0094] "but that's what everyone told me."
+  run35: [0094] 'He did manage to capture the so-called'
+  run36: [0094] 'impenetrable Fort Erial from the Cult.'
+  run37: [0094] 'Everyone called him a miracle-worker.'
+  run38: [0094] 'People from Erial and the surrounding'
+  run39: [0094] 'area begged my father to become their king.'
+  run40: [0094] 'He refused at first,'
+  run41: [0094] ' but eventually gave in.'
+  run42: [0094] 'He never goes by King Temujin,'
+  run43: [0094] ' though,'
+  run44: [0094] 'just Lord Temujin.'
+  run45: [01B0] 'A cultist turned crusader turned king...'
+  run46: [01B0] 'No wonder people look up to him.'
+  run47: [016E] 'Are you quite finished bragging'
+  run48: [016E] 'about me,'
+  run49: [016E] ' Katrina?'
+  run50: [016E] "It's about time we left."
+  run51: [0094] 'Yes,'
+  run52: [0094] ' Father!'
+--- rid 395
+  run0: [016E] "You've done a great job,"
+  run1: [016E] ' Samson.'
+  run2: [016E] 'Thanks for covering the other front.'
+  run3: [01B0] 'Wait,'
+  run4: [01B0] " aren't you just a mercenary?"
+  run5: [01B0] 'Why do you know Lord Temujin?'
+  run6: [0104] 'I told you I was a big deal in Erial.'
+  run7: [0104] "My job was to find Admiral Vals's son and"
+  run8: [0104] 'help point him in the right direction.'
+  run9: [0104] "Didn't you notice all the help I was"
+  run10: [0104] 'giving you from behind the scenes?'
+  run11: [0104] 'Why do you think all those mayors and'
+  run12: [0104] 'townspeople were so nice to you?'
+  run13: [01B0] 'That was all you...?'
+  run14: [01B0] 'Just who the hell are you,'
+  run15: [01B0] ' Samson?!'
+  run16: [016E] "He's my right-hand man,"
+  run17: [016E] ' of course.'
+  run18: [01B0] 'What?!'
+  run19: [016E] "He's also my son-in-law."
+  run20: [01B0] 'WHAT?!'
+  run21: [0094] 'You make me so proud,'
+  run22: [0094] ' Samson!'
+  run23: [0094] 'You better be grateful my sweetie was'
+  run24: [0094] 'there to help you out,'
+  run25: [0094] ' Holmes!'
+  run26: [01B0] 'Y'
+  run27: [01B0] "-You're all pulling my leg,"
+  run28: [01B0] ' right?'
+  run29: [01B0] "There's no way you're not just a"
+  run30: [01B0] 'regular guy,'
+  run31: [01B0] ' right,'
+  run32: [01B0] ' Samson?'
+  run33: [0104] 'Oh,'
+  run34: [0104] ' Holmes...'
+--- rid 396
+  run0: [006B] 'La la la...'
+  run1: [01B0] "You're looking chipper today, Lyria."
+  run2: [01B0] 'Something good happen to you?'
+  run3: [006B] "I'm gonna leave here,"
+  run4: [006B] ' too.'
+  run5: [006B] 'See you,'
+  run6: [006B] ' Holmes!'
+  run7: [01B0] 'Hey,'
+  run8: [01B0] ' hold on a second!'
+  run9: [01B0] 'Where in the world are you going?'
+  run10: [006B] "That's an S-"
+  run11: [006B] 'E-'
+  run12: [006B] 'C-'
+  run13: [006B] 'R-'
+  run14: [006B] 'E-'
+  run15: [006B] 'T!'
+  run16: [006B] 'Bye bye!'
+  run17: [01B0] "She didn't even look back..."
+  run18: [01B0] "She's a weird one,"
+  run19: [01B0] ' that girl.'
+  run20: [01F2] "She's headed to Erial."
+  run21: [01F2] 'I heard Lady Katrina offer to help'
+  run22: [01F2] 'her with her singing career.'
+  run23: [01B0] 'Is that so?'
+  run24: [01B0] 'Nobody ever tells me anything...'
+  run25: [01B0] 'Well,'
+  run26: [01B0] " I hope she's successful."
+  run27: [01B0] "It'd be nice to hear her sing again."
+  run28: [01F2] 'I agree.'
+--- rid 397
+  run0: [0038] 'Lord Runan...'
+  run1: [0038] "I'm going to head back home."
+  run2: [01F2] 'Ah,'
+  run3: [01F2] ' right,'
+  run4: [01F2] " you're from Selba,"
+  run5: [01F2] " aren't you?"
+  run6: [0038] 'Yes...'
+  run7: [0038] "If you're ever in the neighborhood,"
+  run8: [0038] 'you can always come visit,'
+  run9: [0038] ' Lord Runan.'
+  run10: [0038] 'Goodbye...'
+  run11: [01B0] 'She looked pretty sad to say goodbye...'
+  run12: [01F2] 'Yeah...'
+--- rid 398
+  run0: [019B] "I'm headed back to Blaad,"
+  run1: [019B] ' Captain.'
+  run2: [01B0] 'Attrom?'
+  run3: [01B0] "I didn't even realize you were"
+  run4: [01B0] 'still here...'
+  run5: [019B] "I guess I shouldn't have wasted"
+  run6: [019B] 'my breath,'
+  run7: [019B] ' then!'
+  run8: [019B] 'Goodbye!'
+  run9: [01B0] 'Geez,'
+  run10: [01B0] ' I was just being honest...'
+--- rid 65935
+  run0: [01B0] 'See,'
+  run1: [01B0] ' I told you.'
+  run2: [01B0] ' Goodbyes are terrible.'
+  run3: [01B0] 'Everybody always gets all funny...'
+  run4: [01F2] "You sure it's not just you,"
+  run5: [01F2] ' Holmes?'
+===== /MG1/GEVMSG40.MES
+--- rid 400
+  run0: [0163] 'Finally,'
+  run1: [0163] " we're back in my country."
+  run2: [0163] 'Runan,'
+  run3: [0163] ' Holmes,'
+  run4: [0163] ' would you care to pay a'
+  run5: [0163] 'visit to my royal palace?'
+  run6: [0163] 'This is a special invitation from yours truly.'
+  run7: [01B0] 'Thanks, but no thanks,'
+  run8: [01B0] ' Richard.'
+  run9: [01B0] "I'd like to be leaving as soon as possible."
+  run10: [0163] 'Hmph,'
+  run11: [0163] ' suit yourselves.'
+  run12: [0163] 'You both will of course be invited to'
+  run13: [0163] 'our wedding and coronation ceremonies.'
+  run14: [0163] 'You should receive formal messages'
+  run15: [0163] 'of invitation in due time.'
+  run16: [01B0] 'Yeah,'
+  run17: [01B0] " I'll be there."
+  run18: [01B0] 'Best of luck to you both.'
+  run19: [01F2] 'It was good to see you again, Princess Tia.'
+  run20: [01F2] 'I look forward to seeing you both again.'
+  run21: [00D0] 'Same to you,'
+  run22: [00D0] ' Lord Runan.'
+--- rid 401
+  run0: [014F] "I'm getting off here too,"
+  run1: [014F] ' Holmes.'
+  run2: [014F] "I'll be helping Princess Tia out."
+  run3: [01B0] "That's good."
+  run4: [01B0] "Maybe you'll be able to teach that Richard"
+  run5: [01B0] "some manners while you're around."
+  run6: [01B0] 'I hope everything goes well with'
+  run7: [01B0] 'the revival of Leda.'
+  run8: [014F] 'As do I.'
+  run9: [014F] 'Sage Alfred has left the Earth Shrine'
+  run10: [014F] 'in my hands for now,'
+  run11: [014F] ' so I have a lot of'
+  run12: [014F] 'work ahead of me.'
+  run13: [014F] "And don't worry,"
+  run14: [014F] " I'll help keep Prince"
+  run15: [014F] "Richard's head from getting too big."
+  run16: [01B0] 'Thanks,'
+  run17: [01B0] ' Alicia.'
+  run18: [01B0] "I'm glad we met you on our journey."
+--- rid 402
+  run0: [01B0] 'Leaving so soon,'
+  run1: [01B0] ' Xeno?'
+  run2: [01B0] "Don't you want to stay a little longer?"
+  run3: [01B0] 'Corfu City will still be there later...'
+  run4: [0001] 'Sorry, Holmes, but I need to do this.'
+  run5: [0001] 'This has been a long time coming for me.'
+  run6: [01B0] 'My father sent investigators to Corfu years'
+  run7: [01B0] 'ago to try and dig up whatever they could'
+  run8: [01B0] 'on your parents,'
+  run9: [01B0] ' but they found nothing.'
+  run10: [01B0] 'What makes you think this is going to'
+  run11: [01B0] 'turn out any different?'
+  run12: [0001] "I'll never know unless I try."
+  run13: [0001] 'When I saw Katri reunite with her parents,'
+  run14: [0001] 'it rekindled the hope inside me...'
+  run15: [01F2] "You're an orphan,"
+  run16: [01F2] ' Xeno?'
+  run17: [0001] 'Yeah...'
+  run18: [0001] 'I was found in the outskirts of Corfu City'
+  run19: [0001] 'in Trente when I was just a toddler.'
+  run20: [0001] 'A farmer who lived nearby took care of me'
+  run21: [0001] 'for a while,'
+  run22: [0001] ' but he died when I was five.'
+  run23: [0001] 'After that,'
+  run24: [0001] ' I was caught by slavers and'
+  run25: [0001] 'sold to a plantation owner from the city.'
+  run26: [0001] 'When I was thirteen,'
+  run27: [0001] ' I stowed away in'
+  run28: [0001] "Admiral Vals's caravan to escape,"
+  run29: [0001] " and I've"
+  run30: [0001] 'been working for him ever since.'
+  run31: [01B0] 'Listen,'
+  run32: [01B0] ' Xeno,'
+  run33: [01B0] ' regardless of what you find,'
+  run34: [01B0] 'you can always come back to Granada.'
+  run35: [01B0] 'And let me know if you run into trouble.'
+  run36: [01B0] "I'll come lend you a hand."
+  run37: [0001] 'Thanks,'
+  run38: [0001] ' Holmes.'
+  run39: [0001] 'Wish me luck!'
+--- rid 403
+  run0: [003B] 'Xeno,'
+  run1: [003B] ' can I come with you?'
+  run2: [0001] 'Thanks,'
+  run3: [0001] ' Juni.'
+  run4: [0001] "I was hoping you'd come along."
+  run5: [003B] 'Thanks...'
+  run6: [003B] "I think you're lucky,"
+  run7: [003B] ' Xeno.'
+  run8: [0001] 'Really?'
+  run9: [0001] 'What makes you say that?'
+  run10: [003B] 'Your parents might still be out there!'
+  run11: [003B] 'Mine are both dead,'
+  run12: [003B] ' so I know'
+  run13: [003B] "I'll never see them again..."
+  run14: [0001] 'I see...'
+  run15: [0001] "You're from Venette,"
+  run16: [0001] ' right?'
+  run17: [0001] 'Were they killed during the war with Istoria?'
+  run18: [003B] 'Yeah,'
+  run19: [003B] ' almost two years ago now...'
+  run20: [003B] 'After the Battle of Balt,'
+  run21: [003B] ' Istoria started to'
+  run22: [003B] 'attack all its neighbors,'
+  run23: [003B] ' including Venette.'
+  run24: [003B] "News hadn't even reached us that Istoria"
+  run25: [003B] 'had betrayed us before they invaded...'
+  run26: [003B] 'My father was a senator,'
+  run27: [003B] ' so our family was'
+  run28: [003B] 'targeted by the enemy soldiers.'
+  run29: [003B] 'It was my thirteenth birthday when they'
+  run30: [003B] 'attacked the capital...'
+  run31: [003B] "They slit my parents' and my three little"
+  run32: [003B] "sisters' throats right in front of me,"
+  run33: [003B] 'and then they burned their bodies...'
+  run34: [003B] 'I watched it all happen...'
+  run35: [0001] 'But you survived,'
+  run36: [0001] ' huh?'
+  run37: [0001] 'The Goddess must have been watching'
+  run38: [0001] 'over you.'
+  run39: [003B] 'No,'
+  run40: [003B] " that wasn't it."
+  run41: [003B] 'I survived because I lied to them.'
+  run42: [003B] 'I told them I was just a servant,'
+  run43: [003B] 'and I clung to the soldiers and begged'
+  run44: [003B] 'for my life...'
+  run45: [003B] "I begged my own family's murderers..."
+  run46: [003B] 'And then they...'
+  run47: [003B] '*Sniff*'
+  run48: [0001] "Don't cry,"
+  run49: [0001] ' Juni...'
+  run50: [0001] "You don't have to talk about it"
+  run51: [0001] "if you don't want to."
+  run52: [003B] '...No,'
+  run53: [003B] ' I want you to know,'
+  run54: [003B] ' Xeno.'
+  run55: [003B] 'Ever since that day,'
+  run56: [003B] " I've worn rags"
+  run57: [003B] 'and covered my face with dirt,'
+  run58: [003B] ' so...'
+  run59: [003B] 'So no one would think I looked pretty...'
+  run60: [003B] 'But still,'
+  run61: [003B] ' you...'
+  run62: [003B] 'You thought I was beautiful...'
+  run63: [003B] 'I was happy,'
+  run64: [003B] ' but at the same time,'
+  run65: [003B] 'it terrified me...'
+  run66: [0001] 'Juni...'
+  run67: [0001] 'I promise you, Juni.'
+  run68: [0001] "I won't ever let anything like that"
+  run69: [0001] 'happen to you again.'
+  run70: [0001] "I don't want you to worry about what"
+  run71: [0001] 'those soldiers did to you anymore...'
+  run72: [003B] 'Xeno...'
+  run73: [003B] 'Thank you...'
+  run74: [003B] 'Hey,'
+  run75: [003B] ' close your eyes for a sec.'
+  run76: [0001] 'Huh?'
+  run77: [0001] ' Why?'
+  run78: [003B] 'Just do it!'
+  run79: [0001] 'All right,'
+  run80: [0001] ' I will...'
+  run81: [0001] '...'
+  run82: [0001] '...'
+  run83: [0001] 'Okay,'
+  run84: [0001] ' Xeno,'
+  run85: [0001] ' you can open them again.'
+  run86: [0001] 'Whoa...'
+  run87: [0210] 'I'
+  run88: [0210] "-I'm going to be brave from now on."
+  run89: [0210] 'Please,'
+  run90: [0210] ' stay with me forever,'
+  run91: [0210] ' Xeno!'
+--- rid 404
+  run0: [00E1] "Now that the war's over,"
+  run1: [00E1] ' I might be'
+  run2: [00E1] 'hard-pressed to find any work...'
+  run3: [00E1] "Maybe that's a good thing,"
+  run4: [00E1] ' though.'
+  run5: [00E1] "I haven't been home in a long time..."
+--- rid 405
+  run0: [008C] 'Off to find more work,'
+  run1: [008C] ' Vega?'
+  run2: [008C] 'Heading to Istoria?'
+  run3: [00E1] 'Krishna...'
+  run4: [00E1] 'Listen...'
+  run5: [00E1] ' I want to apologize.'
+  run6: [00E1] "I never should've taken the job with Altair."
+  run7: [00E1] 'King Geunuth was a terrible man,'
+  run8: [00E1] ' and I'
+  run9: [00E1] 'was only in it for the money back then...'
+  run10: [008C] '...Are you going back to Istoria or not?'
+  run11: [00E1] 'Well,'
+  run12: [00E1] ' yes...'
+  run13: [00E1] "Now that the war's over,"
+  run14: [00E1] " I'll be"
+  run15: [00E1] 'hard-pressed to find any work.'
+  run16: [00E1] 'I was thinking of going home to Schram.'
+  run17: [00E1] 'Why do you ask?'
+  run18: [008C] "I've had a lot of time to think,"
+  run19: [008C] ' and I'
+  run20: [008C] "think it's time I forgave you."
+  run21: [008C] "And since I'm also headed home to Istoria,"
+  run22: [008C] 'do you mind if I tag along with you?'
+  run23: [008C] "I'd definitely feel safer with a bodyguard."
+  run24: [00E1] 'A bodyguard,'
+  run25: [00E1] ' you say?'
+  run26: [00E1] "That's not a bad idea,"
+  run27: [00E1] ' actually...'
+--- rid 406
+  run0: [008C] 'Off to find more work,'
+  run1: [008C] ' Vega?'
+  run2: [008C] 'Headed to Istoria?'
+  run3: [00E1] 'Krishna...'
+  run4: [00E1] 'Listen...'
+  run5: [00E1] ' I want to apologize.'
+  run6: [00E1] "I never should've taken the job with Altair."
+  run7: [00E1] 'King Geunuth was a terrible man,'
+  run8: [00E1] ' and I'
+  run9: [00E1] 'was only in it for the money back then...'
+  run10: [008C] '...Are you going back to Istoria or not?'
+  run11: [00E1] 'Well,'
+  run12: [00E1] ' yes...'
+  run13: [00E1] "Now that the war's over,"
+  run14: [00E1] " I'll be"
+  run15: [00E1] 'hard-pressed to find any work.'
+  run16: [00E1] 'I was thinking of going home to Schram.'
+  run17: [00E1] 'Why do you ask?'
+  run18: [008C] "I've had a lot of time to think,"
+  run19: [008C] ' and I'
+  run20: [008C] "think it's time I forgave you."
+  run21: [008C] "And since I'm also headed home to Istoria,"
+  run22: [008C] 'do you mind if I tag along with you?'
+  run23: [008C] "I'd definitely feel safer with a bodyguard."
+  run24: [00E1] 'A bodyguard,'
+  run25: [00E1] ' you say?'
+  run26: [00E1] "That's not a bad idea,"
+  run27: [00E1] ' actually...'
+  run28: [00E1] "Of course you're welcome to come with me."
+  run29: [008C] 'Thank you, Vega.'
+  run30: [008C] 'We Istorians have to stick'
+  run31: [008C] 'together,'
+  run32: [008C] ' after all.'
+--- rid 413
+  run0: [003B] 'Need something,'
+  run1: [003B] ' Captain?'
+  run2: [01B0] 'I thought you were getting off here.'
+  run3: [01B0] "This is the closest we're going to get"
+  run4: [01B0] 'to Venette in the foreseeable future.'
+  run5: [003B] 'Well,'
+  run6: [003B] ' I...'
+  run7: [003B] "I don't really want to go back..."
+  run8: [01B0] 'What,'
+  run9: [01B0] ' afraid of going alone?'
+  run10: [01B0] 'I can hire someone to escort you there'
+  run11: [01B0] 'if you want me to...'
+  run12: [003B] 'Fine,'
+  run13: [003B] ' then!'
+  run14: [003B] 'If you want me gone that bad,'
+  run15: [003B] " I'll go!"
+  run16: [01B0] 'Juni...!'
+  run17: [01B0] "Don't cry,"
+  run18: [01B0] " I didn't mean it like that...!"
+  run19: [01B0] "She's already gone..."
+--- rid 414
+  run0: [008C] 'Well,'
+  run1: [008C] " isn't this a sad goodbye..."
+  run2: [008C] 'Now,'
+  run3: [008C] ' where should I go next?'
+  run4: [008C] 'I guess I could always head back'
+  run5: [008C] 'home to Istoria...'
+--- rid 415
+  run0: [016F] 'Lord Holmes,'
+  run1: [016F] ' I thought it was you!'
+  run2: [016F] 'I recognized your ship in the harbor.'
+  run3: [01B0] 'Bishop Law...'
+  run4: [016F] 'Lady Claris sent me word of what happened.'
+  run5: [016F] 'It sounds like you had quite the historic'
+  run6: [016F] 'encounter after we parted ways!'
+  run7: [016F] 'Retrieving Agneyastra,'
+  run8: [016F] ' stopping Guenchaos...'
+  run9: [016F] "You're a great hero,"
+  run10: [016F] ' Holmes.'
+  run11: [016F] "And I can't thank you enough for going"
+  run12: [016F] 'to the aid of my dear Katri.'
+  run13: [016F] 'I owe you a great debt.'
+  run14: [01B0] 'Thanks a bunch, Bishop Law...'
+  run15: [01B0] 'But I specifically asked Lady Claris'
+  run16: [01B0] 'not to send word to you,'
+  run17: [01B0] ' since I said'
+  run18: [01B0] "I'd come bring you the news myself."
+  run19: [016F] '......'
+  run20: [016F] "...It seems I've been found out."
+  run21: [01B0] 'I knew it!'
+  run22: [01B0] "I've got to say,"
+  run23: [01B0] ' you had me fooled'
+  run24: [01B0] 'for quite a while there.'
+  run25: [01B0] 'But you just knew way too much.'
+  run26: [01B0] "I won't tell Katri,"
+  run27: [01B0] ' but one of these days,'
+  run28: [01B0] 'you need to tell her yourself.'
+  run29: [01B0] 'So,'
+  run30: [01B0] " where's the real Bishop Law?"
+  run31: [016F] "He was killed by one of Maerchen's men"
+  run32: [016F] 'when he and Katri were attacked at sea.'
+  run33: [016F] "It hasn't been easy,"
+  run34: [016F] ' keeping this body'
+  run35: [016F] 'of his alive all this time.'
+  run36: [016F] "Katri would've realized at once that"
+  run37: [016F] 'something was wrong,'
+  run38: [016F] " so I couldn't risk"
+  run39: [016F] 'seeing her again...'
+  run40: [016F] "But I promise I'll tell her before I go."
+  run41: [01B0] "I'll take you at your word,"
+  run42: [01B0] ' then.'
+  run43: [01B0] 'Where is it you\'ll be "going" to,'
+  run44: [01B0] ' anyway?'
+  run45: [01B0] "Where's your real body?"
+  run46: [016F] 'Hah,'
+  run47: [016F] " you wouldn't believe me if I told you."
+  run48: [01B0] 'If you say so,'
+  run49: [01B0] ' gramps.'
+  run50: [01B0] 'I do have one last thing I want to ask'
+  run51: [01B0] 'you about,'
+  run52: [01B0] ' though,'
+  run53: [01B0] " if you'll indulge me..."
+  run54: [016F] 'Oh?'
+  run55: [016F] "And what's that,"
+  run56: [016F] ' my boy?'
+--- rid 65952
+  run0: [007E] 'Well,'
+  run1: [007E] ' Captain,'
+  run2: [007E] " it's been fun."
+  run3: [007E] "I'm gonna round up what's left of my"
+  run4: [007E] "old fellows and see if we can't do some"
+  run5: [007E] 'good around Isura and the like.'
+  run6: [01B0] '...Do I know you?'
+  run7: [007E] 'W-What?'
+  run8: [007E] "It's me,"
+  run9: [007E] ' Captain!'
+  run10: [007E] ' Maerchen!'
+  run11: [007E] 'You know,'
+  run12: [007E] ' the ex-bandit?'
+  run13: [007E] "You wouldn't forget me,"
+  run14: [007E] ' would you?'
+  run15: [01B0] 'Runan,'
+  run16: [01B0] ' do you know this guy?'
+  run17: [01F2] "I've never seen him before in my life."
+  run18: [01F2] 'I assumed he was one of your men.'
+  run19: [01B0] 'No,'
+  run20: [01B0] " he's not one of mine..."
+  run21: [007E] 'Dammit,'
+  run22: [007E] ' you...!'
+  run23: [007E] "Why don't you remember me?!"
+  run24: [01B0] "Because it's much more fun this way."
+===== /MG1/GEVMSG41.MES
+--- rid 408
+  run0: [00E0] 'Lord Runan,'
+  run1: [00E0] ' I will also return to'
+  run2: [00E0] 'Salia with the others.'
+  run3: [00E0] 'Lord Lionheart dreamed of seeing Salia'
+  run4: [00E0] 'restored,'
+  run5: [00E0] ' so as his lieutenant,'
+  run6: [00E0] ' I intend to'
+  run7: [00E0] 'see his dream through to the end.'
+  run8: [01F2] 'Good luck,'
+  run9: [01F2] ' Shirou.'
+  run10: [01F2] 'I know Lord Lionheart trusted'
+  run11: [01F2] 'you more than anyone.'
+  run12: [01F2] "I'm sure he's proud to know that you"
+  run13: [01F2] 'will carry on his final wishes.'
+  run14: [00E0] 'Thank you, Lord Runan.'
+  run15: [00E0] 'I shall devote my life to the cause.'
+--- rid 409
+  run0: [01B0] 'What are your plans,'
+  run1: [01B0] ' Renee?'
+  run2: [01B0] 'Are you returning to Blaad?'
+  run3: [0083] 'Yes...'
+  run4: [0083] 'I must pray for all those whose'
+  run5: [0083] 'lives were lost in this terrible war...'
+--- rid 410
+  run0: [019B] 'Renee...'
+  run1: [0083] 'Attrom...'
+  run2: [0083] "At least I've still got you."
+  run3: [0083] "I'm not alone..."
+  run4: [019B] "Of course you're not alone,"
+  run5: [019B] ' Renee!'
+  run6: [019B] "I'll always be there for you."
+  run7: [019B] "Let's go home,"
+  run8: [019B] ' to Blaad...'
+--- rid 65947
+  run0: [006B] 'I want to come with you too,'
+  run1: [006B] ' Attrom!'
+  run2: [019B] 'Sure,'
+  run3: [019B] ' you can come too.'
+  run4: [019B] 'I did promise the priest in Blaad'
+  run5: [019B] "that I'd take care of you."
+  run6: [006B] 'Yay!'
+  run7: [006B] 'La la la...'
