@@ -1,8 +1,6 @@
 # TearRing-Saga-KOR
 티어링 사가1 (PS) 한글패치 레포지토리
 
-<img width="875" height="714" alt="image" src="https://github.com/user-attachments/assets/31d92f57-ceb1-4723-b29c-f16b538e6e43" />
-
 
 ※ 파일 사용 전에 반드시 확인 바랍니다.
 
